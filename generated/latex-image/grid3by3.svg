@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="72" height="72" viewBox="0 0 72 72">
+<path transform="matrix(1.00006,0,0,-1,2.2949982,70.03)" d="M0 0V68.0326H45.35506V0ZM45.35506 68.0326" fill="#ffbfbf"/>
+<path transform="matrix(1.00006,0,0,-1,2.2949982,70.03)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffbfbf" d="M0 0V68.0326H45.35506V0ZM45.35506 68.0326"/>
+<g>
+<path transform="matrix(1.00006,0,0,-1,2.2949982,70.03)" d="M0 22.67752V68.0326H68.0326V22.67752ZM68.0326 68.0326" fill="#0000ff" fill-opacity=".4"/>
+<path transform="matrix(1.00006,0,0,-1,2.2949982,70.03)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#0000ff" stroke-opacity=".4" d="M0 22.67752V68.0326H68.0326V22.67752ZM68.0326 68.0326"/>
+</g>
+<path transform="matrix(1.00006,0,0,-1,2.2949982,70.03)" stroke-width=".79701" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H68.0326M0 22.67752H68.0326M0 45.35506H68.0326M0 68.02461H68.0326M0 0V68.0326M22.67752 0V68.0326M45.35506 0V68.0326M68.02461 0V68.0326M68.0326 68.0326"/>
+</svg>
