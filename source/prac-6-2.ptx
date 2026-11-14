@@ -111,7 +111,7 @@
 <exercise number="10"><statement><p>A 160-pound male burns 600 calories playing tennis for one hour. How many hours of tennis would it take to burn 3500 calories, or 1 pound of fat?</p></statement></exercise>
 
 <exercise number="11"><statement><sidebyside widths="45% 35%" valigns="middle middle"><p>Ben has a four-inch wide by six-inch long photo of himself scaling Half-Dome in Yosemite. If he has it enlarged to a poster four feet long, how wide will the poster be? 
-(Hint: How many inches are in a foot?)</p><image source="halfdome.png"></image></sidebyside></statement>
+(Hint: How many inches are in a foot?)</p><image source="halfdome.png"><description>half-dome</description></image></sidebyside></statement>
   <answer><p>32 in</p></answer></exercise>
 
 <exercise number="12"><statement><p>A general purpose bird seed contains 2 cups of sunflower seed for every 5 cups of millet. How much millet should be mixed with 5 quarts of sunflower seed? (Hint:  How many cups are in a quart?)</p></statement></exercise>
@@ -152,7 +152,7 @@
   <answer><p>He will not run at the same rate for the whole hour.</p></answer></exercise>
 
 <exercise number="22"><statement><p>It took 18 musicians 20 minutes to play a serenade by Mozart. How long would it take 36 musicians to play the same piece of music?</p>
-    <image source="haffner.png" width="70%"></image></statement></exercise>
+    <image source="haffner.png" width="70%"><description>music score</description></image></statement></exercise>
 
 <exercise number="23"><statement><p>Jacquelyn grew from 18 inches long at birth to 48 inches tall at age 7. How tall will she be at age 21?</p></statement>
   <answer><p>Her rate of growth will decrease.</p></answer></exercise>
@@ -180,8 +180,8 @@
             <cell><m>\vphantom{\dfrac{1}{2}} \hphantom{00000}</m></cell>
             <cell><m>\hphantom{00000}</m></cell></row>
         </tabular></sidebyside>
-      <image source="hp-6-2-25.png" width="60%"></image></statement>
-<answer><image source="ans-6-2-25.png" width="60%"></image><p>20 hrs</p></answer></exercise>
+      <image source="hp-6-2-25.png" width="60%"><description>grid</description></image></statement>
+<answer><image source="ans-6-2-25.png" width="60%"><description>graph</description></image><p>20 hrs</p></answer></exercise>
 
 <exercise number="26"><statement><sidebyside widths="50% 45%"><p>Megan's wages are proportional to the time she works.  Megan made $60 for 8 hours work as a lab assistant. How long will it take her to make $500?</p>
 
@@ -196,7 +196,7 @@
             <cell><m>\vphantom{\dfrac{1}{2}} \hphantom{00000}</m></cell>
             <cell><m>\hphantom{00000}</m></cell></row>
         </tabular></sidebyside>
-      <image source="hp-6-2-26.png" width="60%"></image></statement></exercise>
+      <image source="hp-6-2-26.png" width="60%"><description>grid</description></image></statement></exercise>
 
 <exercise number="27"><statement><sidebyside widths="50% 45%"><p>The cost of a turkey is proportional to its weight.  A 16-pound turkey costs $12.80.  How much does a 22-pound turkey cost?</p>
 
@@ -211,8 +211,8 @@
             <cell><m>\vphantom{\dfrac{1}{2}} \hphantom{00000}</m></cell>
             <cell><m>\hphantom{00000}</m></cell></row>
         </tabular></sidebyside>
-    <sidebyside widths="30% 60%" valigns="middle middle"><image source="turkey.png"></image><image source="hp-6-2-27.png"></image></sidebyside></statement>
-<answer><image source="ans-6-2-27.png" width="60%"></image><p>$17.60</p></answer></exercise>
+    <sidebyside widths="30% 60%" valigns="middle middle"><image source="turkey.png"><description>turkey</description></image><image source="hp-6-2-27.png"><description>grid</description></image></sidebyside></statement>
+<answer><image source="ans-6-2-27.png" width="60%"><description>graph</description></image><p>$17.60</p></answer></exercise>
 
 <exercise number="28"><statement><sidebyside widths="50% 45%"><p>The amount of pure copper produced by Copperfield Mine is proportional to the amount of ore extracted. A new lode produced 24 grams of copper from 800 grams of ore. How many grams of copper will one kilogram of ore yield??</p>
 
@@ -227,11 +227,11 @@
             <cell><m>\vphantom{\dfrac{1}{2}} \hphantom{00000}</m></cell>
             <cell><m>\hphantom{00000}</m></cell></row>
         </tabular></sidebyside>
-      <image source="hp-6-2-28.png" width="60%"></image></statement></exercise>
+      <image source="hp-6-2-28.png" width="60%"><description>grid</description></image></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>Problems 29-32 consider some formulas from geometry.</p>
-    <image source="formulas.png" width="90%"></image></introduction>
+    <image source="formulas.png" width="90%"><description>geometry formulas</description></image></introduction>
  
 <exercise number="29"><statement><p><ol marker="a.">
   <li><p>The perimeter of a square is four times the length of its side. Complete the table.</p>
@@ -252,7 +252,7 @@
   <li><p>Graph your equation, using the values in your table.</p></li>
   <li><p>Is the perimeter of a square proportional to the length of its side?</p></li>
 </ol></p>
-    <image source="hp-6-2-29.png" width="60%"></image></statement>
+    <image source="hp-6-2-29.png" width="60%"><description>grid</description></image></statement>
 <answer><p><ol marker="a.">
   <li><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor" >
@@ -268,7 +268,7 @@
             <cell>32</cell>
             <cell>44</cell></row>
         </tabular></li>
-    <li><image source="ans-6-2-29.png" width="60%"></image></li>
+    <li><image source="ans-6-2-29.png" width="60%"><description>graph</description></image></li>
     <li><p>Yes</p></li>
   </ol></p></answer></exercise>
 
@@ -291,7 +291,7 @@
   <li><p>Plot the data points on the grid below, using the values in your table, and connect them with a smooth curve.</p></li>
   <li><p>Is the circumference of a circle proportional to its radius?</p></li>
 </ol></p>
-    <image source="hp-6-2-30.png" width="60%"></image></statement></exercise>
+    <image source="hp-6-2-30.png" width="60%"><description>grid</description></image></statement></exercise>
 
 <exercise number="31"><statement><p><ol marker="a.">
   <li><p>The area of a square is the square of the length of its side. (Recall that to "square" a number means to multiply the number by itself. Complete the table.</p>
@@ -312,7 +312,7 @@
   <li><p>Plot the data points on the grid below, using the values in your table, and connect them with a smooth curve.</p></li>
   <li><p>Is the area of a square proportional to the length of its side?</p></li>
 </ol></p>
-    <image source="hp-6-2-31.png" width="60%"></image></statement>
+    <image source="hp-6-2-31.png" width="60%"><description>grid</description></image></statement>
 <answer><p><ol marker="a.">
   <li><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor" >
@@ -328,7 +328,7 @@
             <cell>36</cell>
             <cell>64</cell></row>
         </tabular></li>
-    <li><image source="ans-6-2-31.png" width="60%"></image></li>
+    <li><image source="ans-6-2-31.png" width="60%"><description>graph</description></image></li>
     <li><p>No</p></li>
   </ol></p></answer></exercise>
 
@@ -351,7 +351,7 @@
   <li><p>Plot the data points on the grid below, using the values in your table, and connect them with a smooth curve.</p></li>
   <li><p>Is the area of a circle proportional to its radius?</p></li>
 </ol></p>
-    <image source="hp-6-2-30.png" width="60%"></image></statement></exercise>
+    <image source="hp-6-2-30.png" width="60%"><description>grid</description></image></statement></exercise>
  </exercisegroup> 
 
 

@@ -10,15 +10,15 @@
     <li><p>Using Proportions</p></li>
     <li><p>Graphing Proportional Variables</p></li>
   </ul></p>
-      <image source="parthenon.png"></image></sidebyside>
+      <image source="parthenon.png"><description>Parthenon</description></image></sidebyside>
 
 <subsection><title>Proportional Variables</title>
 
 <p>Ratios can help us describe the relationship between two variables. </p>
 
-<assemblage><title>A Quick Refresher</title>
-<p>A <term>variable</term> is a numerical quantity that can take on different values at different times or in different situations.</p>  
-<p>Quantities that do not change are called <term>constants</term>.</p></assemblage>
+<assemblage><title>A Quick Refresher: Variables</title>
+    <p>A <term>variable</term> is a numerical quantity that can take on different values at different times or in different situations.</p>  
+    <p>Quantities that do not change are called <term>constants</term>.</p></assemblage>
 
 <activity xml:id="propvar"><title>Proportional Variables</title>
 
@@ -51,9 +51,9 @@
             <cell>$37.10</cell>
             <cell><m>\hphantom{00000}</m></cell></row>        
         </tabular> 
-        <image source="gaspump.png"></image></sidebyside>
+        <image source="gaspump.png"><description>picture of gas pump</description></image></sidebyside>
 
-<p>You should find that the ratio  <m>\dfrac{\text{total price}}{\text{number of gallons}}</m>, or price per gallon, is constant. It is the same for each pair of values of the variables. This result agrees with common sense:  the price per gallon of gasoline is the same no matter how many gallons you buy.</p></li>
+<p>You should find that the ratio  <m>~\dfrac{\text{total price}}{\text{number of gallons}}</m>, or price per gallon, is constant. It is the same for each pair of values of the variables. This result agrees with common sense:  the price per gallon of gasoline is the same no matter how many gallons you buy.</p></li>
 
 <li><p>The table shows the population of a town. The variable <m>\blert{\text{Years}}</m> means the age of the town, or the number of years since the town was established. <m>\blert{\text{Population}}</m>, of course, means the number of people who live in the town. Compute the ratios in the third column of the table.</p>
 
@@ -84,13 +84,13 @@
             <cell>9380</cell>
             <cell><m>\hphantom{00000}</m></cell></row>        
         </tabular> 
-        <image source="mainstreet.png"></image></sidebyside>
+        <image source="mainstreet.png"><description>picture of Main Street</description></image></sidebyside>
 
 <p>The ratios in this example, <m>\dfrac{\text{number of people}}{\text{number of years}}</m>,  give the rate of growth of the population in people per year.  You can see from the table that this ratio is not constant;  in fact, it increases as time goes on.</p></li> 
 </ol></p></activity>
 
 <assemblage><title>Definition</title>
-<p>Two variables are said to be <term>proportional</term> if their ratio is constant, or always the same.</p></assemblage> 
+    <p>Two variables are said to be <term>proportional</term> if their ratio is constant, or always the same.</p></assemblage> 
 
 <p>In Activity 6.2.1, we see that the total price of gasoline is proportional to the number of gallons you buy. On the other hand, the population of the town is not proportional to its age.</p>
   
@@ -99,7 +99,7 @@
 <example><statement><p>Tuition at Woodrow University is $30 per unit added to an enrollment fee of $100. Is the tuition proportional to the number of units you take?</p></statement>
 
 <solution><p>To compute the tuition, we multiply the number of units by 30 and add 100 to the result. For example, if you take 6 units, your tuition is
-  <me>(6 \times 30) + 100 = 280</me>
+        <md><mrow>(6 \times 30) + 100 = 280</mrow></md>
 We make a table showing several pairs of variables and compute their ratios.</p>
 
   <tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -141,7 +141,7 @@ We make a table showing several pairs of variables and compute their ratios.</p>
             <cell>480</cell>
             <cell><m>\hphantom{00000}</m></cell></row>       
         </tabular>
-          <image source="alaska.png"></image></sidebyside>
+          <image source="alaska.png"><description>picture of RV and mountains</description></image></sidebyside>
 <p>Is the distance Anouk has traveled proportional to the time she has traveled?</p></statement>
 <answer><p>Yes</p></answer></exercise>
 
@@ -170,12 +170,13 @@ We make a table showing several pairs of variables and compute their ratios.</p>
             <cell><m>4</m></cell></row>       
         </tabular>
 
-<p>From the table we see that the ratio of area to length is not constant, so the area of a square is not proportional to the length of a side.</p></solution></example>
+<p>From the table we see that the ratio of area to length is not constant, so the area of a square is not proportional to the length of a side.</p>
+</solution></example>
 
 <exercise><statement><p>Is the perimeter of a square proportional to the length of a side?</p>
 <p>Hint: Make a table of values, or recall the formula for the perimeter of a square.</p></statement>
 
-<solution><p>The perimeter of a square is given by <m>~P=4L,~</m> where <m>L</m> is the length of a side. Because <m>P</m> is a constant multiple of <m>L</m>, the perimeter is proportional to the length of a side.</p></solution></exercise>
+<answer><p>The perimeter of a square is given by <m>~P=4L,~</m> where <m>L</m> is the length of a side. Because <m>P</m> is a constant multiple of <m>L</m>, the perimeter is proportional to the length of a side.</p></answer></exercise>
 
 </subsection>
 
@@ -191,7 +192,7 @@ We make a table showing several pairs of variables and compute their ratios.</p>
 
 <exercise><statement><p>Three acres of land can support 220 apple trees. How many apple trees can you grow on 12 acres of land? Use a ratio table to find the answer.</p>
   <sidebyside widths="25% 50%" margins="5% 15%" valigns="middle middle">
-      <image source="apple.png"></image> 
+      <image source="apple.png"><description>apple</description></image> 
       <tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor" >
             <cell><m>\vphantom{\dfrac{1}{2}}</m>Acres</cell>
@@ -211,22 +212,24 @@ We make a table showing several pairs of variables and compute their ratios.</p>
 <note><p>Did you notice that we can use multiplication instead of addition to solve the two problems above? (After all, multiplication by a whole number is really just repeated addition.)</p>
 
 <p>In the Example we can multiply 5 boxes of crayons by <m>\alert{5}</m> to get 25 boxes of crayons, so we can multiply  $4.25 by <m>\alert{5}</m> to find the cost.
-    <me>\dfrac{\text{Boxes}}{\text{Cost}}: \hphantom{0000}  \dfrac{5}{4.25} \times \dfrac{\alert{5}}{\alert{5}} = \dfrac{25}{21.25}</me>
+    <md><mrow>\dfrac{\text{Boxes}}{\text{Cost}}: \hphantom{0000}  \dfrac{5}{4.25} \times \dfrac{\alert{5}}{\alert{5}} = \dfrac{25}{21.25}</mrow></md>
 The ratio of Boxes to Cost is not changed if we multiply both Boxes and Cost by the same number. This is the same principle that allows us to build a fraction, so we call this the <term>build-up</term> strategy for solving a problem about proportional variables, and we call <m>\alert{5}</m> the <term>scale factor</term>.</p>
 
 <p>Try the build-up strategy on Checkpoint 6.2.6.
-    <me>\dfrac{\text{Acres}}{\text{Trees}}: \hphantom{0000}  \dfrac{3}{220} \times   \hphantom{0000000}</me></p></note>                 
+    <md><mrow>\dfrac{\text{Acres}}{\text{Trees}}: \hphantom{0000}  \dfrac{3}{220} \times   \hphantom{0000000}</mrow></md></p></note>  
+
 <example><statement><p>Walking on a treadmill at 3 miles per hour for one hour burns 219 calories. How many calories will Shayla burn if she walks for 20 minutes?</p></statement>
 
 <solution><p>The number of calories you burn is proportional to the time you walk. Because 20 minutes is <m>\frac{1}{3}</m> of an hour, we should multiply the number of calories by <m>\frac{1}{3}</m> also. (We are using the build-up strategy, with a scale factor of <m>\frac{1}{3}</m>.) In 20 minutes Shayla will burn
-  <me>\dfrac{1}{3} \times 219 = 73~~ \text{calories}</me></p></solution></example>
+    <md><mrow>\dfrac{1}{3} \times 219 = 73~~ \text{calories}</mrow></md></p>
+</solution></example>
 
 <p>The relationship between proportional variables is a very simple and useful one. The ratio between the variables must stay constant. So if we multiply one variable by a scale factor, we know exactly what will happen to the other variable.  If you double the amount of gasoline you buy, say from 6 gallons to 12 gallons, the price will also double. If you have 4 times the amount of land, you can plant 4 times as many apple trees.</p>
 
 <exercise><statement><p>The table shows the amount of some foreign currencies you could buy with ten US dollars on April 17, 2016. Complete the table to show how much you could buy with a US 20-dollar bill.</p>
 
 <sidebyside widths="40% 50%" margins="0% 5%" valigns="middle middle">
-      <image source="currency.png"></image> 
+      <image source="currency.png"><description>currency</description></image> 
       <tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor" header="yes">
             <cell><m>\vphantom{\dfrac{1}{2}}</m>Currency</cell>
@@ -290,21 +293,22 @@ The ratio of Boxes to Cost is not changed if we multiply both Boxes and Cost by 
 <example><statement><p>Six bottles of VeryBerry soda costs $10.50. How much would 10 bottles cost?</p></statement>
 
 <solution><p>The cost of the soda is proportional to the number of bottles you buy. But 10 is not a nice multiple of 6, so instead we'll calculate the unit cost of a bottle of soda. We'll simplify the ratio by dividing top and bottom by 6.
-    <me>\dfrac{\text{Cost}}{\text{Bottles}}: \hphantom{00}  \dfrac{10.50}{6} \div \dfrac{6}{6} = \dfrac{1.75}{1}</me>
+    <md><mrow>\dfrac{\text{Cost}}{\text{Bottles}}: \hphantom{00}  \dfrac{10.50}{6} \div \dfrac{6}{6} = \dfrac{1.75}{1}</mrow></md>
 One bottle of VeryBerry Soda costs $1.75. So 10 bottles cost
-    <me>10 \times 1.75 = 17.5</me>
+    <md><mrow>10 \times 1.75 = 17.5</mrow></md>
 or $17.50.</p></solution></example>
 
 <exercise><statement><p>Jayden drove 132 miles on 5 gallons of gas. How far can he drive on a full tank of 18 gallons?  Use the unit rate strategy to find the answer. Start with a ratio.
-    <me>\dfrac{\text{Miles}}{\text{Gallons}}: \hphantom{0000000000000000000}</me></p></statement>
-<answer><p><me>\dfrac{\text{Miles}}{\text{Gallons}}= \dfrac{132~ \text{miles}}{5~ \text{gallons}} = 26.4~ \text{miles per gallon}</me>
+    <md><mrow>\dfrac{\text{Miles}}{\text{Gallons}}: \hphantom{0000000000000000000}</mrow></md></p></statement>
+
+<answer><p><md><mrow>\dfrac{\text{Miles}}{\text{Gallons}}= \dfrac{132~ \text{miles}}{5~ \text{gallons}} = 26.4~ \text{miles per gallon}</mrow></md>
 So on 18 galllons of gas Jayden can drive
-    <me>18 \times 26.4 = 475.2~ \text{miles}</me></p></answer></exercise>
+    <md><mrow>18 \times 26.4 = 475.2~ \text{miles}</mrow></md></p></answer></exercise>
 
 <activity><title>Using Proportions</title>
 
 <p>A 6-inch turkey submarine sandwich contains 282 calories. How many calories are there in a 15-inch turkey sandwich?</p>
-    <image source="turkeysub.png" width="45%"></image>
+    <image source="turkeysub.png" width="45%"><description>submarine sandwich</description></image>
 
 <p>We'll compare three different strategies to solve the problem.<ol>
   <li><p>Complete the ratio table and use it to answer the question.</p>
@@ -346,9 +350,10 @@ So on 18 galllons of gas Jayden can drive
 
 <p>Earlier we saw that the build-up strategy works because we can build or reduce a fraction without changing its value.  Now let us see why the unit rate strategy works.</p> 
 
+<assemblage><title>A Quick Refresher: Opposite Operations</title>
 <p>Recall that multiplication and division are opposite operations. Every division fact can be written as a multiplication fact, and vice versa.  For example,
-    <me>\dfrac{15}{3} = 5 ~~   \text{because}  ~~  3 \times 5 = 15</me>
-We'll use this relationship in the next Example.</p>
+    <md><mrow>\dfrac{15}{3} = 5 ~~   \text{because}  ~~  3 \times 5 = 15</mrow></md>
+We'll use this relationship in the next Example.</p></assemblage>
 
 <example><statement><p>How much sugar is in a 16-ounce serving of cola?</p></statement>
 
@@ -369,7 +374,7 @@ We'll use this relationship in the next Example.</p>
 
 <p>Because the amount of sugar is proportional to the size of the serving, the ratio <m>\dfrac{\text{grams of sugar}}{\text{ounces of cola}}</m> is constant:
 
-  <me>\dfrac{\text{grams of sugar}}{\text{ounces of cola}} = \dfrac{36}{12} = \dfrac{60}{20} = \dfrac{102}{34} = 3</me>
+  <md><mrow>\dfrac{\text{grams of sugar}}{\text{ounces of cola}} = \dfrac{36}{12} = \dfrac{60}{20} = \dfrac{102}{34} = 3</mrow></md>
  
 So <m>\blert{3}</m> is the unit rate for <m>\dfrac{\text{grams of sugar}}{\text{ounces of cola}}</m>. And because of the relationship between multiplication and division, we see that
 
@@ -377,15 +382,15 @@ So <m>\blert{3}</m> is the unit rate for <m>\dfrac{\text{grams of sugar}}{\text{
         <mrow>\text{grams of sugar} = \blert{3} \times \text{ounces of cola}</mrow></md>
 
 In particular, to answer the question in the problem,
-    <me>\text{grams of sugar} = 3 \times 16 = 48</me>
+    <md><mrow>\text{grams of sugar} = 3 \times 16 = 48</mrow></md>
 We have used the unit rate strategy to see that there are 48 grams of sugar in a 16-ounce serving of cola.</p></solution>
 </example>
 
 <exercise><statement><sidebyside widths="60% 30%" valigns="middle middle"><p>In Example 6.2.12 we saw that there are 3 grams of sugar in each ounce of cola. Five teaspoons of sugar is equivalent to 21 grams of sugar. How many teaspoons of sugar are there in a 12-ounce can of cola?</p>
-  <image source="sugar.png"></image></sidebyside>
+  <image source="sugar.png"><description>glass of cola and sugar</description></image></sidebyside>
 <p>Hint: First compute the unit rate <m>~\dfrac{\text{teaspoons of sugar}}{\text{grams of sugar}}.</m></p></statement>
-<answer><p>8.57 teaspoons</p></answer></exercise>
 
+<answer><p>8.57 teaspoons</p></answer></exercise>
 </subsection>
 
 <subsection><title>Graphing Proportional Variables</title>
@@ -493,7 +498,7 @@ We have used the unit rate strategy to see that there are 48 grams of sugar in a
       <li><p>Plot the data for Delbert's copying fees on the grid. (Include a point for the cost of copying 0 pages.)</p></li>
       <li><p>Connect the data points with a straight line.</p></li>
     </ol></p>
-      <image source="copyfees.png" width="70%"></image></li>
+      <image source="copyfees.png" width="70%"><description>grid 0 to 40 by 0 to 288</description></image></li>
 
   <li><p><ol marker="a.">
       <li><p>Similarly, plot the data for Francine's copying fees on the same grid, and connect them with a straight line.</p></li>
@@ -510,9 +515,7 @@ We have used the unit rate strategy to see that there are 48 grams of sugar in a
 </ol></p></assemblage>
 
 <note><p>You might want to compare the graphs of copying costs in Activity 6.2.3 with the graph of tuition from Example 6.2.1, shown below. Recall that the cost of tuition was not proportional to the number of units you take, and the graph does not pass through the point <m>(0,0)</m>.</p>
-        <image xml:id="Tuition" width="50%">
-    <description>Graph of T=100+30u</description>
-    <latex-image>
+        <image xml:id="Tuition" width="50%"><description>Graph of T=100+30u</description><latex-image>
     <![CDATA[
     \begin{tikzpicture} [scale =.45]
     \draw[cyan] (0,0) grid (10,12);
@@ -528,8 +531,7 @@ We have used the unit rate strategy to see that there are 48 grams of sugar in a
     \filldraw[magenta] (4,34/5) circle (.15);
     \filldraw[magenta] (15/2,11) circle (.15);
     \end{tikzpicture}]]>
-</latex-image>
-</image></note> 
+</latex-image></image></note> 
 
 <p>We can recover information about proportional variables from their graphs. Here is a reminder about reading points on a graph.</p>
 
@@ -544,22 +546,20 @@ We have used the unit rate strategy to see that there are 48 grams of sugar in a
   <li><p>What is the unit cost of the granola, in cents per ounce?</p></li>
   <li><p>If we extend the graph to include 25 ounces of granola, how much taller should we make the vertical axis?</p></li>
 </ol></p>
-    <image source="granola.png"></image></sidebyside></statement>
+    <image source="granola.png"><description>graph of y=30x cents vs ounces</description></image></sidebyside></statement>
 
 <solution><p><ol marker="a.">
   <li><p>We read the ounces and cents values for each of the three points. The standard containers are 10 ounces for $3.00, 16 ounces for $4.80, and 24 ounces for $7.20.</p></li>
   <li><p>To find the unit cost, we compute the ratio of cost to ounces. 
-      <me>\dfrac{\text{300 cents}}{\text{10 ounces}} = \text{30 cents per ounce}</me></p></li>
+      <md><mrow>\dfrac{\text{300 cents}}{\text{10 ounces}} = \text{30 cents per ounce}</mrow></md></p></li>
   <li><p>25 ounces would cost  
-        <me>\text{(25 ounces)} \times \text{(30 cents per ounce)} = \text{750 cents}</me>
+        <md><mrow>\text{(25 ounces)} \times \text{(30 cents per ounce)} = \text{750 cents}</mrow></md>
     So we would need to extend the vertical axis by another 30 units, to 750.</p></li>
 </ol></p></solution></example>
 
 <exercise><statement><p>Esme and Marya both work part-time as data-entry technicians at different companies. The graph shows their earnings in terms of the number of hours they work.</p>
     <!-- <image source="earnings.png" width="45%"></image> -->
-    <image xml:id="earnings" width="45%">
-        <description>vector</description>
-        <latex-image>
+    <image xml:id="earnings" width="45%"><description>graph of y=15x and y=20x</description><latex-image>
         <![CDATA[
         \begin{tikzpicture} [scale =.45]
         \draw[cyan] (0,0) grid (10,13);

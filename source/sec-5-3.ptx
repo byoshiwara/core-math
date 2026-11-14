@@ -9,7 +9,7 @@
     <li><p>Writing an Equation</p></li>
     <li><p>Modeling a Problem</p></li>
   </ul></p>
-      <image source="mindgears.png"></image></sidebyside> 
+      <image source="mindgears.png"><description>mindgears</description></image></sidebyside> 
   
 <subsection><title>Using Formulas</title>
 
@@ -17,12 +17,12 @@
 
 <assemblage><title>A Quick Refresher</title>
 <p>We have solved equations by undoing the operation performed on the variable.  For example, in the equation
-      <me>4x = 28</me>
+      <md><mrow>4x = 28</mrow></md>
 the variable <m>x</m> is multiplied by 4, so we divide both sides of the equation by 4:
       <md><mrow>\dfrac{4x}{\blert{4}} \amp = \dfrac{28}{\blert{4}} \hphantom {0000} \blert{\text{Divide both sides by 4.}}</mrow>
           <mrow> x \amp = 7</mrow></md>
 The solution is 7.  We can check the solution by substituting <m>\alert{7}</m> for  in the equation.
-    <me>\text{Check:}~~~~4(\alert{7}) = 28~~~~ \blert{\text{True.}}</me>                                                  
+    <md><mrow>\text{Check:}~~~~4(\alert{7}) = 28~~~~ \blert{\text{True.}}</mrow></md>                                                  
 Because this statement is true, 7 is indeed the solution.</p></assemblage>
 
 <example><statement><p>How long will it take Rudi to swim one mile if she can swim at a rate of 50 yards per minute?</p></statement>
@@ -80,11 +80,11 @@ The number is 28.</p></solution></example>
 </ol></p></answer></exercise>
 
 <assemblage><title><m>\blert{\large{\text{PATIENCE!}}}</m></title>
-<sidebyside widths="20% 70%" valigns="middle middle"><image source="annoyed.png"></image>
+<sidebyside widths="20% 70%" valigns="middle middle"><image source="annoyed.png"><description>annoyed</description></image>
 <p>Yes, we know that you can solve these problems in your head!</p></sidebyside>  
 <p>But the point is not the answers to the problems, the point is to 
-  <me>\blert{\text{practice writing algebraic equations!}}</me></p>
-<sidebyside widths="80% 12%" valigns="middle middle"><p>which can help us solve much harder (and more realistic) problems once we have developed the necessary skills.</p><image source="happy.png"></image></sidebyside></assemblage>
+    <md><mrow>\blert{\text{practice writing algebraic equations!}}</mrow></md></p>
+<sidebyside widths="80% 12%" valigns="middle middle"><p>which can help us solve much harder (and more realistic) problems once we have developed the necessary skills.</p><image source="happy.png"><description>happy</description></image></sidebyside></assemblage>
 
 </subsection>
 
@@ -97,13 +97,13 @@ The number is 28.</p></solution></example>
 <solution><p>Follow the steps to write an equation.</p>
 
 <p>Step 1:  What are we asked to find in the problem?  Choose a variable to represent it.
-    <me>\blert{\text{Calories from carbohydrates:} ~C}</me></p>
+    <md><mrow>\blert{\text{Calories from carbohydrates:} ~C}</mrow></md></p>
 
 <p>Step 2:  Find something in the problem that we can express in two different ways.
-    <me>\blert{\text{Ratio of carb calories to protein calories}}</me></p>
+    <md><mrow>\blert{\text{Ratio of carb calories to protein calories}}</mrow></md></p>
 
 <p>Write an equation using the two expressions.
-    <me>\dfrac{\blert{\text{Carb calories}}}{\blert{\text{Protein calories}}}:~~~~~~\dfrac{C}{450} = \dfrac{3}{2} ~~~~~~\blert{\text{Ratio of 3 to 2.}}</me></p>
+    <md><mrow>\dfrac{\blert{\text{Carb calories}}}{\blert{\text{Protein calories}}}:~~~~~~\dfrac{C}{450} = \dfrac{3}{2} ~~~~~~\blert{\text{Ratio of 3 to 2.}}</mrow></md></p>
 
 <p>Step 3:  Solve the equation.
     <md><mrow>\dfrac{C}{450} \amp = \dfrac{3}{2}~~~~~~~~~~~~~~{\blert{\text{Multiply both sides by 450.}}}</mrow>
@@ -111,7 +111,7 @@ The number is 28.</p></solution></example>
         <mrow>C \amp = 675</mrow></md></p>
 
 <p>Answer the question in the problem.
-    <me>\blert{\text{You should eat 675 calories of carbohydrates.}}</me></p>
+    <md><mrow>\blert{\text{You should eat 675 calories of carbohydrates.}}</mrow></md></p>
 </solution></example>
 
 <note><p>Observe some things about our solution:</p>

@@ -9,35 +9,35 @@
     <li><p>Finding Solutions: Opposite Operations</p></li>
     <li><p>Isolating the Variable</p></li>
   </ul></p>
-      <image source="scales.png" width="400%"></image></sidebyside>
+      <image source="scales.png" width="400%"><description>scales</description></image></sidebyside>
 
 <subsection><title>What Is an Equation?</title>
 
 <assemblage><title>Equations in Arithmetic</title>
 <p><ul>
   <li><p>In arithmetic, an equals sign usually tells you to perform a calculation. If you were given the problem
-      <me>5 \times 12 =  <fillin></fillin></me>                   
+      <md><mrow>5 \times 12 =  <fillin></fillin></mrow></md>                   
 you would respond by filling in the blank:  <m>5 \times 12 = 60</m>.</p>  
 <p>In this problem the equals sign is like a command to perform some mathematical task; it prompts you to give an answer.</p></li>  
   <li><p>An equals sign can also be used to show the result of a simplification. It says: Here is a simpler form of the same expression. Here is an example of this use of the equals sign.
-    <me>8 + 15 + 3 + 24 = 50</me></p></li>
+      <md><mrow>8 + 15 + 3 + 24 = 50</mrow></md></p></li>
   </ul></p></assemblage>
 
   <p>In algebra, we often use the equals sign in a completely different way, to show a relationship between two algebraic expressions. When we write
-      <me>\blert{\large{\text{Delbert's age}~~~~ = ~~~ \text{Francine's age}~~~~ + ~~~6}}</me>
+      <md><mrow>\blert{\large{\text{Delbert's age}~~~~ = ~~~ \text{Francine's age}~~~~ + ~~~6}}</mrow></md>
   we are describing the relationship between Delbert's age and Francine's age. Such a statement is called an <term>equation</term>.</p>
 
 <assemblage><title>Definition</title>
 <p>An <term>equation</term> is a mathematical statement that two algebraic expressions are equal.</p></assemblage>
 
 <note><p>We can use variables to write equations. For example,     
-  <me>D = F + 6</me>
+    <md><mrow>D = F + 6</mrow></md>
 where <m>D</m> and <m>F</m> stand for Delbert's age and Francine's age. Finding relationships between variables and describing them as equations is an important algebraic skill.</p></note>
 
 <example><statement><p>During a sales event, The Home Store offers $50 off the price of any sofa. Write an equation that gives the sale price, <m>S</m>, in terms of the regular price, <m>P</m>.</p></statement>
 
 <solution><p>The sale price is $50 less than the regular price, so to find <m>S</m> we subtract $50 from <m>P</m>.
-    <me>S = P - 50</me></p></solution></example>
+    <md><mrow>S = P - 50</mrow></md></p></solution></example>
 
 <note><p>The instruction  "Write an equation for <m>\alert{S}</m> in terms of <m>P</m>" means to start with "<m>\alert{S} = </m>". After the equals sign, we write an algebraic expression that involves <m>P</m> and describes <m>S</m>.</p></note>
 
@@ -164,14 +164,14 @@ where <m>D</m> and <m>F</m> stand for Delbert's age and Francine's age. Finding 
 <subsection><title>The Solution of an Equation</title>
 
 <sidebyside widths="60% 30%"><p>An <term>equation</term> is a statement that two expressions are equal. An equation  can be true or false. For example, the equation
-  <me>3 + 4 = 7~~~~~~~~~~~~~~~~~\blert{\large{\text{True!}}}</me>
+    <md><mrow>3 + 4 = 7~~~~~~~~~~~~~~~~~\blert{\large{\text{True!}}}</mrow></md>
 is true, but the equation
-  <me>16 - 10 = 2~~~~~~~~~~~~~~~~\alert{\large{\text{False!}}}</me>
+    <md><mrow>16 - 10 = 2~~~~~~~~~~~~~~~~\alert{\large{\text{False!}}}</mrow></md>
 is false.</p>
-  <image source="eqn.png"></image></sidebyside>
+  <image source="eqn.png"><description>equation</description></image></sidebyside>
 
 <p>If an equation contains a variable it can be true or false, depending on the value of the variable. The equation
-    <me>x + 5 = 9</me>
+    <md><mrow>x + 5 = 9</mrow></md>
 is true if the value of <m>x</m> is 4, but false if <m>x</m> has any other value.</p>
 
 <assemblage><title>Definition</title>
@@ -182,9 +182,9 @@ is true if the value of <m>x</m> is 4, but false if <m>x</m> has any other value
 <example><statement><p>Decide whether 28 is a solution of the equation <m>6z=178</m>.</p></statement>
 
 <solution><p>We substitute 28 for <m>z</m> in the equation <m>6z=178</m>.
-  <me>6 (28) = 178 ?</me>
+    <md><mrow>6 (28) = 178 ?</mrow></md>
 Multiply 6 times 28 to see if a true statement results.
-  <me>168 = 178? ~~~~~~~~\blert{\large{\text{False!}}}</me>
+    <md><mrow>168 = 178? ~~~~~~~~\blert{\large{\text{False!}}}</mrow></md>
 The statement is false, so 28 is not a solution of the equation <m>6z=178</m>.</p></solution></example>
 
 <exercise><statement><p><ol marker="a.">
@@ -203,7 +203,7 @@ The statement is false, so 28 is not a solution of the equation <m>6z=178</m>.</
 <subsection><title>Finding Solutions: Opposite Operations</title>
 
 <sidebyside widths="68% 20%" margins="0% 12%"><stack><p>To <term>solve</term> an equation means to find its solution (or solutions).</p>
-<p> Some equations are easy to solve; you can see the solution just by thinking about it. For example, the equation <m>x=5</m> is very easy to solve; its solution is 5.</p></stack><image source="spyglass.png"></image></sidebyside>  
+<p> Some equations are easy to solve; you can see the solution just by thinking about it. For example, the equation <m>x=5</m> is very easy to solve; its solution is 5.</p></stack><image source="spyglass.png"><description>magnifying glass</description></image></sidebyside>  
 
 <p>We can solve more complicated equations by transforming them into simple ones. Of course, we must do this in a way that the new equation has the same solution as the original equation.</p>
 
@@ -280,8 +280,8 @@ The statement is false, so 28 is not a solution of the equation <m>6z=178</m>.</
 <subsection xml:id="solve1"><title>Isolating the Variable</title>
 
 <sidebyside widths="70% 25%" valigns="middle middle"><stack><p>Consider the equation
-    <me>x - 6 = 4</me>
-You can check that the solution to this easy equation is 10. Even though you can solve the equation in your head, we'll use it as an example to demonstrate techniques for solving more complicated equations.</p></stack><image source="keepcalm.png"></image></sidebyside>
+    <md><mrow>x - 6 = 4</mrow></md>
+You can check that the solution to this easy equation is 10. Even though you can solve the equation in your head, we'll use it as an example to demonstrate techniques for solving more complicated equations.</p></stack><image source="keepcalm.png"><description>keep calm</description></image></sidebyside>
 
 <p>We'd like to transform the equation <m>x - 6 = 4</m> into the simpler equation <m>x = 10</m>. By undoing any operations performed on <m>x</m> we will <term>isolate</term> the variable on one side of the equals sign, with the solution on the other side.</p>
 
@@ -291,7 +291,7 @@ You can check that the solution to this easy equation is 10. Even though you can
 
 <solution><p>We'll use the following steps.</p>
 <p>Step 1:  Ask yourself:  What operation has been performed on <m>x</m>?
-    <me>\alert{6}~~ \blert{\text{has been}}~ \alert{\text{subtracted}}~ \blert{\text{from}~x.}</me></p>
+    <md><mrow>\alert{6}~~ \blert{\text{has been}}~ \alert{\text{subtracted}}~ \blert{\text{from}~x.}</mrow></md></p>
 <p>Step 2: We perform the opposite operation on both sides of the equation. The opposite operation for subtraction is addition.
     <md><mrow>x - 6 \amp = 4</mrow>
         <mrow>~~\underline{+ 6} \amp \hphantom{=} \underline{+ 6} \amp \alert{\text{Add 6}}~\blert{\text{to both sides of the equation.}}</mrow> 
@@ -324,7 +324,7 @@ It is a good idea to perform the check as part of the solution process.</p>
 <p><ol>
   <li><p><m>\blert{\text{Example 1}}~~</m>Solve the equation <m>~4x = 32</m></p>
     <p>Step 1:  What operation has been performed on <m>x</m>?
-        <me>\blert{x~ \text{has been multiplied by 4.}}</me></p>
+        <md><mrow>\blert{x~ \text{has been multiplied by 4.}}</mrow></md></p>
     <p>Step 2: Perform the opposite operation on both sides of the equation.
         <md><mrow>\dfrac{4x}{\alert{4}} \amp = \dfrac{32}{\alert{4}} \hphantom{000000} \blert{\text{Divide both sides by 4.}}</mrow>
             <mrow> x \amp = 8</mrow></md>
@@ -338,7 +338,7 @@ It is a good idea to perform the check as part of the solution process.</p>
 
   <li><p><m>\blert{\text{Example 2}}~~</m>Solve the equation <m>~x+8.3 = 24</m></p>
     <p>Step 1:  What operation has been performed on <m>x</m>?
-        <me>\blert{8.3~ \text{has been added to}~x.}</me></p>
+            <md><mrow>\blert{8.3~ \text{has been added to}~x.}</mrow></md>></p>
     <p>Step 2: Perform the opposite operation on both sides of the equation.
         <md><mrow>x + 8.3 \amp = 24 \hphantom{000000} \blert{\text{Subtract 8.3 from both sides.}}</mrow>
             <mrow> \underline{\alert{-8.3}} \amp = \underline{\alert{-8.3}}</mrow>
@@ -353,7 +353,7 @@ It is a good idea to perform the check as part of the solution process.</p>
 
     <li><p><m>\blert{\text{Example 3}}~~</m>Solve the equation <m>~\dfrac{x}{6} = 12</m></p>
     <p>Step 1:  What operation has been performed on <m>x</m>?
-        <me>\blert{x~ \text{has been divided by 6.}}</me></p>
+          <md><mrow>\blert{x~ \text{has been divided by 6.}}</mrow></md></p>
     <p>Step 2: Perform the opposite operation on both sides of the equation.
         <md><mrow>\alert{6}\left(\dfrac{x}{6}\right) \amp = (12)\alert{6} \hphantom{000000} \blert{\text{Multiply both sides by 6.}}</mrow>
             <mrow> x \amp = 72</mrow></md>
@@ -367,7 +367,7 @@ It is a good idea to perform the check as part of the solution process.</p>
   </ol></p></activity>
 
   <note><p>Even if you can solve these equations in your head, you should still learn to write down the solution steps!</p>
-      <image source="brain.png" width="40%"></image>
+      <image source="brain.png" width="40%"><description>brain</description></image>
     <p>The method of isolating the variable can help us solve more complicated equations that are harder to solve mentally.</p>
   </note> 
  

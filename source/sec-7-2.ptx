@@ -29,9 +29,9 @@
 <subsection><title>Subtracting a Positive Number</title>
 
 <p>Compare the two number lines shown below. The first number line illustrates the addition problem
-    <me>(+8) + (-3)</me>
+    <md><mrow>(+8) + (-3)</mrow></md>
 The second number line illustrates the subtraction problem
-    <me>(+8) - (+3)</me></p>
+    <md><mrow>(+8) - (+3)</mrow></md></p>
 
 <image source="subtpos.png"></image>
 
@@ -80,13 +80,13 @@ The second number line illustrates the subtraction problem
 
 <solution><p><ol marker="a.">
 <li><p>Subtracting 10 gives the same result as adding <m>-10</m>, so we can write
-    <me> 6 - (+10) = 6 +(-10)</me>
+    <md><mrow>6 - (+10) = 6 +(-10)</mrow></md>
   To add two numbers with opposite signs we subtract their unsigned parts to get  <m>10 - 6 = 4</m>.  And because 10 is greater than 6, the answer is negative. Thus
-      <me>6 - (+10) = 6 +(-10) = -4</me></p></li>
+      <md><mrow>6 - (+10) = 6 +(-10) = -4</mrow></md></p></li>
 <li><p>Subtracting 3 gives the same result as adding <m>-3</m>, so we can write
-    <me> -4 - (+3) = -4 +(-3)</me>
+    <md><mrow> -4 - (+3) = -4 +(-3)</mrow></md>
   To add two numbers with the same sign we add their unsigned parts to get <m>4 + 3 = 7</m>.  And because both numbers are negative, the answer is negative. Thus
-      <me>-4 - (+3) = -4 +(-3) = -7</me></p></li>
+      <md><mrow>-4 - (+3) = -4 +(-3) = -7</mrow></md></p></li>
 </ol></p></solution></example>
 
 <p>If you feel confident with adding signed numbers, with a little practice you'll be able to do these subtraction problems in your head. Until then, don't hesitate to write down the calculation.</p>
@@ -106,14 +106,14 @@ The second number line illustrates the subtraction problem
 <subsection><title>Subtracting a Negative Number</title>
 
 <p>What does it mean to subtract a negative number?  Consider the problem
-    <me>2 - (-5)</me>
+    <md><mrow>2 - (-5)</mrow></md>
 If we use a number line to help us, we begin by plotting the first number, 2. We should then move five units away, but in which direction? Recall that when we add <m>-5</m>, we move to the left.</p>
 
 <p> But there are only two directions on the number line, so when we subtract <m>-5</m>, we must move to the right. We finish the problem as shown below, to obtain an answer of <m>+7</m>.</p>
     <image source="subtneg.png" width="60%"></image>
 
 <p>Subtracting <m>-5</m> on the number line looks the same as adding <m>+5</m>. In both problems we move 5 units to the right, and in both problems the answer is 7.
-    <me> 2 - (-5) = 7 ~~~~ \text{and} ~~~~2 + (+5) = 7 </me></p>
+    <md><mrow>2 - (-5) = 7 ~~~~ \text{and} ~~~~2 + (+5) = 7 </mrow></md></p>
 
 <assemblage><title>Subtracting a Negative Number</title>
   <p>Subtracting a negative number gives the same result as adding a positive number. For both operations, we move to the right on the number line.</p></assemblage>
@@ -180,11 +180,11 @@ debt of $500 has the same effect as adding $500 to your account!</p></note>
   <li><p>Subtracting positive 3 is the same as adding negative 3, and we rewrite the difference as a sum as follows.</p>
           <image source="difftosuma.png" width="60%"></image>
       <p>Now we can use the Rules for Addition. To add two numbers with the same sign we add their unsigned parts to get  <m>4 + 3 = 7</m>.  And because both numbers are negative, the answer is negative.  Thus
-          <me>-4 - (+3) = -4 + (-3) = -7</me></p></li>
+          <md><mrow>-4 - (+3) = -4 + (-3) = -7</mrow></md></p></li>
   <li><p>Subtracting -12  is the same as adding 12, so</p>
             <image source="difftosumb.png" width="60%"></image>
       <p>Now we use the Rules for Addition:  Because <m>-8</m>  and <m>+12</m>  have opposite signs, we subtract their unsigned parts to get  <m>12 - 8 = 4</m>.  And because 12 is larger than 8, the answer is positive. Thus,
-            <me>-8 - (-12) = -8 + (+12) = 4</me></p></li>
+            <md><mrow>-8 - (-12) = -8 + (+12) = 4</mrow></md></p></li>
 </ol></p></solution></example>
 
 <exercise><statement><p>Rewrite each subtraction problem as an equivalent addition problem, then compute.<ol marker="a." cols="2">
@@ -200,7 +200,7 @@ debt of $500 has the same effect as adding $500 to your account!</p></note>
 <activity><title>Net Change</title>
 
 <p>We compute the <term>net change</term> in a quantity by subtracting its initial value from its final value.
-    <me>\blert{\text{net change} = \text{final value} - \text{initial value}}</me>
+    <md><mrow>\blert{\text{net change} = \text{final value} - \text{initial value}}</mrow></md>
 Notice that if the final value is smaller than the initial value, the net change is negative.</p>
 
 <p><ol>
@@ -234,7 +234,7 @@ Notice that if the final value is smaller than the initial value, the net change
           <image source="solaria.png" width="75%"></image>
     <p><ol marker="a.">
         <li><p>In 2008, Solaria posted 4 million dollars in sales. What was its sales total in 2009?
-              <me>4 + 2.5 = <fillin></fillin>~ \text{million dollars}</me></p></li>
+             <md><mrow>4 + 2.5 = <fillin></fillin>~ \text{million dollars}</mrow></md></p></li>
         <li><p>Complete the table showing Solaria's sales totals for the next five years.</p>
             <tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor" >
@@ -261,10 +261,10 @@ Notice that if the final value is smaller than the initial value, the net change
 <subsection xml:id="notation"><title>Notation</title>
 
 <p>We have now used the symbol "<m>-</m>"  in two different ways:  to indicate subtraction and to denote a negative number. We will have to be careful not to confuse these two different meanings. So far, we have been careful to include the sign of a number inside parentheses, to distinguish it from the operation symbol for adding or subtracting. But you won't always be provided with these helpful hints. Consider the expression
-    <me>-8 - 13</me></p>
+    <md><mrow>-8 - 13</mrow></md></p>
 
 <p>We can read this expression as "negative 8 subtract 13." Or, changing to an equivalent addition problem, we get
-    <me>-8 + (-13)</me></p>
+    <md><mrow>-8 + (-13)</mrow></md></p>
 
 <p>You can check that both these expressions yield the same result, <m>-21</m>. After all, we perform subtraction by changing to an equivalent addition problem. So why not interpret <m>~-8 - 13~</m> as a sum in the first place?</p>
 
@@ -275,7 +275,7 @@ Notice that if the final value is smaller than the initial value, the net change
 </assemblage>
 
 <p>For example, the expression
-      <me> 4 - 9 + 6 - 2</me>
+      <md><mrow> 4 - 9 + 6 - 2</mrow></md>
 means "add <m>4</m> and <m>-9</m> and <m>6</m> and <m>-2</m>," to get <m>-1</m>.</p>
 
 <note><p>Interpreting such expressions as a sum of signed numbers will be important when we get to solving equations with signed numbers.</p></note>
@@ -297,7 +297,7 @@ means "add <m>4</m> and <m>-9</m> and <m>6</m> and <m>-2</m>," to get <m>-1</m>.
 <activity><title>Profit and Loss</title>
 
 <p>Here is a formula for calculating profit.
-    <me>\blert{\text{Profit} = \text{Revenue} - \text{Cost}}</me>
+    <md><mrow>\blert{\text{Profit} = \text{Revenue} - \text{Cost}}</mrow></md>
 
 Revenue is the amount of money a company takes in from selling its product. They have to subtract their operating costs from their revenue to calculate their profit. If a company's costs exceed its revenues, their profit will be negative, which means that the company will experience a loss.</p>
 

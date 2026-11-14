@@ -64,29 +64,29 @@
 <exercisegroup cols="2">
     <introduction><p>For Problems 9-12, draw a line to show one-half of the figure.</p></introduction>
 
-<exercise number="9"><statement><p><image source="hp-1-1-9.png" width="35%"></image></p></statement>
-<answer><image source="ans-1-1-9.png" width="30%"></image></answer></exercise>
+<exercise number="9"><statement><p><image source="hp-1-1-9.png" width="35%"><description>triangle</description></image></p></statement>
+<answer><image source="ans-1-1-9.png" width="30%"><description>triangle</description></image></answer></exercise>
 
-<exercise number="10"><statement><p><image source="hp-1-1-10.png" width="35%"></image></p></statement></exercise>
+<exercise number="10"><statement><p><image source="hp-1-1-10.png" width="35%"><description>quadrilateral</description></image></p></statement></exercise>
 
-<exercise number="11"><statement><p><image source="hp-1-1-11.png" width="50%"></image></p></statement>
-<answer><image source="ans-1-1-11.png" width="30%"></image></answer></exercise>
+<exercise number="11"><statement><p><image source="hp-1-1-11.png" width="50%"><description>trapezoid</description></image></p></statement>
+<answer><image source="ans-1-1-11.png" width="30%"><description>trapezoid</description></image></answer></exercise>
 
-<exercise number="12"><statement><p><image source="hp-1-1-12.png" width="40%"></image></p></statement></exercise>
+<exercise number="12"><statement><p><image source="hp-1-1-12.png" width="40%"><description>arrow</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2">
     <introduction><p>For Problems 13-16, draw two lines to show one-fourth of the figure.</p></introduction>
 
-<exercise number="13"><statement><p><image source="hp-1-1-13.png" width="35%"></image></p></statement>
-<answer><image source="ans-1-1-13.png" width="30%"></image></answer></exercise>
+<exercise number="13"><statement><p><image source="hp-1-1-13.png" width="35%"><description>hexagon</description></image></p></statement>
+<answer><image source="ans-1-1-13.png" width="30%"><description>hexagon</description></image></answer></exercise>
 
-<exercise number="14"><statement><p><image source="hp-1-1-14.png" width="35%"></image></p></statement></exercise>
+<exercise number="14"><statement><p><image source="hp-1-1-14.png" width="35%"><description>octagon</description></image></p></statement></exercise>
 
-<exercise number="15"><statement><p><image source="hp-1-1-15.png" width="50%"></image></p></statement>
-<answer><image source="ans-1-1-15.png" width="30%"></image></answer></exercise>
+<exercise number="15"><statement><p><image source="hp-1-1-15.png" width="50%"><description>parallelogram</description></image></p></statement>
+<answer><image source="ans-1-1-15.png" width="30%"><description>parallelogram</description></image></answer></exercise>
 
-<exercise number="16"><statement><p><image source="hp-1-1-16.png" width="40%"></image></p></statement></exercise>
+<exercise number="16"><statement><p><image source="hp-1-1-16.png" width="40%"><description>polygon</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup>

@@ -18,11 +18,11 @@
 <sidebyside widths="52% 40%" valigns="middle middle" margins="0% 5%"><p>The solid form of nitrogen is a useful substance. It is used as a refrigerant in medical research, and it can also be used to remove pollutants and metal ions from waste water. Nitrogen freezes into solid form at a temperature of <m>-210 \degree</m>F. </p><image source="nitrogen.png"></image></sidebyside>
 
 <p>Suppose your lab is kept at a temperature of <m>65 \degree</m>F, and your equipment can lower the temperature of nitrogen by <m>5 \degree</m>F per minute. How long will it take for nitrogen gas to solidify? The answer to this question is the solution of the equation
-    <me>65 - 5t = -210</me>
+    <md><mrow>65 - 5t = -210</mrow></md>
 In this section we'll solve equations that involve negative numbers.</p>
 
 <p>Recall that we solve an equation by undoing in reverse order the operations performed on the variable. To solve the equation
-    <me>2x+6 = 24</me>
+    <md><mrow>2x+6 = 24</mrow></md>
 we first subtract 6 from both sides, then we divide both sides by 2.
     <md><mrow> 2x + 6 \amp = 24 \amp \amp \blert{\text{Subtract 6 from both sides.}}</mrow>
         <mrow>\underline{ ~~~~~~\blert{-6}} \amp = \underline{\blert{-6}}</mrow>
@@ -35,7 +35,7 @@ The solution is <m>x = 9</m>. If you like, you can review solving equations in <
 <assemblage><title>A Quick Refresher</title>
 
 <p>Consider the expression  
-      <me>8 - 2x</me>  
+      <md><mrow>8 - 2x</mrow></md>
 We might naturally read this expression as "8 subtract <m>2x</m>," but we can also think of it as the sum of 8 and <m>-2x</m>.</p> 
 <p>To review this notion, see <xref ref="sum-of-signednos" text="custom"> Section 7.2 </xref>.</p>
 <p>In fact, we can think of any string of terms as a sum, where the <m>~+~</m> and <m>~-~</m> symbols tell us the sign of the term that follows.  For example,
@@ -317,7 +317,7 @@ The solution checks.</p></solution></example>
 
 <sidebyside widths="50% 40%" margins="0% 5%" valigns="middle middle"><stack>
       <p>At the start of this section we looked at an equation for freezing nitrogen. If <m>T</m> represents the temperature of the nitrogen after it has been cooling for <m>t</m> minutes, we have the equation
-          <me>T = 65 - 5t</me>
+          <md><mrow>T = 65 - 5t</mrow></md>
       The graph of this equation looks like this. (You can review graphing equations in <xref ref="grapheqn" text="custom">Section 5.5</xref>.)</p>
       </stack>
     <image xml:id="Fig-nitrogen">
@@ -351,7 +351,7 @@ The solution checks.</p></solution></example>
 
 <assemblage><title>Linear Equations</title>
 <p>An equation of the form
-  <me>\blert{y = ax + b}</me>    
+   <md><mrow>\blert{y = ax + b}</mrow></md>    
 where <m>a</m> and <m>b</m> are constants, is a <term>linear equation</term>. Its graph is a straight line.</p></assemblage>
 
 <p>In <xref ref="grapheqn" text="custom">Section 5.5</xref> we used three steps to graph an equation.</p>
@@ -532,7 +532,7 @@ where <m>a</m> and <m>b</m> are constants, is a <term>linear equation</term>. It
 
 <solution><p><ol marker="a."> 
   <li><p>Byron subtracts $100 from his debt each month, so
-        <me>y = 6000 - 100x</me></p></li>
+        <md><mrow>y = 6000 - 100x</mrow></md></p></li>
   <li><p>We choose values for <m>x</m> and make a table showing several points on the graph. Then we plot the points and connect them with a straight line.</p>
 
   <sidebyside widths="30% 50%" margins="5% 10%" valigns="middle middle"><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -552,7 +552,7 @@ where <m>a</m> and <m>b</m> are constants, is a <term>linear equation</term>. It
 </ol></p></solution></example>
 
 <note><p>Note You can check your answer to part (c) of the previous Example by solving the equation  
-      <me>6000 - 100x = 0</me></p></note>
+      <md><mrow>6000 - 100x = 0</mrow></md></p></note>
 
 <exercise><statement><p>Chloe's All-Night Diner buys coffee in 50-pound containers. They use 2 pounds of coffee per day. 
 <ol marker="a.">

@@ -40,11 +40,11 @@ The sum is <m>-10</m>.</p></solution></example>
 
 <solution><p>First we convert each subtraction to an addition by changing the sign of the subtracted number.
 
-    <me>5~ \blert{-(+7)}~-3~\alert{-(-2)} = 5~ \blert{+(-7)}~-3~\alert{+(+2)}</me>
+    <md><mrow>5~ \blert{-(+7)}~-3~\alert{-(-2)} = 5~ \blert{+(-7)}~-3~\alert{+(+2)}</mrow></md>
 
 We changed "subtract <m>+7</m>" to "add <m>-7</m>," and we changed "subtract <m>-2</m>" to "add <m>+2</m>." Now we can omit all the addition symbols and the parentheses, leaving a string of signed numbers to add.
 
-  <me>5~ \cancel{+}(-7)~-3~\cancel{+}(+2) = 5-7-3+2</me>
+  <md><mrow>5~ \cancel{+}(-7)~-3~\cancel{+}(+2) = 5-7-3+2</mrow></md>
 
   Finally, we add from left to right.
 
@@ -77,7 +77,7 @@ But be careful:  you can delete subtraction symbols, but don't delete any negati
 <solution><p><ol marker="a.">
   <li><p>The parentheses tell us to multiply:  <m>3(-8)=-24</m></p></li>
   <li><p>We subtract negative 8 from 3 by first changing to an addition:  
-    <me>3-(-8) = 3+8=11</me></p></li>
+      <md><mrow>3-(-8) = 3+8=11</mrow></md></p></li>
   <li><p>We add two negative numbers:  <m>-3-8=-3+(-8)=-11</m></p></li>     
   <li><p>We multiply two negative numbers:  <m>-3(-8)=24</m></p></li>
 </ol></p></solution></example>
@@ -102,9 +102,9 @@ But be careful:  you can delete subtraction symbols, but don't delete any negati
 <subsection><title>Combining Operations</title>
 
 <p>Perhaps you remember that to simplify the expression
-    <me>5+2\cdot4</me>
+    <md><mrow>5+2\cdot4</mrow></md>
   we perform the multiplication first, so that
-    <me>5 + \blert{2 \cdot 4} = 5 + \blert{8} = 13</me>
+    <md><mrow>5 + \blert{2 \cdot 4} = 5 + \blert{8} = 13</mrow></md>
 (If we do the addition first, we get  <m>7 \cdot 4 = 28</m>,  which is not correct!)</p>
 
 <assemblage><title>Rule 2</title>
@@ -115,9 +115,9 @@ But be careful:  you can delete subtraction symbols, but don't delete any negati
 <solution><p>First, study the expression and analyze the operations involved.</p>
   <image source="ex-7-5-4.png" width="75%"></image>
 <p>We begin by multiplying  <m>~3(-5)~</m> to get <m>-15</m>.
-  <me>6 - \blert{3(-5)} = -6 - \blert{(-15)}</me>
+  <md><mrow>6 - \blert{3(-5)} = -6 - \blert{(-15)}</mrow></md>
 Then we change the subtraction to an addition, and add.
-  <me>-6-(-15) = -6+15 = 9</me></p></solution></example>
+  <md><mrow>-6-(-15) = -6+15 = 9</mrow></md></p></solution></example>
 
 <exercise><statement><p>Simplify <m>~-5-2(-8)</m></p></statement>
 
@@ -131,12 +131,12 @@ Then we change the subtraction to an addition, and add.
 <example><statement><p>Simplify <m>~-24 \div (-6)-5(-4)</m></p></statement>
 
 <solution><p>We underline each multiplication and division and perform them first.
-  <me>\blert{\underline{-24 \div (-6)}} - \alert{\underline{5(-4)}} = \blert{4} - \alert{(-20)}</me>
+  <md><mrow>\blert{\underline{-24 \div (-6)}} - \alert{\underline{5(-4)}} = \blert{4} - \alert{(-20)}</mrow></md>
 Note that we enclosed <m>-20</m> in parentheses because it follows a subtraction symbol.  Next we change the subtraction to an addition, and add.
-  <me>4 - (-20) = 4 + 20 = 24</me></p></solution></example>
+  <md><mrow>4 - (-20) = 4 + 20 = 24</mrow></md></p></solution></example>
 
 <exercise><statement><p>Underline each term, then simplify the expression:
-  <me>2(-8) - 12(-3)</me></p></statement>
+  <md><mrow>2(-8) - 12(-3)</mrow></md></p></statement>
 
 <answer><m>20</m></answer></exercise>
 </subsection>
@@ -191,7 +191,7 @@ Note that we enclosed <m>-20</m> in parentheses because it follows a subtraction
 <example><statement><p>Simplify  <m>~\dfrac{4-40}{4+8}</m></p></statement>
 
 <solution><p>Do not be tempted to divide or "cancel" <m>4</m> by  <m>4</m>, or <m>-40</m> by <m>8</m>! We must first simplify the expressions above and below the fraction bar before we divide.
-  <me>\dfrac{4-40}{4+8} = \dfrac{-36}{12} = -3</me></p></solution></example>
+  <md><mrow>\dfrac{4-40}{4+8} = \dfrac{-36}{12} = -3</mrow></md></p></solution></example>
 
 <exercise><statement><p> Simplify <m>~\dfrac{6-14}{3-7}</m></p></statement>
 

@@ -11,20 +11,20 @@
     <li><p>Thirds</p></li>
     <li><p>Decimal Form of One-Third</p></li>
   </ul></p>
-      <image source="cashreg.png"></image></sidebyside>
+      <image source="cashreg.png"><description>cash register</description></image></sidebyside>
 
 <subsection><title>Percents</title>
 <p>A <term>percent</term> is a fraction. For example,
 
-    <me>75\% = 0.75 = \dfrac{75}{100}</me>
+    <md><mrow>75\% = 0.75 = \dfrac{75}{100}</mrow></md>
 
 "Percent" means "for each 100" or "out of 100." So a percent is just a fraction whose denominator is 100. If you understand hundredths, you also understand percents!</p>
-    <image source="coffee.png" width = "80%"></image>
+    <image source="coffee.png" width = "80%"><description>coffee cup</description></image>
 
 <example><statement><p> Jaycee is an interior designer and takes a 10% commission on the cost of a remodel. A recent remodel cost $12,500. How much is Jaycee's commission?</p></statement>
 
 <solution><p>10% means "ten out of 100" or <m>\dfrac{10}{100}</m>, and <m>\dfrac{10}{100}</m> reduces to <m>\dfrac{1}{10}</m>. To find <m>\dfrac{1}{10}</m> of 12,500, we divide by 10:
-  <me>\dfrac{1}{10}~ \text{of}~ 12,500 = 12,500 \div 10 = 1250</me>
+    <md><mrow>\dfrac{1}{10}~ \text{of}~ 12,500 = 12,500 \div 10 = 1250</mrow></md>
 Jaycee's commission is $1250.</p></solution></example>
 
 <p>Because 10% is equal to <m>\dfrac{1}{10},~</m> it is easy to find 10% of a number: we just divide the number by 10. Once we know 10% of a number, we can find other percents. For example, to find 20% of a number we can compute 10% of the number and then double the result.</p>
@@ -90,12 +90,12 @@ $12.00. Find the following percents of the price of the boots.</p>
 <example><statement><p>Change 12% to a decimal fraction.</p></statement>
 
 <solution><p>12% means twelve hundredths, so we divide 12 by 100. We move the decimal point 2 places to the left.</p>
-      <image source="twelvepercent.png" width = "80%"></image>
+      <image source="twelvepercent.png" width = "80%"><description>percent to decimal</description></image>
 <p>We see that 12% is equal to 0.12. </p></solution></example>
 
 <assemblage><title>To change a percent to a decimal fraction:</title>
   <p>Divide the percent by 100,
-      <me>\text{or}</me>
+      <md><mrow>\text{or}</mrow></md>
   Move the decimal point two places to the left.</p></assemblage>
 
 <p>Even Easier!  You can also think of the % sign as "hundredths," so that we read 12% as "twelve hundredths" and write the fraction 0.12.</p>
@@ -120,17 +120,17 @@ $12.00. Find the following percents of the price of the boots.</p>
 </ol></p></answer></exercise>
 
 <note><p>In Checkpoint 2.2.4 above, do you see the difference between the decimal forms of 50% and 5%? Try one yourself. Write the decimal form of each percent:
-  <me>8\% = \hphantom{0000000000000000} 80\% = \hphantom{0000000000000000}</me></p></note>
+    <md><mrow>8\% = \hphantom{0000000000000000} 80\% = \hphantom{0000000000000000}</mrow></md></p></note>
 
 <p>Now we can find any percent of a number.</p>
 
 <example><statement><p>The sales tax in Florida is 6%. What is the sales tax on a TV that costs $458?</p></statement>
 
 <solution><p>We'd like to find 6% of $458. We must first change 6% to a decimal fraction by moving the decimal point 2 places to the left.
-  <me>6\% = 0.06</me>
+    <md><mrow>6\% = 0.06</mrow></md>
 (Note that we inserted a zero in front of 6 so that we could move the decimal point 2 places to the left!)</p>  
 <p>Next, we multiply 0.06 times 458.
-    <me>0.06 \times 458 = 27.48</me>
+    <md><mrow>0.06 \times 458 = 27.48</mrow></md>
 The sales tax is $27.48.</p></solution></example>
 
 <note><p>In Example 2.2.6, why does multiplying by 0.06 give us 6 hundredths of 458?  Here's why:</p>
@@ -224,11 +224,11 @@ The sales tax is $27.48.</p></solution></example>
 <p>If you follow a diet of 2000 calories per day, your minimum daily requirement (MDR) of potassium is 3500 milligrams.</p>
 
 <example><statement><p>A bowl of Cheerios provides 140 milligrams of potassium. What percent of your MDR is that?</p>
-    <image source="cheerios.png" width = "45%"></image></statement>
+    <image source="cheerios.png" width = "45%"><description>bowl of cheerios</description></image></statement>
 
 <solution><p>We'd like to know what percent is 140 out of 3500. Remember that a percent is a fraction, so we make a fraction with the part (140) out of the whole (3500).
 
-  <me>\dfrac{\text{part}}{\text{whole}} = \dfrac{140}{3500} = 0.04 ~~~~~~~~\blert{\text{Divide 140 by 3500.}}</me>
+    <md><mrow>\dfrac{\text{part}}{\text{whole}} = \dfrac{140}{3500} = 0.04 ~~~~~~~~\blert{\text{Divide 140 by 3500.}}</mrow></md>
 
 As a decimal fraction, Cheerios provides 0.04, or 4 hundredths of the MDR for potassium. Four hundredths is the same as 4%. (Or you can multiply 0.04 by 100 to write it as a percent:  <m>0.04 \times 100 = 4%</m>)</p></solution></example>
 
@@ -295,7 +295,7 @@ As a decimal fraction, Cheerios provides 0.04, or 4 hundredths of the MDR for po
 <activity><title>Using Percents</title>
 <p><ol>
   <li><p>The Gonzalez family's monthly income is $5200. They budget their money according to the circle graph below. Complete the table showing the amount they spend in each category.</p>
-    <image source="circlegraph.png" width = "35%"></image>
+    <image source="circlegraph.png" width = "35%"><description>circle graoh</description></image>
 
 <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
                 <col halign="center"/>
@@ -415,16 +415,16 @@ As a decimal fraction, Cheerios provides 0.04, or 4 hundredths of the MDR for po
 <p>We have studied the benchmark fractions <m>\dfrac{1}{4},~~\dfrac{1}{2},~~</m> and <m>~\dfrac{3}{4},~~</m> as well as tenths and hundredths. Along the way we also encountered fifths. Here is another familiar and useful fraction.</p>
 
 <example><statement><p>Nelson bought a quarter-pound of sliced roast beef and ate half of it for lunch. How many ounces of roast beef did he eat? What fraction of a pound is that?</p> 
-    <image source="sandwich.png" width = "35%"></image></statement>
+    <image source="sandwich.png" width = "35%"><description>sandwich</description></image></statement>
 
 <solution><p>There are 16 ounces in a pound, so a quarter-pound is
-  <me>\dfrac{1}{4}~ \text{of}~ 16 = 16 \div 4 = 4 ~~\text{ounces}</me>
+    <md><mrow>\dfrac{1}{4}~ \text{of}~ 16 = 16 \div 4 = 4 ~~\text{ounces}</mrow></md>
   Half of 4 ounces is 2 ounces, so Nelson ate 2 ounces of roast beef. As a fraction of a pound, 2 ounces is
-    <me>\dfrac{\text{part}}{\text{whole}} = \dfrac{2}{16} = \dfrac{1}{8}~~~~~~\blert{\text{Reduce: divide top and bottom by 2.}} </me>           
+    <md><mrow>\dfrac{\text{part}}{\text{whole}} = \dfrac{2}{16} = \dfrac{1}{8}~~~~~~\blert{\text{Reduce: divide top and bottom by 2.}} </mrow></md>          
 Two ounces is <m>\dfrac{1}{8}</m> lb, or one-eighth of a pound.</p></solution></example>
 
 <note><p>Recall that <m>\dfrac{1}{4}</m> is one-half of <m>\dfrac{1}{2}</m>.  Now we see that <m>\dfrac{1}{8}</m> is one-half of <m>\dfrac{1}{4}</m>. You know that the decimal form of <m>\dfrac{1}{4}</m> is 0.25 (or 0.250). What is the decimal form of <m>\dfrac{1}{8}</m>?</p>
-    <image source="eighth.png" width = "50%"></image></note>
+    <image source="eighth.png" width = "50%"><description>one quarter</description></image></note>
 
 <exercise><statement><p>Find the decimal and percent equivalents for each eighth. Then shade the corresponding fraction of the figure.</p>
   <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -598,13 +598,13 @@ Two ounces is <m>\dfrac{1}{8}</m> lb, or one-eighth of a pound.</p></solution></
 <example><statement><p>Devon and Darla Grant together make $3200 per month in take-home pay. They are looking for an apartment, and don't want to spend more than 37.5% of their income on housing. What is the maximum rent they can afford?</p></statement>
 
 <solution><p>We'll solve this problem in two different ways.  First, we'll compute 37.5% of $3200.  We write the percent as a decimal fraction and use a calculator to multiply:
-  <me>0.375 \times 3200 = 1200</me>
+    <md><mrow>0.375 \times 3200 = 1200</mrow></md>
 The Grants can afford $1200 monthly rent.</p>
 
 <p>We can compute the fraction without a calculator if we remember that 37.5% is the same as <m>\dfrac{3}{8}</m>.  We first find <m>\dfrac{1}{8}</m> of $3200 by dividing by 8:
-    <me>3200 \div 8 = 400</me> 
+    <md><mrow>3200 \div 8 = 400</mrow></md> 
 Then we multiply by 3 to find <m>\dfrac{3}{8}</m> of 3200:
-  <me>3 \times 400 = 1200</me>
+    <md><mrow>3 \times 400 = 1200</mrow></md>
 We get the same answer, and we can do the calculations mentally!</p></solution></example>
 
 <exercise><statement><p>Devon and Darla from Example 2.2.14 have budgeted their $3200 monthly income as follows.</p>
@@ -699,12 +699,12 @@ We get the same answer, and we can do the calculations mentally!</p></solution><
 <subsection><title>Thirds</title>
 
 <p>Thirds are also useful fractions.</p>
-    <image source="third.png" width = "60%"></image>
+    <image source="third.png" width = "60%"><description>one third</description></image>
 <p>Many fields have a "one-third" rule as a guideline.</p>
 
 <example><statement><p>In photography, the one-third rule suggests that an image should be divided into thirds, both horizontally and vertically, and important elements of the picture, including the horizon, should be placed on the division lines or their intersections.</p>
 <p>Zack plans to enlarge the farming scene below into a 24-inch by 15-inch photograph. According to the one-third rule, how far will the base of the tree be from the right-side edge of the picture?</p>
-  <image source="photo.png" width = "60%"></image></statement>
+  <image source="photo.png" width = "60%"><description>photo with tree</description></image></statement>
 
 <solution><p>One-third of 24 is 8, so the base of the tree should be 8 inches from the edge of the picture.</p></solution></example>
 
@@ -731,30 +731,30 @@ We get the same answer, and we can do the calculations mentally!</p></solution><
 <subsection><title>Decimal Form of One-Third</title>
 
 <p>What about the decimal form of <m>\dfrac{1}{3}</m>? Remember that some fractions do not "come out evenly" in their decimal form. One-third is one of those fractions. Use your calculator to verify that
-      <image source="decthird1.png" width = "50%"></image>
+      <image source="decthird1.png" width = "50%"><description>one third</description></image>
 
 where the  …  symbol indicates that the 3's go on forever. (Recall that we encountered repeating decimals in <xref ref="fractodec"/>. We can represent <m>\dfrac{1}{3}</m> with a repeater bar as <m>0.\overline{3}.~</m>) This is the exact value of <m>\dfrac{1}{3}</m> as a decimal fraction.  We often round the decimal form to hundredths and say that
-    <image source="decthird2.png" width = "60%"></image>
+    <image source="decthird2.png" width = "60%"><description>one third</description></image>
 
 Similarly, you can verify that the exact value of <m>\dfrac{2}{3}</m> is
-    <image source="decthird3.png" width = "50%"></image>
+    <image source="decthird3.png" width = "50%"><description>two thirds</description></image>
 
 or <m>0.\overline{6},~~</m> and by rounding to hundredths we see that
-    <image source="decthird4.png" width = "60%"></image>
+    <image source="decthird4.png" width = "60%"><description>two thirds</description></image>
 
 From here we can say that
-    <image source="decthird5.png" width = "60%"></image></p> 
+    <image source="decthird5.png" width = "60%"><description>thirds</description></image></p> 
 
 <p>Can we write exact percent values for <m>\dfrac{1}{3}</m> and <m>\dfrac{2}{3}</m>?  Try the following calculation:</p>
 
 <p>To write <m>\dfrac{1}{3}</m> as a percent:  divide 100 by 3  by hand (that is, without a calculator!). You should find that 
-  <me>100 \div 3 = 33\dfrac{1}{3}</me>
+    <md><mrow>100 \div 3 = 33\dfrac{1}{3}</mrow></md>
 If we double this number we find the percent form of <m>\dfrac{1}{3}</m>:
-  <me>2 \times 33\dfrac{1}{3} = 66\dfrac{2}{3}</me> 
+    <md><mrow>2 \times 33\dfrac{1}{3} = 66\dfrac{2}{3}</mrow></md> 
 We have found exact percent forms for <m>\dfrac{1}{3}</m> and <m>\dfrac{2}{3}</m>.</p>
 
 <assemblage><title>Thirds as Percents</title>
-  <p><me>\dfrac{1}{3} = 33\dfrac{1}{3} \% \hphantom{0000000000} \text{and} \hphantom{0000000000} \dfrac{2}{3} = 66\dfrac{2}{3} \% </me></p></assemblage>
+  <p><md><mrow>\dfrac{1}{3} = 33\dfrac{1}{3} \% \hphantom{0000000000} \text{and} \hphantom{0000000000} \dfrac{2}{3} = 66\dfrac{2}{3} \% </mrow></md></p></assemblage>
 
 <note><p>You should become familiar these percent values, so that you will recognize <m>\dfrac{1}{3}</m> and <m>\dfrac{2}{3}</m> when you see them!</p></note>
 

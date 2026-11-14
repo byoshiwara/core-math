@@ -9,7 +9,7 @@
     <li><p>Fractions to Decimals</p></li>
     <li><p>Rounding and Estimating</p></li>
   </ul></p>
-      <image source="cubeflat.png"></image></sidebyside>
+      <image source="cubeflat.png"><description>cubes</description></image></sidebyside>
 
 <subsection><title>The Metric System</title>
 <p>Let's compare the imperial (everyday, American) system of units with the <term>metric system</term>.</p>
@@ -67,7 +67,7 @@
 
 <p>The picture below shows a portion of a meter stick.
 
-  <image source="meterstick.png" width="80%"></image></p>
+  <image source="meterstick.png" width="80%"><description>meter stick</description></image></p>
 
 <p>The metric system is easy to use because it fits with our base-10 number system. In the same way, <term>decimal fractions</term> are easy to use.</p>
 </subsection>
@@ -76,7 +76,7 @@
 
 <p>Remember the <term>place values</term> in our base-10 number system. For example,
 
-  <image source="placevalue.png" width="40%"></image></p>
+  <image source="placevalue.png" width="40%"><description>place value</description></image></p>
 
 <p>The places after the decimal point represent fractions of a whole number, and it is important to remember that:</p>
 
@@ -143,10 +143,10 @@
 In the same way, 4 and 40 and 400 are very different numbers.</p></note>
 
 <p>Here is a way to think of decimal fractions. Imagine that the 10 by 10 by 10 block shown below represents one whole.
-    <image source="block.png" width="60%"></image></p>
+    <image source="block.png" width="60%"><description>cube</description></image></p>
 
 <p>Then one horizontal slice of the block (a "flat") represents one tenth of one whole. One row of the flat (a "stick") represents one hundredth, and one small cube represents one thousandth.</p>
-    <image source="flatsandsticks.png" width="80%"></image>
+    <image source="flatsandsticks.png" width="80%"><description>flats and sticks</description></image>
 
 <p>There are ten flats in a whole, ten sticks in a flat, and ten cubes in a stick. Or, in other words, a flat is one tenth of a whole, a stick is one tenth of a flat, and a cube is one tenth of a stick.</p>  
 
@@ -162,12 +162,12 @@ In the same way, 4 and 40 and 400 are very different numbers.</p></note>
       <mrow>\text{two-tenths} \amp + \text{five-hundredths + three-thousandths}</mrow></md>
 
 Here is the picture of the fraction.</p>
-    <image source="dec-253.png" width="70%"></image>
+    <image source="dec-253.png" width="70%"><description>0.253</description></image>
 
 <p>You can check that there are 253 small cubes (thousandths) total.</p></solution></example>
 
 <exercise><statement><p>What decimal fraction does this picture represent?
-    <image source="dec-636.png" width="70%"></image></p></statement>
+    <image source="dec-636.png" width="70%"><description>0.636</description></image></p></statement>
 
 <answer><p>0.636</p></answer></exercise>
 
@@ -177,11 +177,11 @@ Here is the picture of the fraction.</p>
 
 <sidebyside widths="65% 25%"><p><stack><p>A study published in the "Journal of the American Medical Association" found that "calculation and decimal point errors accounted for approximately 15% of all prescribing errors in a tertiary care teaching hospital" and "for almost 70% of all detected medication prescribing errors among children."</p>
 <p>Everyone should understand how decimal fractions represent portions of a whole.</p></stack></p>
-    <image source="pills.png"></image></sidebyside>
+    <image source="pills.png"><description>pills</description></image></sidebyside>
 
 <example><statement><p>Write these decimal fractions in order of size, from smallest to largest.
 
-<me>~~~~0.4,~~~~~~0.36,~~~~~~0.325,~~~~~~0.058</me></p></statement>
+  <md><mrow>~~~~0.4,~~~~~~0.36,~~~~~~0.325,~~~~~~0.058</mrow></md></p></statement>
 
 <solution><p>We'll look at the place values in each fraction.
 
@@ -194,17 +194,16 @@ It might be helpful to picture each fraction using blocks, as demonstrated in Ex
 <p>We first look at the tenths place; a fraction with more tenths is larger than a fraction with fewer tenths. Thus, 0.4 is the largest fraction in this group, and 0.058 is the smallest.</p> 
 <p>Next we consider the hundredths place to see that 0.36 is larger than 0.325, because 6 hundredths is larger than 2 hundredths. Thus, the correct order from smallest to largest is
 
-<me>~~~~0.058,~~~~~~0.325,~~~~~~0.36,~~~~~~0.04</me>
-
+  <md><mrow>~~~~0.058,~~~~~~0.325,~~~~~~0.36,~~~~~~0.04</mrow></md>
 Here are the four fractions shown on a number line.</p>
-    <image source="decorder.png" width="90%"></image>
+    <image source="decorder.png" width="90%"><description>ruler</description></image>
 </solution></example>
 
 <note><p> Do not make the <m>\alert{\text{ERROR}}</m> of thinking that 0.325 is larger than 0.36 because 325 is larger than 36! Remember to compare decimal fractions one decimal place at a time:  tenths, then hundredths, etc.</p></note>
 
 <exercise><statement><p>Plot the fractions on the number line.
   
-  <me>~~~~0.68,~~~~~~0.800,~~~~~~0.92,~~~~~~0.356,~~~~~~0.608</me></p>
+    <md><mrow>~~~~0.68,~~~~~~0.800,~~~~~~0.92,~~~~~~0.356,~~~~~~0.608</mrow></md></p>
   
   <!-- <image source="zerotoone.png" width="80%"></image> -->
   <image xml:id="zerotoone" width="80%"><description>From 0 to 1 by hundredths</description><latex-image>
@@ -250,28 +249,28 @@ Here are the four fractions shown on a number line.</p>
   </answer></statement></exercise>
 
 <note><p> Another common <m>\alert{\text{ERROR}}</m> is to think that 0.058 is larger than 0.4, because "zero doesn't count." But in this case the zero tells us that
-  <me>0.\alert{0}58~~~~~~\text{has}~~~~~~\alert{0}~\text{tenths}</me>
+  <md><mrow>0.\alert{0}58~~~~~~\text{has}~~~~~~\alert{0}~\text{tenths}</mrow></md>
   while
-  <me>0.\alert{4}~~~~~~\text{has}~~~~~~\alert{4}~\text{tenths}</me>
+  <md><mrow>0.\alert{4}~~~~~~\text{has}~~~~~~\alert{4}~\text{tenths}</mrow></md>
 Once again, we compare decimal fractions by comparing each place value in order.</p></note>
 
 <assemblage><title>A Quick Fractions Refresher</title>
 <p>There is more than one way to write any particular fraction. For example, the following fractions are all equivalent to <m>\dfrac{1}{2}</m>:
 
-  <me>\dfrac{2}{4},~~~~~~\dfrac{3}{2},~~~~~~\dfrac{5}{10},~~~~~~\dfrac{25}{50}</me>
+  <md><mrow>\dfrac{2}{4},~~~~~~\dfrac{3}{2},~~~~~~\dfrac{5}{10},~~~~~~\dfrac{25}{50}</mrow></md>
 
 because each reduces to <m>\dfrac{1}{2}</m>.</p>
 
 <p><m>\blert{\text{Exercise:}}</m>   Write three fractions equivalent to <m>\dfrac{2}{3}</m>.</p></assemblage>
 
 <p>Similarly, there is more than one way to write any particular decimal fraction. The following decimal fractions are equivalent:
-    <image source="seventenths.png" width="70%"></image>
+    <image source="seventenths.png" width="70%"><description>0.7</description></image>
 
 and so on. Each of these fractions reduces to <m>\dfrac{7}{10}</m>, or 0.7. Note that the denominator of each decimal fraction is given by the place value of the last digit after the decimal point.</p>
 
 <example><statement><p><ol marker="a.">
   <li><p>Write each decimal fraction as a common fraction.
-      <me>~~~~0.30,~~~~~~0.03,~~~~~~0.030,~~~~~~0.300,~~~~~~0.003</me></p></li>
+    <md><mrow>~~~~0.30,~~~~~~0.03,~~~~~~0.030,~~~~~~0.300,~~~~~~0.003</mrow></md></p></li>
   <li><p>Which fractions are equal?</p></li>
 </ol></p></statement>
 
@@ -299,25 +298,25 @@ and so on. Each of these fractions reduces to <m>\dfrac{7}{10}</m>, or 0.7. Note
 
 <p>Another way to get a feel for decimal fractions is to relate them to familiar common fractions. Remember that the fraction bar is actually a division symbol, so the fraction <m>\dfrac{1}{2}</m> means "1 divided by 2." If you use your calculator to carry out the division, you will find
 
-<me>\dfrac{1}{2} = 1 \div 2 = 0.5</me>
+    <md><mrow>\dfrac{1}{2} = 1 \div 2 = 0.5</mrow></md>
 
 Some decimal equivalents of common fractions <term>terminate</term> or end, like 
 
-  <me>\dfrac{3}{8} = 0.375</me>
+    <md><mrow>\dfrac{3}{8} = 0.375</mrow></md>
 
 but others repeat a pattern of digits without ending, like
 
-  <me>\dfrac{5}{6} = 0.833333 ...</me>
+    <md><mrow>\dfrac{5}{6} = 0.833333 ...</mrow></md>
     
 We denote these <term>repeating decimals</term> with a bar over the digits that repeat, like this:
 
-  <me>\dfrac{5}{6} = 0.8\overline{3}</me></p>
+    <md><mrow>\dfrac{5}{6} = 0.8\overline{3}</mrow></md></p>
 
 <example><statement><p>Write the decimal equivalent of the fraction <m>\dfrac{3}{11}</m>.</p></statement>
 
 <solution><p>We use a calculator to compute  <m>3 \div 11</m>
   
- <me>\dfrac{3}{11} = 3 \div 11 = 0.27272727 ...</me>
+    <md><mrow>\dfrac{3}{11} = 3 \div 11 = 0.27272727 ...</mrow></md>
 
   We write the result with a repeater bar:   <m>\dfrac{3}{11} = 0.\overline{27}</m>.</p></solution></example>
 
@@ -377,7 +376,7 @@ We denote these <term>repeating decimals</term> with a bar over the digits that 
     </tabular></p></li>
 
 <li><p>Plot each decimal fraction on the number line below.</p>
-    <image source="zerotoone.png" width="90%"></image></li>
+    <image source="zerotoone.png" width="90%"><description>ruler</description></image></li>
 
 <li><p>Which of the fractions above are repeating decimals?</p></li>
 </ol></p>
@@ -390,14 +389,14 @@ We denote these <term>repeating decimals</term> with a bar over the digits that 
 <subsection xml:id="rounding"><title>Rounding and Estimating</title>
 
 <p>My town has a population of 8300 people. Is that closer to 8000 people or 9000 people? If we count by 100's, 8300 is closer to 8000.</p>
-    <image source="roundpop.png" width="80%"></image>
+    <image source="roundpop.png" width="80%"><description>scale 8000 to 9000</description></image>
 
 <p>So if I <term>round</term> the population to 1000's of people, my town's population is about 8000. In fact, we can say that any population less than 8500 is about 8000, and a population 8500 or above is about 9000.</p>
 
 <example><statement><p>Is 0.837 closer to 0.8 or to 0.9?</p></statement>
 
 <solution><p>In this Example, we are <term>rounding</term> to the nearest tenth. We use the same reasoning as above:  because 3 is less than 5, 0.8<m>\blert{3}</m>7 is closer to 0.8.</p>
-    <image source="roundtenth.png" width="90%"></image></solution></example>
+    <image source="roundtenth.png" width="90%"><description>scale 0.8 to 0.9</description></image></solution></example>
 
 <note><p> In the last Example, we <term>rounded down</term> to the nearest tenth. To decide which way to round, we looked at the next digit, in the hundredths place, to see if it was greater than or less than 5. We did not have to consider the 7 in the thousandths place -- it is too small to make a difference in this case.</p></note>
 
@@ -463,10 +462,10 @@ We denote these <term>repeating decimals</term> with a bar over the digits that 
 
 <solution><p><ol marker="a.">
   <li><p>We use a calculator to divide 3 by 7.
-    <me>\dfrac{3}{7} = 3 \div 7 = 0.428571 ...~~~~~~~~~\blert{2~\text{is in the hundredths place.}}</me>
+      <md><mrow>\dfrac{3}{7} = 3 \div 7 = 0.428571 ...~~~~~~~~~\blert{2~\text{is in the hundredths place.}}</mrow></md>
     To round to hundredths, we look at the digit after the hundredths place, which in this case is 8.  Beacause 8 is larger than 5, we round up to the next hundredth, to get  0.43.  So, <m>\dfrac{3}{7}</m> is approximately 0.43.</p></li>
   <li><p>We use a calculator to divide 5 by 7.
-    <me>\dfrac{5}{7} = 5 \div 7 = 0.714285 ...~~~~~~~~~\blert{1~\text{is in the hundredths place.}}</me>
+      <md><mrow>\dfrac{5}{7} = 5 \div 7 = 0.714285 ...~~~~~~~~~\blert{1~\text{is in the hundredths place.}}</mrow></md>
     The digit after the hundredths place is 4, which is less than 5, so we round down to 0.71. So, <m>\dfrac{5}{7}</m> is approximately 0.71.</p></li>
   </ol></p></solution></example>
 
@@ -551,11 +550,11 @@ We denote these <term>repeating decimals</term> with a bar over the digits that 
 <example><statement><p>How big is one centimeter? A centimeter is 0.393701 of one inch. Round this fraction to the nearest tenth, and compare it to the decimal equivalents of common fractions in Activity 2.</p></statement>
 
 <solution><p>To round to tenths we look at the digit in the hundredths place. Because 9 is greater than 5, we round up to 0.4.</p>
-   <image source="roundup.png" width="35%"></image>
+   <image source="roundup.png" width="35%"><description>round up</description></image>
 
 <p>A centimeter is approximately 0.4 of one inch. By consulting Activity 2, we see that 0.4 is equal to <m>\dfrac{2}{5}</m>. (Or 
 we can reduce <m>\dfrac{4}{10}</m> to <m>\dfrac{2}{5}</m>.) So one centimeter is a little smaller than <m>\dfrac{2}{5}</m> of an inch.</p>  
-    <image source="cmtoinch.png" width="30%"></image></solution></example>
+    <image source="cmtoinch.png" width="30%"><description>cm and inch</description></image></solution></example>
 
 <exercise><statement><p><ol marker="a.">
   <li><p>One kilometer is 0.621371 of one mile. How many miles long is a 10K (10 kilometer) race?</p></li>

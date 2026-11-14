@@ -40,7 +40,7 @@
 <exercise number="12"><statement><p>How much fertilizer do you need to cover your vegetable garden?</p></statement></exercise>
  
 <exercise number="13"><statement><p>How much shade film do you need to cover the greenhouse?</p>
-  <image source="greenhouse.png" width="35%"></image></statement>
+  <image source="greenhouse.png" width="35%"><description>greenhouse</description></image></statement>
 <answer><p>Surface area</p></answer></exercise>
  
 <exercise number="14"><statement><p>How much weather-stripping do you need to go around the picture window?</p></statement></exercise>
@@ -68,7 +68,7 @@
   <li><p>Find the volume of the box.</p></li>
 </ol></p></introduction>
 
-<exercise number="21"><statement><p><image source="hp-3-1-21.png" width="60%"></image></p></statement>
+<exercise number="21"><statement><p><image source="hp-3-1-21.png" width="60%"><description>unfolded box</description></image></p></statement>
 <answer>
     <ol marker="a.">
         <li>
@@ -91,20 +91,20 @@
     </ol>
 </answer></exercise>
 
-<exercise number="22"><statement><p><image source="hp-3-1-22.png" width="40%"></image></p></statement></exercise>
+<exercise number="22"><statement><p><image source="hp-3-1-22.png" width="40%"><description>unfolded box</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 23-26, decide whether the figure can be folded into a cube.</p></introduction>
 
-<exercise number="23"><statement><p><image source="hp-3-1-23.png" width="55%"></image></p></statement>
+<exercise number="23"><statement><p><image source="hp-3-1-23.png" width="55%"><description>polygon</description></image></p></statement>
 <answer><p>No</p></answer></exercise>
 
-<exercise number="24"><statement><p><image source="hp-3-1-24.png" width="80%"></image></p></statement></exercise>
+<exercise number="24"><statement><p><image source="hp-3-1-24.png" width="80%"><description>polygon</description></image></p></statement></exercise>
 
-<exercise number="25"><statement><p><image source="hp-3-1-25.png" width="55%"></image></p></statement>
+<exercise number="25"><statement><p><image source="hp-3-1-25.png" width="55%"><description>polygon</description></image></p></statement>
 <answer><p>No</p></answer></exercise>
 
-<exercise number="26"><statement><p><image source="hp-3-1-26.png" width="55%"></image></p></statement></exercise>
+<exercise number="26"><statement><p><image source="hp-3-1-26.png" width="55%"><description>polygon</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 27-28, the grid lines represent feet.</p>
@@ -113,13 +113,13 @@
   <li><p>Find the surface area of the box.</p></li>
 </ol></p></introduction>
 
-<exercise number="27"><statement><p><image source="hp-3-1-27.png" width="50%"></image></p></statement>
+<exercise number="27"><statement><p><image source="hp-3-1-27.png" width="50%"><description>box</description></image></p></statement>
 <answer><p><ol marker="a."> 
   <li><p>80 cu ft</p></li>
   <li><p>112 sq ft</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="28"><statement><p><image source="hp-3-1-28.png" width="60%"></image></p></statement></exercise>
+<exercise number="28"><statement><p><image source="hp-3-1-28.png" width="60%"><description>box</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 29-30,</p>
@@ -128,13 +128,13 @@
   <li><p>Find the surface area of the cube.</p></li>
 </ol></p></introduction>
 
-<exercise number="29"><statement><p><image source="hp-3-1-29.png" width="60%"></image></p></statement>
+<exercise number="29"><statement><p><image source="hp-3-1-29.png" width="60%"><description>cube</description></image></p></statement>
 <answer><p><ol marker="a."> 
   <li><p>512 cu in</p></li>
   <li><p>384 sq in</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="30"><statement><p><image source="hp-3-1-30.png" width="60%"></image></p></statement></exercise>
+<exercise number="30"><statement><p><image source="hp-3-1-30.png" width="60%"><description>cube</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 31-32,</p>
@@ -143,13 +143,13 @@
   <li><p>Find the surface area of the box.</p></li>
 </ol></p></introduction>
 
-<exercise number="31"><statement><p><image source="hp-3-1-31.png" width="70%"></image></p></statement>
+<exercise number="31"><statement><p><image source="hp-3-1-31.png" width="70%"><description>box</description></image></p></statement>
 <answer><p><ol marker="a."> 
   <li><p>2560 cu cm</p></li>
   <li><p>1216 sq cm</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="32"><statement><p><image source="hp-3-1-32.png" width="70%"></image></p></statement></exercise>
+<exercise number="32"><statement><p><image source="hp-3-1-32.png" width="70%"><description>box</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 33-34, the grid lines represent meters.</p>
@@ -158,13 +158,13 @@
   <li><p>Find the surface area of the object.</p></li>
 </ol></p></introduction>
 
-<exercise number="33"><statement><p><image source="hp-3-1-33.png" width="60%"></image></p></statement>
+<exercise number="33"><statement><p><image source="hp-3-1-33.png" width="60%"><description>boxes</description></image></p></statement>
 <answer><p><ol marker="a."> 
   <li><p>44 cu m</p></li>
   <li><p>94 sq m</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="34"><statement><p><image source="hp-3-1-34.png" width="60%"></image></p></statement></exercise>
+<exercise number="34"><statement><p><image source="hp-3-1-34.png" width="60%"><description>boxes</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 35-38,</p>
@@ -173,21 +173,21 @@
   <li><p>Find the surface area of the object.</p></li>
 </ol></p></introduction>
 
-<exercise number="35"><statement><p><image source="hp-3-1-35.png" width="80%"></image></p></statement>
+<exercise number="35"><statement><p><image source="hp-3-1-35.png" width="80%"><description>boxes</description></image></p></statement>
 <answer><p><ol marker="a."> 
   <li><p>3 cu yd</p></li>
   <li><p>14 sq yd</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="36"><statement><p><image source="hp-3-1-36.png" width="90%"></image></p></statement></exercise>
+<exercise number="36"><statement><p><image source="hp-3-1-36.png" width="90%"><description>boxes</description></image></p></statement></exercise>
 
-<exercise number="37"><statement><p><image source="hp-3-1-37.png" width="85%"></image></p></statement>
+<exercise number="37"><statement><p><image source="hp-3-1-37.png" width="85%"><description>boxes</description></image></p></statement>
 <answer><p><ol marker="a."> 
   <li><p>4000 cu in</p></li>
   <li><p>1300 sq in</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="38"><statement><p><image source="hp-3-1-38.png" width="80%"></image></p></statement></exercise>
+<exercise number="38"><statement><p><image source="hp-3-1-38.png" width="80%"><description>boxes</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 39-42, show your work.</p></introduction>
@@ -310,7 +310,7 @@
   <answer><p>Many answers are possible.</p></answer></exercise>
 
 <exercise number="54"><statement><p>You can make an open box from a standard sheet of paper measuring 812 inches by 11 inches. Cut out four equal square corners from the paper and fold up the edges that are left to form the sides of the box, as shown below.</p>
-    <image source="makeabox.png" width="60%"></image>
+    <image source="makeabox.png" width="60%"><description>make box</description></image>
 
 <p>The volume of the resulting box depends on the size of the square cut-outs. Complete the table to find the volume of the box for squares of various sizes.</p>
 
@@ -372,7 +372,7 @@
 </p></introduction>
 
 <exercise number="55"><statement><p>Here is a picture of four 1-inch cubes arranged face-to-face.</p>
-  <image source="fourcubes.png" width="35%"></image>
+  <image source="fourcubes.png" width="35%"><description>cubes</description></image>
 <p><ol marker="a.">
   <li><p>What is the volume of the arrangement? What is its surface area?</p></li>
   <li><p>Sketch some other ways you can arrange four cubes face-to-face. (For example, one way is in a straight line.) What is the smallest surface area you can arrange? What is the largest?</p></li>

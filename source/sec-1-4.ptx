@@ -10,7 +10,7 @@
     <li><p>Triangles</p></li>
     <li><p>Sides and Angles</p></li>
   </ul></p>
-      <image source="geodesic dome.png"></image></sidebyside>
+      <image source="geodesic dome.png"><description>geodesic dome</description></image></sidebyside>
   
   <subsection><title>Angles</title>
 
@@ -44,14 +44,14 @@
 </latex-image></image>
 
   <p>You are probably familiar with a <term>right angle</term>, such as the corner of a square. Each of the corners of the tabletop below is a right angle. The two arms of a plus sign form four right angles. We say that the sides of a right angle are <term>perpendicular</term>.</p> 
-    <image source="rightangles.png" width="65%"></image>
+    <image source="rightangles.png" width="65%"><description>table and plus</description></image>
     <p><m>~~~~~~~~~~~~~~~~~~~~\blert{\text{Right angles: a square table}}~~~~~~~~~~\blert{\text{Perpendicular lines make a plus sign}}</m></p>
 
   <p>Now imagine slowly opening a laptop computer until the two sides lie flat on the table. The two sides form an angle that gradually opens until the two covers form a straight line. We give different names to angles, depending on how open they are.</p>  
 
     <p><m>~~~~~~~~~~~~~~~\blert{\text{Partially open}}~~~~~~~~~~\blert{\text{More than half-way open}}~~~~~~~~~~~~~\blert{\text{All the way open}}</m></p>
 
-      <image source="computerangles.png" width="95%"></image>
+      <image source="computerangles.png" width="95%"><description>computer screens</description></image>
 
     <p><m>~~~~~~~~~~~~~~~\blert{\text{An acute angle}}~~~~~~~~~~~~~~~~\blert{\text{An obtuse angle}}~~~~~~~~~~~~~~~~~~~~~~\blert{\text{A straight angle}}</m></p>
 
@@ -84,11 +84,11 @@
   </latex-image></image>
   
   <example><statement><p>In the pictures below, the handles of the hedge clipper form an acute angle. The hands of the clock form an obtuse angle.</p>
-          <image source="clipperandclock.png" width="55%"></image>
+          <image source="clipperandclock.png" width="55%"><description>clipper and clock</description></image>
           <p><m>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\blert{\text{An acute angle}}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\blert{\text{An obtuse angle}}</m></p></statement></example>
 
   <exercise><statement><p>Acute, right, or obtuse? Choose the best answer for each angle in the photograph.
-          <image source="ballet.png" width="45%"></image></p>
+          <image source="ballet.png" width="45%"><description>ballet pair</description></image></p>
       <p><ol marker="a.">
           <li><p>The ballerina's arms form a(n) <fillin characters="10"/> angle.</p></li>
           <li><p>The ballerina's legs form a(n) <fillin characters="10"/> angle.</p></li>
@@ -246,7 +246,7 @@
   </statement>
 
   <solution><p>A right angle measures 90<m>\degree</m>, so the sum of <m>\angle~A</m> plus <m>\angle~B</m> must be 90<m>\degree</m>.  Therefore, 
-      <me>\angle~B = 90\degree - \angle~A = 90\degree - 25\degree = 65\degree</me>
+     <md><mrow>\angle~B = 90\degree - \angle~A = 90\degree - 25\degree = 65\degree</mrow></md>
   The measure of <m>\angle~B</m> is 65<m>\degree</m>, or <m>\angle~B = 65\degree</m>.</p></solution></example>
 
 <exercise><statement><p>Find the measure of the unknown angle. Parts (a) and (b) show right angles.<ol marker="a." cols="2">
@@ -481,7 +481,7 @@
       <li><p>Now cut or tear off the three angles and place the vertex of angle A on the dot below.</p></li>  
       <li><p>Next place the vertex of angle B at the dot so that one of its sides touches one of the sides of angle A. Repeat with angle C.
 
-          <me>\LARGE{\cdot}</me></p></li>   
+          <md><mrow>\LARGE{\cdot}</mrow></md></p></li>   
 
       <li><p>What do you notice about the sum of the three angles? Write it below:</p></li></ol></p></li></ol></p>
 </activity>
@@ -738,7 +738,7 @@
     </latex-image></image>  
   </li></ol></p></statement></example>
 
-<exercise><statement><p> Identify each triangle as equilateral, isosceles, or scalene. Sides that have the same number of little hatch marks are equal in length.</p><ol marker="a." cols="2">
+<exercise><statement><p> Identify each triangle as equilateral, isosceles, or scalene. Sides that have the same number of little hatch marks are equal in length.<ol marker="a." cols="2">
   <li><!-- <image source="atri.png" width="60%"></image>-->
     <image xml:id="atri" width="55%"><description>Triangle with two equal sides</description><latex-image>
       <![CDATA[
@@ -834,7 +834,7 @@
       \draw[blue] (C)++(165:.1)--++(345:.2);
       \end{tikzpicture}]]>
     </latex-image></image>  
-  </li></ol></statement>
+  </li></ol></p></statement>
 
 <answer><p><ol marker="a." cols="2">
   <li><p>isosceles</p></li>

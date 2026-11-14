@@ -122,54 +122,54 @@
 
 <exercise number="25"><statement><p><ol marker="a.">
   <li><p><m>0.3</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
   <li><p><m>0.03</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
   <li><p><m>0.33</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement>
 <answer><p><ol marker="a.">
-  <li><image source="ans-2-1-25a.png" width="40%"></image></li>
-  <li><image source="ans-2-1-25b.png" width="40%"></image></li>
-  <li><image source="ans-2-1-25c.png" width="40%"></image></li>
+  <li><image source="ans-2-1-25a.png" width="40%"><description>0.3</description></image></li>
+  <li><image source="ans-2-1-25b.png" width="40%"><description>0.03</description></image></li>
+  <li><image source="ans-2-1-25c.png" width="40%"><description>0.33</description></image></li>
 </ol></p></answer></exercise>
 
 <exercise number="26"><statement><p><ol marker="a.">
   <li><p><m>0.15</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
   <li><p><m>0.05</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
   <li><p><m>0.005</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement></exercise>
 
 <exercise number="27"><statement><p><ol marker="a.">
   <li><p><m>\dfrac{1}{4}</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
   <li><p><m>\dfrac{1}{8}</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
   <li><p><m>\dfrac{1}{5}</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement>
 <answer><p><ol marker="a.">
-  <li><image source="ans-2-1-27a.png" width="40%"></image></li>
-  <li><image source="ans-2-1-27b.png" width="40%"></image></li>
-  <li><image source="ans-2-1-27c.png" width="40%"></image></li>
+  <li><image source="ans-2-1-27a.png" width="40%"><description>1/4</description></image></li>
+  <li><image source="ans-2-1-27b.png" width="40%"><description>1/8</description></image></li>
+  <li><image source="ans-2-1-27c.png" width="40%"><description>1/5</description></image></li>
 </ol></p></answer></exercise>
 
 <exercise number="28"><statement><p><ol marker="a.">
   <li><p><m>\dfrac{2}{5}</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
   <li><p><m>\dfrac{5}{8}</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
   <li><p><m>\dfrac{3}{20}</m></p>
-      <image source="tenbytengrid.png" width="60%"></image></li>
+      <image source="tenbytengrid.png" width="60%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="4">
 <introduction><p>For Problems 29-36, round the fraction to hundredths and plot the result on the number line.</p>
-    <image source="zerotoone.png" width="80%"></image>
+    <image source="zerotoone.png" width="80%"><description>number line</description></image>
 </introduction>
 
 <exercise number="29"><statement><p><m>0.5283</m></p></statement>
@@ -201,22 +201,22 @@
   <li><p>Label the number line with appropriate values and plot the fractions.</p></li></ol></p></introduction>
 
 <exercise number="37"><statement><p><m>0.46,~0.5,~0.200,~0.08</m></p>
-    <image source="nonumbline.png" width="80%"></image></statement>
+    <image source="nonumbline.png" width="80%"><description>number line</description></image></statement>
 <answer><p>0.08, 0.200, 0.46, 0.5</p>
-  <image source="ans-2-1-37.png" width="40%"></image>
+  <image source="ans-2-1-37.png" width="40%"><description>number line</description></image>
 </answer></exercise>
 
 <exercise number="38"><statement><p><m>1.06,~1.6,~1.66,~1.16</m></p>
-    <image source="nonumbline.png" width="80%"></image></statement></exercise>
+    <image source="nonumbline.png" width="80%"><description>number line</description></image></statement></exercise>
 
 <exercise number="39"><statement><p><m>0.34,~0.36,~0.316,~0.304</m></p>
-    <image source="nonumbline.png" width="80%"></image></statement>
+    <image source="nonumbline.png" width="80%"><description>number line</description></image></statement>
   <answer><p>0.304, 0.316, 0.34, 0.36</p>
-  <image source="ans-2-1-39.png" width="40%"></image>
+  <image source="ans-2-1-39.png" width="40%"><description>number line</description></image>
 </answer></exercise>
 
 <exercise number="40"><statement><p><m>0.015,~0.051,~0.02,~0.1</m></p>
-    <image source="nonumbline.png" width="80%"></image></statement></exercise>
+    <image source="nonumbline.png" width="80%"><description>number line</description></image></statement></exercise>
 </exercisegroup>
 
 <exercisegroup>

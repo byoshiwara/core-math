@@ -8,7 +8,7 @@
     <li><p>Bar Graphs</p></li>
     <li><p>Using Letters for Variables</p></li>
   </ul></p>
-      <image source="earth.png"></image></sidebyside>
+      <image source="earth.png"><description>Earth</description></image></sidebyside>
 
 <subsection><title>What is a Variable?</title>
 
@@ -36,7 +36,7 @@
 
   <p>Yes: Delbert's age is always six more than Francine's age.</p></li>
   <li><p>Write a mathematical sentence that expresses Delbert's age in terms of Francine's age.</p>
-  <me>\text{Delbert's age} = \blert{\text{Francine's age} + 6}</me></li>
+    <md><mrow>\text{Delbert's age} = \blert{\text{Francine's age} + 6}</mrow></md></li>
 </ol></p></statement></example>
 
 <p>In the example above, Francine's age and Delbert's age are <term>variables</term>.</p>
@@ -108,7 +108,7 @@
 
   <p>Yes:  Your share is one fourth of the total bill, so you can divide the total bill by 4 to find your share.</p></li>
   <li><p>Write a mathematical sentence that expresses your share of the bill in terms of the total bill.
-    <me>\text{Your share} = \blert{\text{utility bill} \div 4}</me></p></li>
+      <md><mrow>\text{Your share} = \blert{\text{utility bill} \div 4}</mrow></md></p></li>
   </ol></p></statement></example>
 
   <p>In Example 2.3.4, Your Share and Utility Bill are variables, because they can change from month to month.</p>
@@ -246,18 +246,18 @@
 <p>We can use a <term>bar graph</term> to display the values of a variable. The height of the bar illustrates the value at each time or in each situation.</p>
 
 <example><statement><p>The bar graph shows the number of new homes sold each month in Columbus County last year.</p>
-    <image source="bargraph1.png" width="75%"></image>
+    <image source="bargraph1.png" width="75%"><description>new homes bar graph</description></image>
 <p><ol marker="a.">
   <li><p>What variable is shown in this graph?
-        <me>\blert{\text{Number of new homes}}</me></p></li>
+        <md><mrow>\blert{\text{Number of new homes}}</mrow></md></p></li>
   <li><p>How many houses were sold in March?
-        <me>\blert{\text{Twenty houses were sold in March.}}</me></p></li>
+        <md><mrow>\blert{\text{Twenty houses were sold in March.}}</mrow></md></p></li>
   <li><p>In which month(s) were 35 houses sold?
-        <me>\blert{\text{Thirty-five houses were sold in July and in October.}}</me></p></li>
+        <md><mrow>\blert{\text{Thirty-five houses were sold in July and in October.}}</mrow></md></p></li>
   <li><p>In which month were the most houses sold, and how many houses were sold that month?
-        <me>\blert{\text{The most houses were sold in June;  40 houses were sold that month.}}</me></p></li>
+        <md><mrow>\blert{\text{The most houses were sold in June;  40 houses were sold that month.}}</mrow></md></p></li>
   <li><p>How much did housing sales decline from October to November?
-        <me>\blert{\text{Housing sales declined by 25 (from 35 to 10).}}</me></p></li>
+        <md><mrow>\blert{\text{Housing sales declined by 25 (from 35 to 10).}}</mrow></md></p></li>
 </ol></p></statement></example>
 
 <exercise><statement><p>Refer to the bar graph in Example 2.3.6, which shows new home sales in Columbus County.</p> 
@@ -358,19 +358,19 @@
   <p>Here is a bar graph that shows the values of two variables.</p>
 
 <example><statement><p><sidebyside widths="50% 35%"><p>In the 1990's, when cell phones first became available, Motorola and Nokia were competing phone companies. The bar graph shows the portion of the market captured by each company from 1994 to 2000.</p>
-  <image source="oldphone.png"></image></sidebyside></p>
+  <image source="oldphone.png"><description>old phone</description></image></sidebyside></p>
 
-  <image source="bargraph2.png" width="85%"></image>
+  <image source="bargraph2.png" width="85%"><description>phone bar graph</description></image>
 
 <p><ol marker="a.">
-  <li><p>What was Motorola's share of the market in 2000?   <m>~~~~~~\blert{\text{15%}}</m></p></li>
+  <li><p>What was Motorola's share of the market in 2000?   <m>~~~~~~\blert{\text{15\%}}</m></p></li>
   <li><p>In which year shown did Motorola have a 24% market share?   <m>~~~~~~\blert{\text{1997}}</m></p></li>
   <li><p>In which of the years shown did Motorola have its largest market share?  What was that share?
-    <me>\blert{\text{In 1994 Motorola had 33% of the market.}}</me></p></li>    
+    <md><mrow>\blert{\text{In 1994 Motorola had 33\% of the market.}}</mrow></md></p></li>    
   <li><p>By how much did Motorola's market share exceed Nokia's in 1995?
-    <me>\blert{\text{8 percentage points}}</me></p></li>
+    <md><mrow>\blert{\text{8 percentage points}}</mrow></md></p></li>
   <li><p>In which of the years shown did Motorola have its largest lead over Nokia in market share?  What was that lead?
-    <me>\blert{\text{In 1994 Motorola had a 12% lead in market share.}}</me></p></li>
+    <md><mrow>\blert{\text{In 1994 Motorola had a 12\% lead in market share.}}</mrow></md></p></li>
 </ol></p></statement></example>
 
 <exercise><statement><p>Refer to the bar graph in Example 2.3.8.</p>
@@ -426,7 +426,7 @@
   <li><p>What percent of the population was under 25 in 1900?  In 2015?</p></li>
   <li><p>What percent of the population was over 44 in 1900?  In 2015?</p></li>
   <li><p>Make a double bar graph displaying the information in the table.                                      
-        <image source="bargraph3.png" width="85%"></image></p></li>
+        <image source="bargraph3.png" width="85%"><description>age grid</description></image></p></li>
   <li><p>In your opinion, what is the most striking change in the age distribution of the U. S. population form 1900 to 2015?  How is that change illustrated by the bar graph?</p></li>
 </ol></p></activity>
 </subsection>
@@ -467,11 +467,11 @@
     </tabular></p></li>
 
 <li><p>Explain how to find Shawna's age if you know Jayson's age.
-    <me>\blert{\text{Add 22 to Jayson's age.}}</me></p></li>
+    <md><mrow>\blert{\text{Add 22 to Jayson's age.}}</mrow></md></p></li>
 <li><p>Write a mathematical sentence for Francine's age.
-    <me>\text{Shawna's age} = \blert{\text{Jayson's age} +  22}</me></p></li>
+    <md><mrow>\text{Shawna's age} = \blert{\text{Jayson's age} +  22}</mrow></md></p></li>
 <li><p>Let <m>\alert{a}</m> stand for Jayson's age, and write an expression for Shawna's age in terms of <m>\alert{a}</m>.
-    <me>\text{Shawna's age} = \blert{a +  22}</me></p></li>
+    <md><mrow>\text{Shawna's age} = \blert{a +  22}</mrow></md></p></li>
 <li><p>Check that your expression for Shawna's age gives the correct values when we replace Jayson's age by <m>\alert{a}</m> in the table in part (a).</p>
 
 <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -599,7 +599,7 @@
 
 <activity><title>Using Letters for Variables</title>
 <p><ol>
-  <li><sidebyside widths="60% 30%" valigns="middle middle" margins="0% 10%"><p>Uncle Herb is on a diet. He can have 1200 calories per day.</p><image source="salad.png"></image></sidebyside>  
+  <li><sidebyside widths="60% 30%" valigns="middle middle" margins="0% 10%"><p>Uncle Herb is on a diet. He can have 1200 calories per day.</p><image source="salad.png"><description>salad</description></image></sidebyside>  
     <p><ol marker="a.">
       <li><p>If Uncle Herb has 700 calories for lunch, how many calories can he have for dinner?</p></li>
       <li><p>Explain how to find the number of calories Uncle Herb can have for dinner if he consumes <m>c</m> calories for lunch.</p></li>
@@ -651,10 +651,10 @@
 <assemblage><title>A Quick Fractions Refresher</title>
 <p><ul>
   <li><p>To find <m>\dfrac{1}{3}</m> of a number, we divide the number by 3:
-      <me>\dfrac{1}{3}~ \text{of}~ 36 = 36 \div 3 = 12</me></p></li>
+      <md><mrow>\dfrac{1}{3}~ \text{of}~ 36 = 36 \div 3 = 12</mrow></md></p></li>
   <li><p>To find <m>\dfrac{2}{3}</m> of a number, we first find <m>\dfrac{1}{3}</m> of the number (divide by 3), then 
   multiply the result by 2:
-      <me>\dfrac{2}{3}~ \text{of}~ 36 = 2 \times 12 = 24</me></p>
+      <md><mrow>\dfrac{2}{3}~ \text{of}~ 36 = 2 \times 12 = 24</mrow></md></p>
 
 <p><m>\blert{\text{Exercise}}</m> </p>
   <p><ol marker="a."> 
@@ -662,9 +662,9 @@
     <li><p>Find <m>\dfrac{3}{4}</m> of 120.</p></li></ol></p></li>
 
 <li><p>To find 5% of a number, we multiply the number by 0.05:
-      <me>5\% ~ \text{of}~ 80 = 0.05 \times 80 = 4</me></p></li>
+      <md><mrow>5\% ~ \text{of}~ 80 = 0.05 \times 80 = 4</mrow></md></p></li>
 <li><p>If a number is increased by 5%, we multiply the number by 1.05:
-      <me>80~ \text{increased by}~ 5\% ~\text{is}~  1.05 \times 80 = 84</me></p>
+      <md><mrow>80~ \text{increased by}~ 5\% ~\text{is}~  1.05 \times 80 = 84</mrow></md></p>
 
 <p><m>\blert{\text{Exercise}}</m></p>
   <p><ol marker="a."> 

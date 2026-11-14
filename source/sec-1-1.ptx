@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-1-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Halves and Quarters</title>
+<title>Halves and Quarters</title>
+  
   <sidebyside widths="50% 40%"><p><ul>
     <li><p>One-Half</p></li>
     <li><p>Other Ways to Write One-Half</p></li>
@@ -16,15 +17,15 @@
 
     <p>The most familiar fraction is <m>\large{\blert{\text{one-half}}}~~~</m>, or <m>\large{\blert{\dfrac{1}{2}}}.</m></p>
 
-    <image source="half.png" width="55%"></image>
+    <image source="half.png" width="55%"><description>half</description></image>
 
     <p>To find one-half of something, we divide it into <m>\large{\blert{2}}~\blert{\text{equal}}~~</m> pieces and take <m>\large{\blert{1}}</m> of them.
 
-    <me>\large{\dfrac{1}{2}}~~~~~~ \text{means}~~~~~~ \dfrac{\text{take}~~~ \large{1}~~ \text{piece}}{\text{from} ~~~ \large{2}~~ \text{equal pieces}}</me></p>
+        <md><mrow>\large{\dfrac{1}{2}}~~~~~~ \text{means}~~~~~~ \dfrac{\text{take}~~~ \large{1}~~ \text{piece}}{\text{from} ~~~ \large{2}~~ \text{equal pieces}}</mrow></md></p>
 
     <p>If we have a group of objects, we separate them into <m>\large{\blert{2}}~~\blert{\text{equal}}~~</m> groups and take <m>\large{\blert{1}}</m> group.  Each group is a part of the whole.  We write this as a fraction like this:
 
-    <me>\frac{\text{number of objects in the}~\blert{\text{part}}}{\text{number of objects in the}~\blert{\text{whole}}},~~~~\text{or just}~~~~\frac{\large{\blert{\text{part}}}}{\large{\blert{\text{whole}}}}</me></p>
+    <md><mrow>\frac{\text{number of objects in the}~\blert{\text{part}}}{\text{number of objects in the}~\blert{\text{whole}}},~~~~\text{or just}~~~~\frac{\large{\blert{\text{part}}}}{\large{\blert{\text{whole}}}}</mrow></md></p>
 
     <example><statement><p><ol marker="a.">
         <li><p><m>{\dfrac{1}{2}}</m> of a dozen eggs (12 eggs) <m>=</m> 6 eggs</p>
@@ -32,14 +33,14 @@
       <image source="eggs.png" width="75%"><description>eggs</description></image>
       
       <m>~~~~~~~~~~~~~~~~~~\blert{\text{A whole dozen is 12 eggs.}~~~~~~~~~~~~\text{Our part is 6 eggs:} ~~\dfrac{6}{12}}</m>
-          <me>\frac{\text{part}}{\text{whole}} = \large{\dfrac{6}{12}} = \large{\dfrac{1}{2}}~~~~~~~~~~~~~~~</me></li>
+          <md><mrow>\frac{\text{part}}{\text{whole}} = \large{\dfrac{6}{12}} = \large{\dfrac{1}{2}}~~~~~~~~~~~~~~~</mrow></md></li>
 
         <li><p><m>{\dfrac{1}{2}}</m> of an hour (60 minutes) <m>=</m> 30 minutes</p> 
       
       <image source="clocks.png" width="65%"><description>clocks</description></image>
       
       <m>~~~~~~~~~~~~~~~~~~\blert{\text{A whole hour is 60 minutes.}~~~~~~~~~~\text{Our part is 30 minutes:} ~~\dfrac{30}{60}}</m>
-          <me>\frac{\text{part}}{\text{whole}} = \large{\dfrac{30}{60}} = \large{\dfrac{1}{2}}~~~~~~~~~~~~~~~</me></li>
+          <md><mrow>\frac{\text{part}}{\text{whole}} = \large{\dfrac{30}{60}} = \large{\dfrac{1}{2}}~~~~~~~~~~~~~~~</mrow></md></li>
       </ol></p></statement></example>
   </subsection>
 
@@ -52,7 +53,7 @@
   <exercise><statement><p><ol marker="a.">
     <li><p>Write fractions that are equal to <m>{\dfrac{1}{2}}</m>.
 
-      <me>\large{\dfrac{1}{2}}:~~~~~~~~\large{\dfrac{?}{16}}~~~~~~~~\large{\dfrac{?}{24}}~~~~~~~~\large{\dfrac{9}{?}}~~~~~~~~\large{\dfrac{25}{?}}~~~~~~~~\large{\dfrac{?}{72}}~~~~~~~~\large{\dfrac{50}{?}}</me></p></li>
+      <md><mrow>\large{\dfrac{1}{2}}:~~~~~~~~\large{\dfrac{?}{16}}~~~~~~~~\large{\dfrac{?}{24}}~~~~~~~~\large{\dfrac{9}{?}}~~~~~~~~\large{\dfrac{25}{?}}~~~~~~~~\large{\dfrac{?}{72}}~~~~~~~~\large{\dfrac{50}{?}}</mrow></md></p></li>
 
     <li><p>Did you notice: To find the "part" of each fraction, we <fillin characters="15" /> the "whole" by <fillin characters="15" />.</p></li>
   </ol></p></statement>
@@ -69,7 +70,7 @@
 
     <p><ol marker="1.">
       <li><p>Greta used a yardstick to measure a picture frame that is 20 inches wide. What fraction of a yard is that? (A yard is 36 inches.)</p>
-        <p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+        <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell>Whole</cell>
             <cell>Part</cell>
@@ -80,12 +81,12 @@
             <cell><nbsp /></cell>
             <cell><nbsp /></cell>
             <cell><nbsp /></cell></row>
-        </tabular></sidebyside></p>
+        </tabular></p>
 
         <p>The fraction described in the story is <fillin characters="15" /> one-half.</p></li>
 
     <li><p>Josh is taking an 18-day course of antibiotics.  What fraction of a month (30 days) is that?</p>
-        <p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+        <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell>Whole</cell>
             <cell>Part</cell>
@@ -96,12 +97,12 @@
             <cell><nbsp /></cell>
             <cell><nbsp /></cell>
             <cell><nbsp /></cell></row>
-        </tabular></sidebyside></p>
+        </tabular></p>
 
         <p>The fraction described in the story is <fillin characters="15" /> one-half.</p></li>
 
     <li><p>Carol swam 660 yards today. What fraction of a mile is that? (A mile is 1760 yards.)</p>
-        <p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+        <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell>Whole</cell>
             <cell>Part</cell>
@@ -112,12 +113,12 @@
             <cell><nbsp /></cell>
             <cell><nbsp /></cell>
             <cell><nbsp /></cell></row>
-        </tabular></sidebyside></p>
+        </tabular></p>
 
         <p>The fraction described in the story is <fillin characters="15" /> one-half.</p></li>
  
     <li><p>Noah's paycheck was $256. He deposited $128 in his savings account. What fraction of his paycheck was that?</p>
-        <p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+        <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell>Whole</cell>
             <cell>Part</cell>
@@ -128,7 +129,7 @@
             <cell><nbsp /></cell>
             <cell><nbsp /></cell>
             <cell><nbsp /></cell></row>
-        </tabular></sidebyside></p>
+        </tabular></p>
 
         <p>The fraction described in the story is <fillin characters="15" /> one-half.</p></li>
 </ol></p></activity>
@@ -139,7 +140,7 @@
 
 <example><statement><p>If you take one-half of half a pizza, what fraction of the pizza do you have?
 
-<image source="fourth.png" width="55%"></image></p></statement>
+<image source="fourth.png" width="55%"><description>fourths</description></image></p></statement>
 
 <solution><p>You have one-fourth of the pizza, or <m>\dfrac{1}{4}</m>, because your piece is <m>1</m> of <m>4</m> equal pieces that make up the whole pizza.  Because there are <m>4</m> fourths in a whole pizza, after you take your piece, there are <m>3</m> fourths, or <m>\dfrac{3}{4}</m> of a pizza left.</p></solution></example>
 
@@ -194,18 +195,18 @@
 
 <p>Earlier we saw that we can write one-half in many different ways. For example,
 
-  <me>\large{\blert{\dfrac{1}{2}=\dfrac{3}{6}=\dfrac{4}{8}}}</me>
+  <md><mrow>\large{\blert{\dfrac{1}{2}=\dfrac{3}{6}=\dfrac{4}{8}}}</mrow></md>
   
   We can also write one-fourth and three-fourths in different ways.</p>
 
   <example><statement><p><ol marker="a.">
     <li><p><m>\dfrac{1}{2}</m> of a dozen eggs (12 eggs) <m>=</m> 3 eggs</p>
           
-        <image source="three-eggs.png" width="60%"><description>clocks</description></image>
+        <image source="three-eggs.png" width="60%"><description>3 eggs</description></image>
           
         <m>~~~~~~~~~~~~~~~~~~~~\blert{\text{A whole dozen is 12 eggs.}~~~~~~~~\text{Our part is 3 eggs:} ~~\dfrac{3}{12}}</m>
 
-        <me>\frac{\text{part}}{\text{whole}} = \large{\dfrac{3}{12}} = \large{\dfrac{1}{4}}~~~~~~~~~~~~~~~</me></li>
+        <md><mrow>\frac{\text{part}}{\text{whole}} = \large{\dfrac{3}{12}} = \large{\dfrac{1}{4}}~~~~~~~~~~~~~~~</mrow></md></li>
     
     <li><p><m>{\dfrac{3}{4}}</m> of an hour (60 minutes) <m>=</m> 45 minutes</p>
           
@@ -213,12 +214,12 @@
       
       <m>~~~~~~~~~~~~~~~~~~~~\blert{\text{A whole hour is 60 minutes.}~~~~~~~~\text{Our part is 45 minutes:} ~~\dfrac{45}{60}}</m>
           
-          <me>\frac{\text{part}}{\text{whole}} = \large{\dfrac{45}{60}} = \large{\dfrac{3}{4}}~~~~~~~~~~~~~~~</me></li>
+          <md><mrow>\frac{\text{part}}{\text{whole}} = \large{\dfrac{45}{60}} = \large{\dfrac{3}{4}}~~~~~~~~~~~~~~~</mrow></md></li>
       </ol></p></statement></example>
 
   <p>When we write a fraction, the number that gives the "part" (the top) is called the <term>numerator</term>, and the number that gives the "whole" (the bottom) is called the <term>denominator</term>. For example, in the fraction <m>\dfrac{15}{60}</m>, the numerator is 15 and the denominator is 60.
 
-    <me>\frac{\text{part}}{\text{whole}} = \large{\dfrac{15}{60}} = \large{\alert{\dfrac{\text{numerator}}{\text{denominator}}}}</me></p>
+    <md><mrow>\frac{\text{part}}{\text{whole}} = \large{\dfrac{15}{60}} = \large{\alert{\dfrac{\text{numerator}}{\text{denominator}}}}</mrow></md></p>
 
     <assemblage><title>Definition</title>
     <p>The <term>denominator</term> of a fraction (the bottom) tells us how many pieces are in one whole. The <term>numerator</term> (the top) tells us how many pieces are in the part.</p></assemblage>
@@ -278,13 +279,13 @@
   <image source="numberline12.png" width="70%"><description>number line</description></image></p></statement>
 
 <solution><p>To find <m>\dfrac{1}{2}</m> of 12, we divide by 2:
-              <me>\dfrac{1}{2}~ \text{of}~ 12 = 12 \div 2 = \alert{6}</me></p>
+              <md><mrow>\dfrac{1}{2}~ \text{of}~ 12 = 12 \div 2 = \alert{6}</mrow></md></p>
     
     <p>To find <m>\dfrac{1}{4}</m> of 12, we divide by 4:
-              <me>\dfrac{1}{4}~ \text{of}~ 12 = 12 \div 4 = \alert{3}</me></p>
+              <md><mrow>\dfrac{1}{4}~ \text{of}~ 12 = 12 \div 4 = \alert{3}</mrow></md></p>
     
     <p>To find <m>\dfrac{3}{4}</m> of 12, we multiply <m>\dfrac{1}{4}</m> of 12 by 3:
-              <me>\dfrac{3}{4}~ \text{of}~ 12 = 3 \times 3 = \alert{9}</me></p>
+              <md><mrow>\dfrac{3}{4}~ \text{of}~ 12 = 3 \times 3 = \alert{9}</mrow></md></p>
 
 <p>Here is a number line showing the results:
   
@@ -293,7 +294,7 @@
 
 <note><p>From the previous Example, we see that 
   
-  <me>\dfrac{1}{4}=\dfrac{3}{12},~~~~  \dfrac{1}{2}=\dfrac{6}{12},~~~~ \text{and} ~~~~  \dfrac{3}{4}=\dfrac{9}{12}</me>
+  <md><mrow>\dfrac{1}{4}=\dfrac{3}{12},~~~~  \dfrac{1}{2}=\dfrac{6}{12},~~~~ \text{and} ~~~~  \dfrac{3}{4}=\dfrac{9}{12}</mrow></md>
 
 A number line can help us visualize familiar fractions written with different denominators.  Here is the number line from that Example, showing the fractions written with denominator 12.
   <image source="twelfthsnumberline.png" width="75%"><description>number line</description></image></p></note>
@@ -379,20 +380,20 @@ A number line can help us visualize familiar fractions written with different de
 <solution> <ol marker="a.">
   <li><p> We write the fraction as
     
-    <me>\dfrac{\text{part}}{\text{whole}} = \dfrac{9~~ \text{out-of-state students}}{32~~ \text{total students}}</me>
+    <md><mrow>\dfrac{\text{part}}{\text{whole}} = \dfrac{9~~ \text{out-of-state students}}{32~~ \text{total students}}</mrow></md>
   
   Out-of-state students make up <m>\dfrac{9}{32}</m> of Ethan's class.</p></li>
   
   <li><p>Let's compute the benchmark fractions with denominator 32.
-      <me>\dfrac{1}{4}~~\text{of}~~32 = 8,~~~~~~~~~~\text{so}~~\dfrac{1}{4}=\dfrac{8}{32}</me>
-      <me>\dfrac{1}{2}~~\text{of}~~32 = 16,~~~~~~~~~~\text{so}~~\dfrac{1}{2}=\dfrac{16}{32}</me>
-      <me>\dfrac{3}{4}~~\text{of}~~32 = 3 \times 8 = 24,~~~~\text{so}~~\dfrac{3}{4}=\dfrac{24}{32}</me></p>
+      <md><mrow>\dfrac{1}{4}~~\text{of}~~32 = 8,~~~~~~~~~~\text{so}~~\dfrac{1}{4}=\dfrac{8}{32}</mrow></md>
+      <md><mrow>\dfrac{1}{2}~~\text{of}~~32 = 16,~~~~~~~~~~\text{so}~~\dfrac{1}{2}=\dfrac{16}{32}</mrow></md>
+      <md><mrow>\dfrac{3}{4}~~\text{of}~~32 = 3 \times 8 = 24,~~~~\text{so}~~\dfrac{3}{4}=\dfrac{24}{32}</mrow></md></p>
     
     <p>Now that we have written the benchmark fractions with the appropriate denominator, we can compare our fraction from part (a). We see that the fraction <m>\dfrac{9}{32}</m> is slightly more than <m>\dfrac{1}{4}</m> of the class.</p></li>
   </ol></solution></example>
 
   <note><p>In part (b) of the previous Example, do you see why
-      <me>\dfrac{3}{4}~~\text{of}~~~~~32 = 3 \times 8 ?</me></p></note>
+      <md><mrow>\dfrac{3}{4}~~\text{of}~~~~~32 = 3 \times 8 ?</mrow></md></p></note>
 
   <p> We can use a number line to compare fractions. Here are the fractions from the previous Example shown on a number line.
     <image source="comparenumberline.png" width="70%"><description>number line</description></image></p>
@@ -400,7 +401,7 @@ A number line can help us visualize familiar fractions written with different de
   <exercise><p>One yard is equal to 36 inches. <ol marker="a.">
       <li><p>Compute the benchmark fractions with denominator 36.
         
-        <me>\dfrac{1}{4}=~~~~~~~~~~ \dfrac{1}{2}=~~~~~~~~~~ \dfrac{3}{4}=~~~~~~~~~~</me></p></li>
+        <md><mrow>\dfrac{1}{4}=~~~~~~~~~~ \dfrac{1}{2}=~~~~~~~~~~ \dfrac{3}{4}=~~~~~~~~~~</mrow></md></p></li>
       
       <li><p>Draw a number line showing the benchmark fractions from part (a).
         

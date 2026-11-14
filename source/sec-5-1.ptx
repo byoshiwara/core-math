@@ -12,7 +12,7 @@
     <li><p>Multiplying Variable Expressions</p></li>
     <li><p>Evaluating Variable Expressions</p></li>
   </ul></p>
-      <image source="cats.png"></image></sidebyside> 
+      <image source="cats.png"><description>5 cats</description></image></sidebyside> 
   
 <subsection><title>Like Terms</title>
 
@@ -24,16 +24,16 @@
     <li><p>Suppose tuition at your college is $20 per unit. If you are enrolled in eight units this semester and plan to enroll in ten units next semester, then you can figure your tuition for the year in two ways.</p>
 
     <p>Method 1:  Calculate the tuition for each semester, then add them up:
-        <me>\blert{8}($20) + \blert{10} ($20) = <fillin characters="4"/> + <fillin characters="4"/> = <fillin characters="4"/></me></p>
+        <md><mrow>\blert{8}($20) + \blert{10} ($20) = <fillin characters="4"/> + <fillin characters="4"/> = <fillin characters="4"/></mrow></md></p>
     <p>Method 2: Add up the number of units for the whole year, then calculate the tuition:
-        <me>\blert{(8 + 10)} ($20) = <fillin characters="2"/> ($20) = <fillin characters="4"/></me>
+        <md><mrow>\blert{(8 + 10)} ($20) = <fillin characters="2"/> ($20) = <fillin characters="4"/></mrow></md>
     Either calculation gives your total tuition for the year.</p></li>
 
     <li><p>Next year the tuition at your college is going up to some unknown figure, <m>x</m> dollars per unit. If you take the same number of units next year, your tuition will be
-        <me>\blert{8}x~ \text{dollars} + \blert{10}x~  \text{dollars}</me>
+        <md><mrow>\blert{8}x~ \text{dollars} + \blert{10}x~  \text{dollars}</mrow></md>
     This time you cannot use Method 1 to calculate your tuition, because you don't know what <m>x</m> is equal to.</p>
     <p>But we can use Method 2.  We add up multiples of <m>x</m> dollars exactly the same way we added up multiples of $20. Your tuition for the year will be
-        <me>\blert{(8 + 10)}(x) = <fillin characters="2"/>(x)~ \text{dollars}</me>
+        <md><mrow>\blert{(8 + 10)}(x) = <fillin characters="2"/>(x)~ \text{dollars}</mrow></md>
     Now as soon as you learn the value of , you can find your tuition for the year.</p></li>
   </ol></p></activity>
 
@@ -63,7 +63,7 @@
 <answer><p><m>15ab</m></p></answer></exercise>
 
 <note><p>Because <m>x = 1 \cdot x</m>, the coefficient of <m>x</m> is <m>1</m>.  Also, because 0 times any number is 0, we have  
-    <me>0 \cdot x = 0</me></p></note>
+    <md><mrow>0 \cdot x = 0</mrow></md></p></note>
 
 <example><statement><p>Combine like terms.</p>
   <ol marker="a.">
@@ -95,9 +95,9 @@ cannot be simplified;  they just stay the way they are.</p>
 <assemblage><title>A Quick Refresher</title>
 <p>Remember the order of operations:  we perform all multiplications (and 
 divisions) before additions and subtractions.  For example, to evaluate
-    <me>3 + 5x ~~~~\text{for} ~~~~x = \alert{6}</me>
+    <md><mrow>3 + 5x ~~~~\text{for} ~~~~x = \alert{6}</mrow></md>
 we perform the multiplication first.
-    <me>3 + 5(\alert{6}) = 3 + 30 = 33</me></p></assemblage>
+    <md><mrow>3 + 5(\alert{6}) = 3 + 30 = 33</mrow></md></p></assemblage>
 
 <activity><title>Equivalent Expressions</title>
 
@@ -174,11 +174,11 @@ we perform the multiplication first.
 <subsection><title>Constant Multiples of Terms</title>
 
 <p>Recall that <m>3x</m> means <m>3</m> times <m>x</m>,  or
-    <me>3x = x + x + x</me>
+    <md><mrow>3x = x + x + x</mrow></md>
 because multiplication is really just repeated addition.  Similarly, <m>3(2x)</m>  means <m>3</m> times <m>2x</m>, or
-    <me>3(2x) = 2x + 2x + 2x</me>
+    <md><mrow>3(2x) = 2x + 2x + 2x</mrow></md>
 By combining like terms, we see that  <m>~2x + 2x + 2x = 6x</m>.  Thus,
-    <me>3(2x) = 6x</me></p>
+    <md><mrow>3(2x) = 6x</mrow></md></p>
 
 <assemblage><p>To multiply a term by a constant, we multiply the coefficient of the term by the constant.</p></assemblage>
 
@@ -211,12 +211,12 @@ By combining like terms, we see that  <m>~2x + 2x + 2x = 6x</m>.  Thus,
 <p>An <term>exponent</term> is a number that appears above and to the right of a particular factor.  It tells us how many times that factor occurs in the product.</p> 
   
 <p>For example, we can write <m>32</m> as <m>2^5</m>.</p>
-      <image source="exponent.png" width="50%"></image></assemblage>
+      <image source="exponent.png" width="50%"><description>exponent</description></image></assemblage>
 
 <p>In like terms the variable parts of the terms must be exactly the same, including their exponents.  For example,
-      <me>5x^2 ~~ \text{and} ~~ 2x^2 ~~ \text{are like terms}</me>
+      <md><mrow>5x^2 ~~ \text{and} ~~ 2x^2 ~~ \text{are like terms}</mrow></md>
 but
-      <me>6x ~~ \text{and} ~~ 3x^2 ~~ \text{are not like terms}</me></p>
+      <md><mrow>6x ~~ \text{and} ~~ 3x^2 ~~ \text{are not like terms}</mrow></md></p>
 
 <p>This is because <m>x</m> and <m>x^2</m> are usually not the same number (unless <m>x</m> happens to be 0 or 1), so we cannot combine them into one group (like cats and canaries).</p>
 
@@ -228,12 +228,12 @@ but
 
 <solution><p><ol marker="a.">
     <li><p>We add the coefficients, <m>4 + 3</m>,  and leave the variable part, <m>x</m>, unchanged.
-        <me>4x^2 + 3x^2 = (4 + 3) x^2 = 7x^2</me></p></li>
+        <md><mrow>4x^2 + 3x^2 = (4 + 3) x^2 = 7x^2</mrow></md></p></li>
     <li><p><m>7a^2</m> and <m>5a</m> are not like terms, because the variable, <m>a</m>, does not have the same exponent.  So we cannot combine the terms; this expression cannot be simplified.</p></li>
 </ol></p></solution></example>
 
 <note><p>When combining like terms, we <em>do not add the exponents</em>.  For example,
-      <me>4x^2 + 3x^2 = 7x^4 ~~~~ \alert{\text{is  incorrect!}}</me>
+      <md><mrow>4x^2 + 3x^2 = 7x^4 ~~~~ \alert{\text{is  incorrect!}}</mrow></md>
 (What is the correct answer?)</p></note>
 
 <exercise><statement><p>Combine like terms:  <m>~~~ 7w^3 + 8w^3</m></p></statement>
@@ -260,16 +260,16 @@ The product is the same.</p>
 <example><statement><p>Multiply  <m>~(2a)(3a)</m></p></statement>
 
 <solution><p>First, we rearrange the factors to put the coefficients together and the variable factors together.
-      <me>(2a)(3a) = 2 \cdot 3 \cdot a \cdot a</me>
+      <md><mrow>(2a)(3a) = 2 \cdot 3 \cdot a \cdot a</mrow></md>
 Now we can multiply <m>2 \cdot 3</m>  to get 6, and <m>a \cdot a</m> to get <m>a^2</m>.  Thus,
-      <me>(2a)(3a) = 2 \cdot 3 \cdot a \cdot a = 6a^2</me></p></solution></example>
+      <md><mrow>(2a)(3a) = 2 \cdot 3 \cdot a \cdot a = 6a^2</mrow></md></p></solution></example>
 
 <note><p>Be careful to distinguish between multiplying and adding.  Remember that
-      <me>2x ~~~~ \text{means} ~~~~ x + x ~~~~\text{(addition),}</me>
+      <md><mrow>2x ~~~~ \text{means} ~~~~ x + x ~~~~\text{(addition),}</mrow></md>
 while
-      <me>x^2 ~~~~ \text{means} ~~~~ x \cdot x ~~~~ \text{(multiplication).}</me>
+      <md><mrow>x^2 ~~~~ \text{means} ~~~~ x \cdot x ~~~~ \text{(multiplication).}</mrow></md>
 For example, if  <m>x=5</m>,
-      <me>2x = 5 + 5 = 10 ~~~~ \text{and} ~~~~x^2 = 5 \cdot 5 = 25</me></p></note>
+      <md><mrow>2x = 5 + 5 = 10 ~~~~ \text{and} ~~~~x^2 = 5 \cdot 5 = 25</mrow></md></p></note>
 
 <exercise><statement><p>Multiply  <m>~(7q)(2q)</m></p></statement>
 

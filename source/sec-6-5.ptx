@@ -8,7 +8,7 @@
     <li><p>Areas of Similar Figures</p></li>
     <li><p>Volumes of Proportional Solids</p></li>
   </ul></p>
-      <image source="cannisters.png"></image></sidebyside>
+      <image source="cannisters.png"><description>three kitchen cannisters</description></image></sidebyside>
 
 <introduction>
 
@@ -24,23 +24,24 @@
 <subsection><title>Areas of Similar Figures</title>
 
 <p>The Pizza Company sells its 8-inch cheese pizza for $5.00 and its 16-inch cheese pizza for $15.00. Which is the better deal:  three 8-inch pizzas for $15.00, or one 16-inch pizza for $15.00?</p>
-    <image source="pizzas.png" width="70%"></image>
+    <image source="pizzas.png" width="70%"><description>three small pizzas and one large pizza</description></image>
 <p>At first it might seem that the smaller pizzas are a better deal, since doubling the diameter of the pizza tripled its price. But with pizza, the better deal is the one that gives you the most pizza for your money, and because pizzas are flat, that means the most area.</p>
 
-<p><m>\blert{\text{Question:}}</m> Does doubling the diameter of a pizza double its area?</p>
+<assemblage>
+  <p> Question:  Does doubling the diameter of a pizza double its area?</p></assemblage>
 
 <p>What about square pizzas? Does a 20-inch square pizza have twice the area of a 10-inch square pizza? In general, if we increase the dimensions of a figure by a particular scale factor, will its area also increase by the same factor?</p>  
 
 <activity><title>Scaling Areas</title>
 
-<p><sidebyside widths="70% 10%" margins="0% 15%" valigns="middle middle"> <p>What happens to the area of a square when we scale up its dimensions? We'll start with a square that measures 3 inches on each side: </p> <image source="three-in.png" width="10%"></image></sidebyside></p>
+<p><sidebyside widths="70% 10%" margins="0% 15%" valigns="middle middle"> <p>What happens to the area of a square when we scale up its dimensions? We'll start with a square that measures 3 inches on each side: </p> <image source="three-in.png" width="10%"><description>3x3 square</description></image></sidebyside></p>
 
 <p><ol>
   <li><p>What is the area of the original square?</p>  
         <p>Area = <fillin></fillin></p></li>
   <li><p>Let's double the side of the square.  Compute the area of the new square.</p>
 
-    <sidebyside widths="30% 20% 30%" margins="0% 5%" valigns="middle middle middle"><p>Area = <fillin></fillin></p>  <image source="six-in.png"></image><p> side = 6 inches</p></sidebyside></li>
+    <sidebyside widths="30% 20% 30%" margins="0% 5%" valigns="middle middle middle"><p>Area = <fillin></fillin></p>  <image source="six-in.png"><description>6x6 square</description></image><p> side = 6 inches</p></sidebyside></li>
 
   <li><p>Now we'll compute some scale factors. </p>
 
@@ -56,11 +57,11 @@
       <li><p>The original area is scaled by a factor of <fillin></fillin></p></li>
     </ul></p>
 
-    <p><sidebyside widths="40% 10% 20%" margins="0% 15%" valigns="middle middle middle"><p>How many of the original squares fit inside the new square?</p><image source="three-in.png"></image><image source="six-in.png"></image></sidebyside></p></li>
+    <p><sidebyside widths="40% 10% 20%" margins="0% 15%" valigns="middle middle middle"><p>How many of the original squares fit inside the new square?</p><image source="three-in.png"><description>3x3 square</description></image><image source="six-in.png"><description>6x6 square</description></image></sidebyside></p></li>
 
   <li><p>What happens if we triple the original side? Compute the area of the new square.</p>
 
-    <sidebyside widths="25% 30% 30%" margins="0% 5%" valigns="middle middle middle"><p>Area = <fillin></fillin></p><image source="nine-in.png"></image><p> side = 9 inches</p></sidebyside></li>
+    <sidebyside widths="25% 30% 30%" margins="0% 5%" valigns="middle middle middle"><p>Area = <fillin></fillin></p><image source="nine-in.png"><description>9x9 square</description></image><p> side = 9 inches</p></sidebyside></li>
 
   <li><p>Compute scale factors again. </p>
 
@@ -76,7 +77,7 @@
       <li><p>The original area is scaled by a factor of <fillin></fillin></p></li>
     </ul></p>
 
-    <p><sidebyside widths="30% 10% 30%" margins="0% 15%" valigns="middle middle middle"><p>How many of the original squares fit inside the new square?</p><image source="three-in.png"></image><image source="nine-in.png"></image></sidebyside></p></li>
+    <p><sidebyside widths="30% 10% 30%" margins="0% 15%" valigns="middle middle middle"><p>How many of the original squares fit inside the new square?</p><image source="three-in.png"><description>3x3 square</description></image><image source="nine-in.png"><description>9x9 square</description></image></sidebyside></p></li>
 
   <li><p>Can you see a pattern in the results of your calculations?</p>
 
@@ -103,7 +104,7 @@
 </ol></p></assemblage>
 
 <note><p>Recall that the exponent 2 in <m>k^2</m> tells us to multiply together 2 copies of <m>k</m>, so  <m>k^2 = k \times k</m>.  For example,
-    <me>5^2 = 5 \times 5 = 25 \hphantom{000000} \blert{\text{two factors of 5}}</me></p></note>
+    <md>5^2 = 5 \times 5 = 25 \hphantom{000000} \blert{\text{two factors of 5}}</md></p></note>
 
 <p>Now back to the pizza question: A 16-inch pizza has 4 times the area of an 8-inch pizza, so $15 for a 16-inch pizza is a better deal than $15 for three 8-inch pizzas.</p>
 
@@ -116,7 +117,7 @@
           <mrow>\blert{k^2 \times \text{old area}} \amp = \blert{\text{new area}}</mrow></md></p></solution></example>
 
 <exercise><statement><p>Alys wants to replace her old hot tub with a new circular spa. If the radius of the new spa is twice the radius of the hot tub, how much greater will the area of the spa be?</p>
-      <image source="hottub.png" width = "70%"></image></statement>
+      <image source="hottub.png" width = "70%"><description>two hot tubs</description></image></statement>
 
 <answer><p>The area of the spa will be 4 times greater than the area of the hot tub.</p></answer></exercise>
 
@@ -133,7 +134,8 @@
     <li><p>If we scale all the dimensions of a particular object by the same number, the new object will be similar to the old one.</p></li>
 </ul></p></assemblage>
 
-<p><m>\blert{\text{Question:}}</m> How are the volumes of similar objects related?</p>
+<assemblage>
+<p>Question:  How are the volumes of similar objects related?</p></assemblage>
 
 <activity><title>Scaling Volumes</title>
 
@@ -145,7 +147,7 @@
       <p>length = 3 inches</p> 
       <p>width = 2 inches</p>
       <p>height = 5 inches</p></stack>
-   <image source="box.png"></image></sidebyside></p>
+   <image source="box.png"><description>2x3x5 box</description></image></sidebyside></p>
 
     <p>Volume = <fillin></fillin></p></li> 
 
@@ -153,7 +155,7 @@
     <p>length = <fillin></fillin> inches</p> 
       <p>width = <fillin></fillin> inches</p>
       <p>height = <fillin></fillin> inches</p></stack>
-    <image source="biggerbox.png"></image></sidebyside>
+    <image source="biggerbox.png"><description>6x4x10 box</description></image></sidebyside>
 
       <p>Volume = <fillin></fillin></p></li>
 
@@ -169,7 +171,7 @@
 
         <li><p>The original volume is scaled by a factor of <fillin></fillin>.</p></li></ul></p>
 
-    <p><sidebyside widths="40% 15% 30%" margins="0% 5%" valigns="middle middle middle"><p>How many of the original boxes fit inside the new box?</p><image source="box.png"></image><image source="biggerbox.png"></image></sidebyside></p></li>
+    <p><sidebyside widths="40% 15% 30%" margins="0% 5%" valigns="middle middle middle"><p>How many of the original boxes fit inside the new box?</p><image source="box.png"><description>2x3x5 box</description></image><image source="biggerbox.png"><description>6x4x10 box</description></image></sidebyside></p></li>
 
     <li><p><sidebyside widths="40% 45%" margins = "5% 5%" valigns = "middle middle"><stack>
       <p>What happens if we triple the dimensions of the original box?</p>   
@@ -179,7 +181,7 @@
       <p>width = 2 inches</p>
       <p>height = 5 inches</p>
     <p>Volume = <fillin></fillin></p></stack>
-   <image source="biggestbox.png"></image></sidebyside></p></li>
+   <image source="biggestbox.png"><description>6x9x15 box</description></image></sidebyside></p></li>
 
    <li><p>Compute the scale factors again.</p>
 
@@ -193,7 +195,7 @@
 
         <li><p>The original volume is scaled by a factor of <fillin></fillin>.</p></li></ul></p>
 
-    <p><sidebyside widths="30% 15% 45%" valigns="middle middle middle"><p>How many of the original boxes fit inside the new box?</p><image source="box.png"></image><image source="biggestbox.png"></image></sidebyside></p></li>
+    <p><sidebyside widths="30% 15% 45%" valigns="middle middle middle"><p>How many of the original boxes fit inside the new box?</p><image source="box.png"><description>2x3x5 box</description></image><image source="biggestbox.png"><description>6x9x15 box</description></image></sidebyside></p></li>
 
     <li><p>Can you see a pattern in the results of your calculations?</p>
 
@@ -222,17 +224,17 @@
 </ol></p></assemblage>
 
 <note><p>Recall that the exponent 3 in <m>k^3</m> tells us to multiply together 3 copies of <m>k</m>, so  <m>k^3 = k \times k \times k</m>.  For example,
-    <me>5^3 = 5 \times 5 \times 5 = 125 \hphantom{000000} \blert{\text{three factors of 5}}</me></p></note>
+    <md><mrow>5^3 = 5 \times 5 \times 5 = 125 \hphantom{000000} \blert{\text{three factors of 5}}</mrow></md></p></note>
 
 <p>We can use the volume principle to solve problems about volume.</p>
 
 <example><statement><p>In Gulliver's Travels, the Lilliputians are tiny people about six inches tall. How would the volume of a Lilliputian compare to the volume of a human who is six feet tall?</p></statement>
 
 <solution><p>The scale factor of the dimensions is the ratio of the Lilliputian's height to the human's height:
-    <me>\dfrac{6~\text{inches}}{6~\text{feet}} = \dfrac{6~\text{inches}}{72~\text{inches}} = \dfrac{1}{12}</me>
+    <md><mrow>\dfrac{6~\text{inches}}{6~\text{feet}} = \dfrac{6~\text{inches}}{72~\text{inches}} = \dfrac{1}{12}</mrow></md>
 
 Thus, the volume is scaled by  
-    <me>\left(\dfrac{1}{12}\right)^3 = \dfrac{1}{12} \times \dfrac{1}{12} \times \dfrac{1}{12} = \dfrac{1}{1728}</me>
+    <md><mrow>\left(\dfrac{1}{12}\right)^3 = \dfrac{1}{12} \times \dfrac{1}{12} \times \dfrac{1}{12} = \dfrac{1}{1728}</mrow></md>
 
 The volume of a Lilliputian would be <m>\frac{1}{1728}</m> of the volume of a 6-foot tall human.</p>
 <p>(The weight of a Lilliputian would also be <m>\frac{1}{1728}</m> of the weight of a human. A 6-foot tall man weighs about 180 pounds, so a Lilliputian would weigh <m>\frac{180}{1728}</m> pounds, or <m>1\frac{2}{3}</m> ounces.)</p></solution></example>

@@ -11,33 +11,34 @@
     <li><p>Conditions for Similarity</p></li>
     <li><p>Similar Triangles</p></li>
   </ul></p>
-      <image source="giraffes.png"></image></sidebyside>
-      <image source="nesteddolls.png" width="80%"></image>
+      <image source="giraffes.png"><description> giraffes</description></image></sidebyside>
+      <image source="nesteddolls.png" width="80%"><description>pyramids, nesting dolls</description></image>
 
 <subsection><title>Similar Figures</title>
 
 <p>When we enlarge or reduce a photograph, the image in the new photo should have the same shape as the original.  An enlargement of a circle should still be a circle, and an enlargement of a square should still be a square.  If the enlarged object is twice as tall as the original object, it should also be twice as wide.</p>
 
-<sidebyside widths = "20% 20% 35%" valigns="middle middle middle"><image source="sailboat.png"></image><p>The enlarged sailboat is twice as tall and twice as wide as the original.</p><image source="largesailboat.png"></image></sidebyside>
+<sidebyside widths = "20% 20% 35%" valigns="middle middle middle"><image source="sailboat.png"><description>sailboat</description></image><p>The enlarged sailboat is twice as tall and twice as wide as the original.</p><image source="largesailboat.png"><description>large sailboat</description></image></sidebyside>
 
 <p>Two figures are called <term>similar</term> if they have the same shape but different sizes. (They are called <term>congruent</term> if they have the same shape AND the same size.</p> 
 
-    <image source="porticos.png" width="70%"></image>
+    <image source="porticos.png" width="70%"><description>three porticos, two similar</description></image>
 
 <p>Triangles are simple shapes, so we'll start our study of similar figures with some triangles. (If you would like to review some properties of triangles, you could refer to <xref ref="triangles" text="custom">Section 1.4</xref>.)</p>
 
 <example><statement><p>Which of the triangles shown below appear to be similar?</p>
 
-    <image source="simtri.png" width="90%"></image></statement>
+    <image source="simtri.png" width="90%"><description> giraffes</description>six triangles</image></statement>
 
-<solution><p>Only (a) and (e) appear to have the same shape. They could be similar. What do you notice about the angles in those two triangles?</p></solution></example>
+<solution><p>Only (a) and (e) appear to have the same shape. They could be similar. What do you notice about the angles in those two triangles?</p>
+</solution></example>
 
 <activity><title>Similar Triangles</title>
 <p><ol>
   <li><p>Let's look more closely at two similar triangles. Use your protractor to measure the angles in each triangle.  Record your measurements below.</p>
 
-    <image source="bigsimtri.png" width="80%"></image>
-    <sidebyside widths="60% 40%" valigns="middle middle"><image source="littlesimtri.png"></image>
+    <image source="bigsimtri.png" width="80%"><description>triangle ABC</description></image>
+    <sidebyside widths="60% 40%" valigns="middle middle"><image source="littlesimtri.png"><description>triangle DEF</description></image>
     <p><md><mrow>\angle A = <fillin></fillin></mrow>
            <mrow>\angle B = <fillin></fillin></mrow>
            <mrow>\angle C = <fillin></fillin></mrow>
@@ -47,7 +48,7 @@
            <mrow>\angle F = <fillin></fillin></mrow></md></p></sidebyside>
 
 <p>You should find that the <term>corresponding angles</term> are equal, namely that  
-    <me>\angle A = \angle D, ~~~~ \angle B = \angle E, ~~~~ \text{and} ~~~~ \angle C = \angle F</me></p></li>
+    <md><mrow>\angle A = \angle D, ~~~~ \angle B = \angle E, ~~~~ \text{and} ~~~~ \angle C = \angle F</mrow></md></p></li>
 
 <li><p>Now consider the sides of the two triangles. Measure the sides in centimeters and record your findings. Then compute the quotients of corresponding lengths, as shown below. What do you notice about the quotients?</p>
 
@@ -69,16 +70,17 @@
   <li><p>Did you find that the length each side of the large triangle is 1.5 times the length of the <term>corresponding side</term> of the small triangle? (It is difficult to measure exactly, but your quotients should all be close to 1.5.)</p></li>
 </ol></p></activity>
 
-<p><m>\blert{\text{Summary:}}</m> In Activity 6.4.1, we learned two things about similar triangles:</p>
+<p>In Activity 6.4.1, we learned two things about similar triangles:</p>
 
+<assemblage><title>Similar Triangles</title>
 <p><ul>
   <li><p>The corresponding angles are equal.</p></li>
   <li><p>We can multiply each side of the small triangle by the same factor to get the corresponding side of the large triangle. (A <term>factor</term> is something you multiply by.)</p></li>
-</ul></p>
+</ul></p></assemblage>
 
 <exercise><statement><p>Could these two triangles be similar?  Why or why not?</p>
 
-      <image source="simquest.png" width="60%"></image></statement>
+      <image source="simquest.png" width="60%"><description>two triangles</description></image></statement>
 
 <answer><p>They could be similar. Because the sum of the angles in a triangle is <m>180\degree</m>, we see that <m>\angle C = 50\degree</m> and <m>\angle F = 70 \degree</m>, so the corresponding angles are equal.</p></answer></exercise>
 </subsection>
@@ -88,7 +90,7 @@
 <p>The factor of 1.5 that you found in Activity 6.4.1 is called a <term>scale factor</term>. If we want to enlarge a figure to a similar shape (or "scale it up"), we need to increase the length of each part of the figure by the same factor.  Of course, we need to preserve the angles between sides as well.</p>
 
 <sidebyside widths="60% 30%" valigns="middle middle"><p>The picture at right illustrates one method for enlarging a figure. The principle behind this technique is the same one that enables us to project images from a filmstrip onto a movie screen. You can try it yourself in the next Activity.</p>       
-<image source="scaling.png"></image></sidebyside>
+<image source="scaling.png"><description>scale a triangle</description></image></sidebyside>
 
 <activity><title>Scaling Up</title>
 
@@ -102,11 +104,11 @@
   <li><p>Now connect them in the same order as the original to see the enlarged sail boat! (You can check that each dimension of the enlarged sailboat is twice the original.)</p></li>
 </ol></p>
 
-<image source="dot.png" width="4%" margins = "5% 91%"></image>
+<image source="dot.png" width="4%" margins = "5% 91%"><description>dot</description></image>
 
 <m>\vphantom{\dfrac{1}{2}}</m>
 
-  <image source="toyboat.png" width="25%" margins="15% 60%"></image>
+  <image source="toyboat.png" width="25%" margins="15% 60%"><description>toy sailboat</description></image>
 </activity>
 
 </subsection>
@@ -117,7 +119,7 @@
 
 <assemblage><title>A Quick Refresher</title>
 <p><ol>
-  <li><p>Look up any conversion factors you don't remember.<ol marker="a." cols="2">
+  <li><p>Look up any conversion factors you don't remember.</p><p><ol marker="a." cols="2">
     <li><p>1 foot = <fillin  characters="4"></fillin> inches</p></li>
     <li><p>1 pound = <fillin  characters="4"></fillin> ounces</p></li>
     <li><p>1 meter = <fillin  characters="4"></fillin> centimeters</p></li>
@@ -125,7 +127,7 @@
     <li><p>1 hour = <fillin  characters="4"></fillin> minutes</p></li>
     <li><p>1 kilogram = <fillin  characters="4"></fillin> grams</p></li></ol>
   </p></li>
-  <li><p>Write each decimal number as a common fraction.<ol marker="a." cols="2">
+  <li><p>Write each decimal number as a common fraction.</p><p><ol marker="a." cols="2">
     <li><p>0.75</p></li>
     <li><p>0.60</p></li>
     <li><p>0.30</p></li>
@@ -146,8 +148,8 @@
 
 <example><statement><p>Which pair of triangles is proportional?</p>
   <p><ol marker="a." cols="2">
-      <li><p><image source="proptria.png" width="95%"></image></p></li>
-      <li><p><image source="proptrib.png" width="95%"></image></p></li>
+      <li><p><image source="proptria.png" width="95%"><description>two triangles</description></image></p></li>
+      <li><p><image source="proptrib.png" width="95%"><description>two triangles</description></image></p></li>
   </ol></p></statement>
 
 <solution><p><ol marker="a.">
@@ -165,18 +167,18 @@
 
 <assemblage><title>A Quick Refresher</title>
 <p>Remember that to make an equivalent fraction we must multiply or divide top and bottom by the same number. So, for example,
-    <me>\dfrac{3}{2}~~ \text{is equivalent to} ~~  \dfrac{3 \times 5}{2 \times 5} = \dfrac{15}{10}</me>
+    <md><mrow>\dfrac{3}{2}~~ \text{is equivalent to} ~~  \dfrac{3 \times 5}{2 \times 5} = \dfrac{15}{10}</mrow></md>
 We cannot add or subtract the same number to get an equivalent fraction.  For example,
-    <me>\dfrac{4}{3}~~ \text{is not equivalent to} ~~  \dfrac{4 + 1}{3 + 1} = \dfrac{5}{4}</me></p></assemblage>
+    <md><mrow>\dfrac{4}{3}~~ \text{is not equivalent to} ~~  \dfrac{4 + 1}{3 + 1} = \dfrac{5}{4}</mrow></md></p></assemblage>
 
 <exercise><statement><p><ol>
-  <li><p>Which ratios are equivalent?<ol marker="a." cols = "2">
+  <li><p>Which ratios are equivalent?</p><p><ol marker="a." cols = "2">
       <li><p><m>\dfrac{5}{8}</m> and <m>\dfrac{15}{18}</m></p></li>
       <li><p><m>\dfrac{5}{8}</m> and <m>\dfrac{15}{24}</m></p></li>
       <li><p><m>\dfrac{25}{12}</m> and <m>\dfrac{75}{36}</m></p></li>
       <li><p><m>\dfrac{4}{5}</m> and <m>\dfrac{16}{25}</m></p></li>
     </ol></p></li>
-  <li><p>Write three ratios equivalent to the given one.<ol marker="a." cols = "2">
+  <li><p>Write three ratios equivalent to the given one.</p><p><ol marker="a." cols = "2">
         <li><p><m>\dfrac{2}{3}</m></p></li>
         <li><p><m>\dfrac{9}{8}</m></p></li>
       </ol></p></li>
@@ -196,20 +198,20 @@ We cannot add or subtract the same number to get an equivalent fraction.  For ex
   <li><p>In similar figures, the ratios of all corresponding lengths are equal.  We say that similar figures are proportional.</p></li>
 
   <li><p>The scale factor is the ratio of the lengths in the new figure to the corresponding lengths in the original figure. We can write this relationship as a mathematical sentence as follows:
-      <me>\text{scale factor} = \dfrac{\text{new length}}{\text{corresponding original length}}</me>
+      <md><mrow>\text{scale factor} = \dfrac{\text{new length}}{\text{corresponding original length}}</mrow></md>
   or
-      <me>\text{new length} = \text{scale factor} \times \text{corresponding original length}</me></p></li>
+      <md><mrow>\text{new length} = \text{scale factor} \times \text{corresponding original length}</mrow></md></p></li>
   </ul></p></assemblage>
 
 <example><statement><p>The two triangles below are similar, and the lengths are in feet. Find <m>H</m> by using a scale factor, and check your answer with ratios.</p>
-      <image source="findh.png" width="60%"></image></statement>
+      <image source="findh.png" width="60%"><description>two triangles</description></image></statement>
 
 <solution><p>First we find the scale factor.
-    <me>24 \times \text{scale factor} = 32, ~~~ \text{so} ~~~ \text{scale factor}  = \dfrac{32}{24}</me>
+    <md><mrow>24 \times \text{scale factor} = 32, ~~~ \text{so} ~~~ \text{scale factor}  = \dfrac{32}{24}</mrow></md>
 In this case we can reduce the scale factor, dividing top and bottom by 8.
-    <me>\dfrac{32}{24} = \dfrac{32 \div 8}{24 \div 8} = \dfrac{4}{3}</me> 
+    <md><mrow>\dfrac{32}{24} = \dfrac{32 \div 8}{24 \div 8} = \dfrac{4}{3}</mrow></md> 
 To find <m>H</m>, we multiply the corresponding side of the small triangle by the scale factor.
-    <me>9 \times \dfrac{4}{3} = \dfrac{36}{3} = 12</me>
+    <md><mrow>9 \times \dfrac{4}{3} = \dfrac{36}{3} = 12</mrow></md>
 The length, <m>H</m>, of the vertical side of the large triangle is 12 feet.</p>
 
 <p><m>\blert{\text{Check:}}</m>   Here are the ratios of the sides, large triangle to small triangle:
@@ -218,7 +220,7 @@ The length, <m>H</m>, of the vertical side of the large triangle is 12 feet.</p>
 You can verify that both of these ratios reduce to <m>\dfrac{4}{3}</m>, the scale factor.</p></solution></example>
 
 <exercise><statement><p>These two right triangles are proportional.</p> 
-      <image source="missingsides.png" width="40%"></image>
+      <image source="missingsides.png" width="40%"><description>two triangles</description></image>
 <p><ol marker="a."> 
   <li><p>Find the scale factor that enlarges the small triangle to the larger one.</p></li>
   <li><p>Find the missing sides.</p></li>
@@ -245,10 +247,10 @@ You can verify that both of these ratios reduce to <m>\dfrac{4}{3}</m>, the scal
 <p>Both conditions must be true if the figures are similar.</p>
 
 <example><statement><p>The corresponding sides of all four parallelograms below are actually equal (so the sides are proportional), but the figures are not similar -- they don't have the same shape.  You can see that their corresponding angles are not equal. </p>
-    <image source="parallelograms.png" width="90%"></image></statement></example>
+    <image source="parallelograms.png" width="90%"><description>four parallelograms</description></image></statement></example>
 
 <exercise><statement><p>These two figures are similar.  Find the missing measurements.</p>
-    <image source="findmissing.png" width="80%"></image></statement>
+    <image source="findmissing.png" width="80%"><description>two parallelograms</description></image></statement>
 
 <answer><m>a = 120 \degree, ~ b = 60 \degree, ~ c = 9</m></answer></exercise>
 
@@ -268,7 +270,7 @@ You can verify that both of these ratios reduce to <m>\dfrac{4}{3}</m>, the scal
         <mrow> \dfrac{\text{long sides}}{\text{short sides}} = \dfrac{3}{2} = \dfrac{c}{6}</mrow></md></p>
 
 <p>With these ratios, we can see that the building factor is <m>\alert{3}</m>.
-    <me>\dfrac{3}{2} \times \dfrac{\alert{3}}{\alert{3}} = \dfrac{9}{6}</me>
+    <md>\dfrac{3}{2} \times \dfrac{\alert{3}}{\alert{3}} = \dfrac{9}{6}</md>
   Again we find that <m>c</m> must be 9.</p></assemblage>
 
   <p>Method 2 uses the following fact about similar figures.</p>
@@ -279,14 +281,14 @@ You can verify that both of these ratios reduce to <m>\dfrac{4}{3}</m>, the scal
 <example><statement><p>Heather wants to know the height of a street lamp. She discovers one night that when she is 12 feet from the lamp, her shadow is 6 feet long. How tall is the lamp?</p></statement>
 
 <solution><p>In the picture, there are two similar right triangles, which we can separate as shown below. The larger triangle has a base of <m>12 + 6 = 18</m> feet, and the smaller triangle shows Heather and her shadow.</p>
-    <image source="streetlamp.png" width="90%"></image>
+    <image source="streetlamp.png" width="90%"><description>three triangles</description></image>
 <p>The ratio of height to base in the small triangle, 5 to 6, must equal the ratio of height to base in the large triangle, <m>h</m> to 18.
-  <me>\dfrac{5}{6} = \dfrac{h}{18}</me>
+  <md><mrow>\dfrac{5}{6} = \dfrac{h}{18}</mrow></md>
 
 The building factor is 3, so <m>h</m> must be <m>5 \times 3 = 15</m>.  The lamp is 15 feet tall.</p></solution></example>
 
 <exercise><statement><p>Find <m>H</m>.</p>
-    <image source="unknownH.png" width="40%"></image></statement>
+    <image source="unknownH.png" width="40%"><description>two triangles overlapping</description></image></statement>
 
 <answer><p>18</p></answer></exercise>
 
@@ -305,19 +307,19 @@ The building factor is 3, so <m>h</m> must be <m>5 \times 3 = 15</m>.  The lamp 
 </ol></p></assemblage>
 
 <example><statement><p>Explain how you know that these two triangles are similar.</p>
-    <image source="easysimtri.png" width="50%"></image></statement>
+    <image source="easysimtri.png" width="50%"><description>two triangles</description></image></statement>
 
 <solution><p>Recall that the sum of the angles in a triangle is 180°. Both of these triangles are right triangles, so the sum of the other two angles in each triangle is 90°. So the missing angle in the first triangle must be
-    <me>90° - 42° = 48°</me>
+    <md><mrow>90° - 42° = 48°</mrow></md>
 and the missing angle in the second triangle must be 42°. Thus, the two triangles have equal angles, and therefore they are similar.</p></solution></example>
 
-<exercise><statement><p>Which of these pairs are similar triangles? Explain why or why not in each case.</p>
+<exercise><statement><p>Which of these pairs are similar triangles? Explain why or why not in each case.
 <ol marker="a." cols="2" valigns="middle middle">
-  <li><image source="whichsima.png" width="70%"></image></li>
-  <li><image source="whichsimb.png" width="100%"></image></li>
-  <li><image source="whichsimc.png" width="75%"></image></li>
-  <li><image source="whichsimd.png" width="100%"></image></li>
-</ol></statement>
+  <li><image source="whichsima.png" width="70%"><description>two triangles</description></image></li>
+  <li><image source="whichsimb.png" width="100%"><description>two triangles</description></image></li>
+  <li><image source="whichsimc.png" width="75%"><description>two triangles</description></image></li>
+  <li><image source="whichsimd.png" width="100%"><description>two triangles</description></image></li>
+</ol></p></statement>
 
 <answer><p>The triangles in (c) and (d) are similar.</p></answer></exercise>
  

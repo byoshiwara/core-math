@@ -7,74 +7,74 @@
 
 <exercise number="1"><statement><p><ol marker="a." cols="2">
   <li><p>Shade 0.03.</p>
-    <image source="tenbytengrid.png" width="89%"></image></li>
+    <image source="tenbytengrid.png" width="89%"><description>10 by 10 grid</description></image></li>
   <li><p>Shade 0.30.</p>
-    <image source="tenbytengrid.png" width="75%"></image></li>
+    <image source="tenbytengrid.png" width="75%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement>
 <answer><p><ol marker="a." cols="2">
-  <li><image source="ans-1-2-1a.png" width="40%"></image></li>
-  <li><image source="ans-1-2-1b.png" width="40%"></image></li>
+  <li><image source="ans-1-2-1a.png" width="40%"><description>0.03</description></image></li>
+  <li><image source="ans-1-2-1b.png" width="40%"><description>0.3</description></image></li>
 </ol></p></answer></exercise>
 
 <exercise number="2"><statement><p><ol marker="a." cols="2">
   <li><p>Shade 0.75.</p>
-    <image source="tenbytengrid.png" width="89%"></image></li>
+    <image source="tenbytengrid.png" width="89%"><description>10 by 10 grid</description></image></li>
   <li><p>Shade 0.075.</p>
-    <image source="tenbytengrid.png" width="75%"></image></li>
+    <image source="tenbytengrid.png" width="75%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement></exercise>
 
 <exercise number="3"><statement><p><ol marker="a." cols="2">
   <li><p>Shade 0.1.</p>
-    <image source="tenbytengrid.png" width="89%"></image></li>
+    <image source="tenbytengrid.png" width="89%"><description>10 by 10 grid</description></image></li>
   <li><p>Shade half of 0.1. What fraction is that?</p>
-    <image source="tenbytengrid.png" width="75%"></image></li>
+    <image source="tenbytengrid.png" width="75%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement>
 <answer><p><ol marker="a." cols="2">
-  <li><image source="ans-1-2-3a.png" width="40%"></image></li>
-  <li><image source="ans-1-2-3b.png" width="40%"></image></li>
+  <li><image source="ans-1-2-3a.png" width="40%"><description>0.1</description></image></li>
+  <li><image source="ans-1-2-3b.png" width="40%"><description>0.05</description></image></li>
 </ol></p></answer></exercise>
 
 <exercise number="4"><statement><p><ol marker="a." cols="2">
   <li><p>Shade 0.7.</p>
-    <image source="tenbytengrid.png" width="89%"></image></li>
+    <image source="tenbytengrid.png" width="89%"><description>10 by 10 grid</description></image></li>
   <li><p>Shade half of 0.7. What fraction is that?</p>
-    <image source="tenbytengrid.png" width="75%"></image></li>
+    <image source="tenbytengrid.png" width="75%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement></exercise>
 
 <exercise number="5"><statement><p><ol marker="a." cols="2">
   <li><p>Shade 0.4.</p>
-    <image source="tenbytengrid.png" width="89%"></image></li>
+    <image source="tenbytengrid.png" width="89%"><description>10 by 10 grid</description></image></li>
   <li><p>Shade <m>\dfrac{1}{4}</m>.</p>
-    <image source="tenbytengrid.png" width="75%"></image></li>
+    <image source="tenbytengrid.png" width="75%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement>
 <answer><p><ol marker="a." cols="2">
-  <li><image source="ans-1-2-5a.png" width="40%"></image></li>
-  <li><image source="ans-1-2-5b.png" width="40%"></image></li>
+  <li><image source="ans-1-2-5a.png" width="40%"><description>0.4</description></image></li>
+  <li><image source="ans-1-2-5b.png" width="40%"><description>1/4</description></image></li>
 </ol></p></answer></exercise>
 
 <exercise number="6"><statement><p><ol marker="a." cols="2">
   <li><p>Shade 0.2.</p>
-    <image source="tenbytengrid.png" width="89%"></image></li>
+    <image source="tenbytengrid.png" width="89%"><description>10 by 10 grid</description></image></li>
   <li><p>Shade <m>\dfrac{2}{5}</m>.</p>
-    <image source="tenbytengrid.png" width="75%"></image></li>
+    <image source="tenbytengrid.png" width="75%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement></exercise>
 
 <exercise number="7"><statement><p><ol marker="a." cols="2">
   <li><p>Shade <m>\dfrac{1}{20}</m>.</p>
-    <image source="tenbytengrid.png" width="89%"></image></li>
+    <image source="tenbytengrid.png" width="89%"><description>10 by 10 grid</description></image></li>
   <li><p>Shade 0.05.</p>
-    <image source="tenbytengrid.png" width="75%"></image></li>
+    <image source="tenbytengrid.png" width="75%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement>
 <answer><p><ol marker="a." cols="2">
-  <li><image source="ans-1-2-7a.png" width="40%"></image></li>
-  <li><image source="ans-1-2-7b.png" width="40%"></image></li>
+  <li><image source="ans-1-2-7a.png" width="40%"><description>1/20</description></image></li>
+  <li><image source="ans-1-2-7b.png" width="40%"><description>0.05</description></image></li>
 </ol></p></answer></exercise>
 
 <exercise number="8"><statement><p><ol marker="a." cols="2">
   <li><p>Shade 0.9.</p>
-    <image source="tenbytengrid.png" width="89%"></image></li>
+    <image source="tenbytengrid.png" width="89%"><description>10 by 10 grid</description></image></li>
   <li><p>Shade 0.99.</p>
-    <image source="tenbytengrid.png" width="75%"></image></li>
+    <image source="tenbytengrid.png" width="75%"><description>10 by 10 grid</description></image></li>
 </ol></p></statement></exercise>
 </exercisegroup>
 
@@ -134,45 +134,45 @@
 </exercisegroup>  
  
 <exercisegroup cols="2"><introduction><p>We can reduce a fraction if we can arrange the shaded and unshaded pieces into larger groups of equal size. For example, to reduce <m>\dfrac{12}{20}</m> we form groups of four pieces each: 
-      <image source="threefifths.png" width="40%"></image> 
+      <image source="threefifths.png" width="40%"><description>3/5</description></image> 
 For Problems 21-26, use the diagram to help you reduce the fraction.</p></introduction>
 
 <exercise number="21"><statement><p><m>\dfrac{3}{6} = <fillin characters="8"/></m>  
-<image source="hp-1-2-21.png" width="35%"></image></p></statement>
+<image source="hp-1-2-21.png" width="35%"><description>3/6</description></image></p></statement>
 <answer><m>\dfrac{1}{2}</m></answer></exercise>
 
 <exercise number="22"><statement><p><m>\dfrac{6}{8} = <fillin characters="8"/></m>  
-<image source="hp-1-2-22.png" width="35%"></image></p></statement></exercise>
+<image source="hp-1-2-22.png" width="35%"><description>6/8</description></image></p></statement></exercise>
 
 <exercise number="23"><statement><p><m>\dfrac{2}{8} = <fillin characters="8"/></m>  
-<image source="hp-1-2-23.png" width="35%"></image></p></statement>
+<image source="hp-1-2-23.png" width="35%"><description>2/8</description></image></p></statement>
 <answer><m>\dfrac{1}{4}</m></answer></exercise>
 
 <exercise number="24"><statement><p><m>\dfrac{12}{15} = <fillin characters="8"/></m>  
-<image source="hp-1-2-24.png" width="35%"></image></p></statement></exercise>
+<image source="hp-1-2-24.png" width="35%"><description>12/15</description></image></p></statement></exercise>
 
 <exercise number="25"><statement><p><m>\dfrac{8}{16} = <fillin characters="8"/></m>  
-<image source="hp-1-2-25.png" width="35%"></image></p></statement>
+<image source="hp-1-2-25.png" width="35%"><description>8/16</description></image></p></statement>
 <answer><m>\dfrac{1}{2}</m></answer></exercise>
 
 <exercise number="26"><statement><p><m>\dfrac{10}{25} = <fillin characters="8"/></m>  
-<image source="hp-1-2-26.png" width="35%"></image></p></statement></exercise>
+<image source="hp-1-2-26.png" width="35%"><description>10/25</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 27-30, the grid has 10 rows and 10 columns. What fraction of the grid is shaded? Reduce your answer if possible. </p></introduction>
 
-<exercise number="27"><statement><p><m>\dfrac{2}{8} = <fillin characters="8"/></m>  
+<exercise number="27"><statement><p>  
 <image source="hp-1-2-27.png" width="55%"></image></p></statement>
 <answer><m>\dfrac{2}{5}</m></answer></exercise>
 
-<exercise number="28"><statement><p><m>\dfrac{12}{15} = <fillin characters="8"/></m>  
+<exercise number="28"><statement><p>  
 <image source="hp-1-2-28.png" width="55%"></image></p></statement></exercise>
 
-<exercise number="29"><statement><p><m>\dfrac{8}{16} = <fillin characters="8"/></m>  
+<exercise number="29"><statement><p>  
 <image source="hp-1-2-29.png" width="55%"></image></p></statement>
 <answer><m>\dfrac{31}{50}</m></answer></exercise>
 
-<exercise number="30"><statement><p><m>\dfrac{10}{25} = <fillin characters="8"/></m>  
+<exercise number="30"><statement><p>  
 <image source="hp-1-2-30.png" width="55%"></image></p></statement></exercise>
 </exercisegroup>
 
@@ -215,11 +215,11 @@ For Problems 21-26, use the diagram to help you reduce the fraction.</p></introd
 <exercise number="44"><statement><p>Francine's younger sister claims that 0.4 is the same as <m>\dfrac{1}{4}</m>, and that 0.6 means <m>\dfrac{1}{6}</m>. Do you agree? Why or why not?</p></statement></exercise>
 
 <exercise number="45"><statement><p>On the number line below, place a dot at all halves, fourths, and fifths, and label each.
-    <image source="tenthsline.png" width="85%"></image></p></statement>
+    <image source="tenthsline.png" width="85%"><description>number line</description></image></p></statement>
 <answer><image source="ans-1-2-45.png" width="40%"></image></answer></exercise>
 
 <exercise number="46"><statement><p>On the number line below, label each tick mark with a decimal fraction.
-    <image source="hundredthsline.png" width="85%"></image></p></statement></exercise>
+    <image source="hundredthsline.png" width="85%"><description>number line</description></image></p></statement></exercise>
 
 <exercisegroup><introduction><p>For Problems 47-50, write each fraction as an equivalent fraction in hundredths.</p></introduction>
 
@@ -236,7 +236,7 @@ For Problems 21-26, use the diagram to help you reduce the fraction.</p></introd
 
 <exercise number="51"><statement><p><ol marker="a.">
   <li><p>On the number line below, mark and label the decimal fractions located half-way between each pair of tick marks.
-        <image source="hp-1-2-51.png" width="90%"></image></p></li>
+        <image source="hp-1-2-51.png" width="90%"><description>number line</description></image></p></li>
   <li><p>In the first row of the table below, write as a common fraction each of the decimal fractions you labeled in part (a). In the second row, reduce the fraction if possible.</p>
 
   <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -334,7 +334,7 @@ For Problems 21-26, use the diagram to help you reduce the fraction.</p></introd
     <p>Start with this fraction:        <m>\dfrac{3}{4}</m></p>
     <p> Add 1 to top and bottom:        <m>\dfrac{3+1}{4+1}</m></p>
     <p>Now rewrite both fractions with denominator 100:                    
-            <me>\dfrac{3}{4} = ~~~~~~~~~~~~ \dfrac{4}{5} = ~~~~~~~~~~~~</me></p>
+            <md><mrow>\dfrac{3}{4} = ~~~~~~~~~~~~ \dfrac{4}{5} = ~~~~~~~~~~~~</mrow></md></p>
      <p>Are the fractions equivalent?</p></li>
   <li><p>Make up your own example. </p></li></ol></p></statement></exercise>
 
@@ -351,7 +351,7 @@ For Problems 21-26, use the diagram to help you reduce the fraction.</p></introd
   <li><p>If you know <m>\dfrac{2}{5}</m> of an amount, how can you find <m>\dfrac{1}{2}</m> of the amount? Give an example.</p></li></ol></p></statement></exercise>
 
 <exercisegroup cols="2"><introduction><p>Recall that the third place after the decimal represents thousandths.
-    <me>\blert{0.001 = \dfrac{1}{1000} = \text{one-thousandth}}</me>
+    <md><mrow>\blert{0.001 = \dfrac{1}{1000} = \text{one-thousandth}}</mrow></md>
 For Problems 69-76, read each fraction aloud, then write it as a common fraction. Reduce the fraction if possible.</p></introduction>
 
  <exercise number="61"><statement><p><m>\dfrac{75}{1000}</m></p></statement>

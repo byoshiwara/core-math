@@ -11,7 +11,7 @@
     <li><p>Visualizing Growth Rate on a Graph</p></li>
     <li><p>Slope of a Line</p></li>
   </ul></p>
-      <image source="steepslope.png"></image></sidebyside>
+      <image source="steepslope.png"><description>steep hillside</description></image></sidebyside>
 
 <subsection><title>Equations Relating Proportional Variables</title>
 
@@ -91,22 +91,22 @@
     <answer><p>No, the ratio of <m>z</m> to <m>w</m> is not constant.</p></answer></exercise>
 
 <p>In Example 6.3.1 above, we found that the value of <m>k</m> was 0.25. This number is called the <term>constant of proportionality</term>. You can check that for each value of <m>p</m>,  we have  
-      <me>q = 0.25 \times p</me>
+      <md><mrow>q = 0.25 \times p</mrow></md>
 This observation gives us another way to describe proportional variables.</p>
 
 <assemblage><title>Proportional Variables, Version 2</title>
 <p>If <m>y</m> is proportional to <m>x</m>, then
-    <me>y = k \times x</me> 
+    <md><mrow>y = k \times x</mrow></md> 
 where <m>k</m> is a constant.</p></assemblage>
 
 <p>Because multiplication and division are opposite operations, the two equations 
-     <me>\dfrac{y}{x} = k ~~~~~~ \text{and} ~~~~~~  y = k \times x</me>   
+     <md><mrow>\dfrac{y}{x} = k ~~~~~~ \text{and} ~~~~~~  y = k \times x</mrow></md>   
 are two ways to say the same thing. This second version says that <m>y</m> is proportional to <m>x</m> if <m>y</m> is a constant multiple of <m>x</m>.</p>
 
 <note><p>Recall that in algebra, we often write the product of two variables, or a number and a variable, next to each other, without any symbol between them.  For example,   
-        <me>5g ~~~\text{means}~~~ 5 \times g ~~~~~~\text{and} ~~~~~~xy ~~~\text{means} ~~~ x \times y</me>
+        <md><mrow>5g ~~~\text{means}~~~ 5 \times g ~~~~~~\text{and} ~~~~~~xy ~~~\text{means} ~~~ x \times y</mrow></md>
 So in particular we can write the equation for proportional variables as
-    <me>y = kx</me></p></note>
+        <md><mrow>y = kx</mrow></md></p></note>
 
 <example><statement><p>The distance, <m>d</m>, that you drive on the highway is proportional to the amount, <m>g</m>, of gasoline that you use.  Myrna used 6 gallons of gas to drive 159 miles.<ol marker="a.">  
   <li><p>Find the constant of proportionality and write an equation relating the variables.</p></li>
@@ -115,13 +115,13 @@ So in particular we can write the equation for proportional variables as
 
 <solution><p><ol marker="a.">  
   <li><p>Because <m>d</m> is proportional to <m>g</m>,  we can write the equation      
-      <me>d = kg ~~~~~~ \text{or} ~~~~~~ k = \dfrac{d}{g}</me>      
+      <md><mrow>d = kg ~~~~~~ \text{or} ~~~~~~ k = \dfrac{d}{g}</mrow></md>      
 where <m>k</m> is the constant of proportionality.  We find the value of <m>k</m> by using one pair of related values for the variables.  
-    <me>\dfrac{d}{g} = \dfrac{159~ \text{miles}}{6~ \text{gallons}} = 26.5 ~\text{miles per gallon}</me>
+        <md><mrow>\dfrac{d}{g} = \dfrac{159~ \text{miles}}{6~ \text{gallons}} = 26.5 ~\text{miles per gallon}</mrow></md>
 So <m>k = 26.5</m>,  and an equation relating the two variables is 
-      <me>d = 26.5g</me> </p></li>
+        <md><mrow>d = 26.5g</mrow></md> </p></li>
   <li><p>If we now substitute <m>\alert{22}</m> for <m>g</m>,  we can compute the related value of <m>d</m>.
-        <me>d = 26.5g = 26.5 \times \alert{22} = 583</me>
+        <md><mrow>d = 26.5g = 26.5 \times \alert{22} = 583</mrow></md>
 Myrna can drive 583 miles on 22 gallons of gas.</p></li>
 </ol></p></solution></example>
 
@@ -134,7 +134,7 @@ Myrna can drive 583 miles on 22 gallons of gas.</p></li>
   <li><p>How much chocolate can you eat for 200 calories?</p></li> 
   <li><p>How many calories are in one-half ounce of chocolate?</p></li>
   </ol></p>
-  <image source="chocolate.png"></image></sidebyside></statement>
+  <image source="chocolate.png"><description>chocolate</description></image></sidebyside></statement>
 
 <answer><p><ol marker="a.">
   <li><p><m>k = 150</m> calories per ounce</p></li>
@@ -179,19 +179,19 @@ Myrna can drive 583 miles on 22 gallons of gas.</p></li>
             <cell>156</cell>
             <cell>192</cell></row>
         </tabular></p></stack>
-      <image source="copyfeegraph.png"></image></sidebyside>
+      <image source="copyfeegraph.png"><description> graph of y=6x and y=8x</description></image></sidebyside>
 
 <p>We can write an equation for each of the variables, <m>D</m>, Delbert's copying fees, and <m>F</m>, Francine's copying fees, in terms of the number of pages copied, <m>p</m>. We'll calculate the unit cost in each case.</p>
 
 <p>Delbert's unit cost for copying is
-    <me>\dfrac{112 ~\text{cents}}{14 ~\text{pages}} = 8 ~\text{cents per page}</me>
+    <md><mrow>\dfrac{112 ~\text{cents}}{14 ~\text{pages}} = 8 ~\text{cents per page}</mrow></md>
 and this is the constant of proportionality, <m>k</m>, for his equation:
-    <me>D = 8p</me></p>.
+    <md><mrow>D = 8p</mrow></md></p>.
 
 <p>Francine's unit cost for copying is
-    <me>\dfrac{72 ~\text{cents}}{12 ~\text{pages}} = 6 ~\text{cents per page}</me>
+    <md><mrow>\dfrac{72 ~\text{cents}}{12 ~\text{pages}} = 6 ~\text{cents per page}</mrow></md>
 so <m>k = 6</m>, for her equation:
-    <me>F= 6p</me></p>.
+    <md><mrow>F= 6p</mrow></md></p>.
 
 <p>We can think of the unit cost as the <term>rate of increase</term> in copying fees as the number of pages copied increases. Delbert's cost increases by 8 cents for each page copied. Francine's cost increases by 6 cents for each page copied. How is the rate of increase reflected in the graph?</p> 
 
@@ -260,18 +260,18 @@ so <m>k = 6</m>, for her equation:
 
 <p><sidebyside widths="55% 42%" valigns="middle middle"><stack><p>To see exactly how fast the vines grow, we compute their rate of growth. The variables <m>t</m> and <m>h</m> are not proportional, so we cannot use a constant of proportionality to measure their growth.</p>
 <p> But we can see from the table that during the first two weeks, the Spring Giant vines grew 8 inches (from 2 inches to 10 inches), so their growth rate was
-        <me>\dfrac{\text{8 inches}}{\text{2 weeks}} = \text{4 inches/week}</me></p></stack> 
-        <image source="tomatoes.png"></image></sidebyside></p>
+        <md><mrow>\dfrac{\text{8 inches}}{\text{2 weeks}} = \text{4 inches/week}</mrow></md></p></stack> 
+        <image source="tomatoes.png"><description>graphs of y=4x+2 and y=16+2.5x</description></image></sidebyside></p>
 <p>Similarly, the Jubilee vines grew 5 inches (from 16 inches to 21 inches), so their growth rate was
-        <me>\dfrac{\text{5 inches}}{\text{2 weeks}}  = \text{2.5 inches/week}</me>
+        <md><mrow>\dfrac{\text{5 inches}}{\text{2 weeks}}  = \text{2.5 inches/week}</mrow></md>
 So the Spring Giant vines grew faster than the Jubilee vines, as we saw from the graph.</p></solution></example>
 
 <p>In Checkpoint 6.3.8, we'll compute some more growth rates. Use the tables in Example 6.3.7  about the Spring Giant and Jubilee tomato vines.</p>
 
 <exercise><statement><p><sidebyside widths= "50% 40%" margins="5% 5%"><p>Compute the ratio  
-    <me>\blert{\dfrac{\text{increase in height}}{\text{time interval}}}</me>
+    <md><mrow>\blert{\dfrac{\text{increase in height}}{\text{time interval}}}</mrow></md>
 to find each growth rate.</p>
-    <image source="vines.png"></image></sidebyside></p>
+    <image source="vines.png"><description>tomato vines</description></image></sidebyside></p>
 <p><ol marker="a.">
     <li><p>Find the growth rate of the Spring Giant tomato vines from the fourth week to the eighth week.</p></li>
     <li><p>Find the growth rate of the Jubilee tomato vines over the first four weeks.</p></li>
@@ -293,7 +293,7 @@ to find each growth rate.</p>
             <mrow>  \amp = 21 - 16 = 5 ~\text{inches}</mrow></md></p></li>
 
     <li><p>We use the Greek letter  <term>delta, <m>\Delta</m></term>,  to stand for the change in a quantity. So, for example, <m>\Delta h</m>  stands for the change in height of the vine, and we write
-            <me> \Delta h = 5~ \text{inches}</me></p>
+            <md><mrow> \Delta h = 5~ \text{inches}</mrow></md></p>
     <p>In general we have 
         <md><mrow>\blert{\Delta x} \amp = \blert{~\text{change in value of }~x}</mrow>
             <mrow> \amp = \blert{~\text{final value of }~x - \text{initial value of }~x}</mrow></md></p></li>
@@ -310,7 +310,7 @@ to find each growth rate.</p>
         <mrow> \amp = \dfrac{(26-10)~\text{inches}}{(6-2)~\text{weeks}}</mrow>
         <mrow> \amp = \dfrac{\text{16 inches}}{\text{4 weeks}}</mrow> 
         <mrow> \amp = \text{4 inches/week}</mrow></md></p>
-    <image source="tomatoslope.png"></image></sidebyside></p>
+    <image source="tomatoslope.png"><description>graph of y=4x+2 with slope illustrated</description></image></sidebyside></p>
 </statement></example>
 
 <p>What does this ratio, 4 inches/week, tell us about the graph?  Place your pencil tip at any point on the graph, then move one unit to the right along the grid lines. To get back to the graph, you must now move up by four units (two grid lines on this graph). The graph increases by climbing four units vertically for each unit we move horizontally.</p>
@@ -319,13 +319,13 @@ to find each growth rate.</p>
 <sidebyside widths="55% 40%" valigns="middle middle"><p><ol marker="a.">
     <li><p>Start at any point on the graph. If you move four units horizontally, how many units does the graph climb vertically? If you move one unit horizontally, how many units does the graph climb vertically?</p></li>
     <li><p>On the graph, draw and label line segments to illustrate the growth rate of the Jubilee tomato vines from the fourth week to the eighth week. Then calculate the growth rate.
-        <me>\dfrac{\Delta h}{\Delta t} = \hphantom{0000000000}</me></p></li>
-</ol></p><image source="jubileeslope.png"></image></sidebyside></statement>
+        <md><mrow>\dfrac{\Delta h}{\Delta t} = \hphantom{0000000000}</mrow></md></p></li>
+</ol></p><image source="jubileeslope.png"><description>graph of y=16+2.5x</description></image></sidebyside></statement>
 
 <answer><p><ol marker="a.">
-<li><p>10 units, 2.5 units</p></li>
-<li><p><image source="ansjubilee.png" width="55%"></image></p>
-<p><m>\dfrac{\Delta h}{\Delta t} = 2.5~</m> inches/week</p></li>
+    <li><p>10 units, 2.5 units</p></li>
+    <li><p><image source="ansjubilee.png" width="55%"><description>graph of y=16+2.5x with slope illustrated</description></image></p>
+        <p><m>\dfrac{\Delta h}{\Delta t} = 2.5~</m> inches/week</p></li>
 </ol></p></answer></exercise>
 
 </subsection>
@@ -336,19 +336,19 @@ to find each growth rate.</p>
 
 <assemblage><title>Slope</title>
 <p>The <term>slope</term>, <m>m</m>, of a line is the ratio
-    <me>\blert{m= \dfrac{\Delta y}{\Delta x} = \dfrac{\text{change in the output variable}}{\text{change in the input variable}}}</me>
+    <md><mrow>\blert{m= \dfrac{\Delta y}{\Delta x} = \dfrac{\text{change in the output variable}}{\text{change in the input variable}}}</mrow></md>
 as we move from any point on the line to another point on the line.</p></assemblage>
 
 <example><statement><sidebyside widths="45% 35%" valigns="middle middle"><p>The graph shows the cost, <m>C</m>, of renting a bicycle for <m>t</m> hours.<ol marker="a."> 
     <li><p>Use the points <m>P</m> and <m>Q</m> shown to calculate the slope of the line.</p></li>
     <li><p>What does the slope tell you about renting a bicycle?</p></li>
 </ol></p>
-    <image source="bicyclerental.png"></image></sidebyside></statement>
+    <image source="bicyclerental.png"><description>graph of C=5+3t</description></image></sidebyside></statement>
 
 <solution><p><ol marker="a."> 
     <li><p>At point <m>P, ~t=1</m> and <m>C = 8</m>,  which tells us that it costs $8 to rent a bicycle for 1 hour. Point <m>Q</m> tells us that it costs $17 to rent a bicycle for 4 hours. The slope of the line is given by
         <md><mrow>\dfrac{\Delta C}{\Delta t} \amp = \dfrac{17-8}{4-1}</mrow>
-        <mrow> \amp = \dfrac{9~\text{dollars}}{3~\text{hours}} = \text{3 dollars/hour}</mrow></md></p></li>
+            <mrow> \amp = \dfrac{9~\text{dollars}}{3~\text{hours}} = \text{3 dollars/hour}</mrow></md></p></li>
     <li><p>The slope tells us the rate at which the cost of renting a bicycle increases. It costs $3 per hour to rent a bike.</p></li>
 </ol></p></solution></example>
 
@@ -362,7 +362,7 @@ as we move from any point on the line to another point on the line.</p></assembl
         <p><m> ~~~~~~ \dfrac{\Delta a}{\Delta t} = </m></p></li>
     <li><p>What does the slope tell you about the ski lift?</p></li>
 </ol></p>
-    <image source="skilift.png"></image></sidebyside></statement>
+    <image source="skilift.png"><description>graph of a = 100+150t</description></image></sidebyside></statement>
 
 <answer><p><ol marker="a.">
     <li><p>150 feet/minute</p></li>
@@ -398,9 +398,10 @@ as we move from any point on the line to another point on the line.</p></assembl
             <cell>0</cell>
             <cell>-6</cell></row>
         </tabular></p>
-    <p>Then we plot the points from the table on a grid, as shown at right. Finally, we connect the points with a straight line.</p></stack><image source="Example-6-3-6.svg"></image></sidebyside></p></li>
+    <p>Then we plot the points from the table on a grid, as shown at right. Finally, we connect the points with a straight line.</p></stack>
+    <image source="Example-6-3-6.svg"><description>graph of T=18-2h</description></image></sidebyside></p></li>
     <li><p>To compute the slope of the line, we choose two points on the graph, say <m>(4,12)</m> and <m>(9,2)</m>. Now the the output variable, <m>T</m>, decreases by 10 degrees (from 12 degrees to 2 degrees), so we say that <m>\Delta T = -10</m>. The input variable, <m>h</m>, increases from 4 to 9, so <m>\Delta h = 5</m>. Next we calculate the slope ratio.
-        <me> \dfrac{\Delta T}{\Delta h} = \dfrac{-10 ~\text{degrees}}{5 ~\text{hours}} = -2 ~\text{degrees/hour}</me></p></li>
+        <md><mrow>\dfrac{\Delta T}{\Delta h} = \dfrac{-10 ~\text{degrees}}{5 ~\text{hours}} = -2 ~\text{degrees/hour}</mrow></md></p></li>
     <li><p>The slope is <m>-2</m>.  It represents the rate at which the temperature is decreasing, 2 degrees per hour.</p></li>
 </ol></p></solution></example>
 
@@ -425,7 +426,8 @@ as we move from any point on the line to another point on the line.</p></assembl
         </tabular></li>
     <li><p>Compute the slope of the graph, including units.</p></li>
     <li><p>What does the slope tell us about the copier?</p></li>
-</ol></p></stack><image source="Exercise-6-3-6-grid.svg"></image></sidebyside></statement>
+</ol></p></stack>
+    <image source="Exercise-6-3-6-grid.svg"><description>grid 0 to 10 by 0 to 20</description></image></sidebyside></statement>
 
 <answer><p><ol marker="a.">
     <li><image source="Exercise-6-3-6ans.svg" width="40%"></image></li>

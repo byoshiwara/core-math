@@ -3,7 +3,7 @@
 
 
 <exercise number="1"><statement><p>The graph shows monthly sales of rollerblading equipment at the Sports Exchange last year.</p>
-  <image source="hp-5-5-1.png" width="65%"></image>
+  <image source="hp-5-5-1.png" width="65%"><description>bar graph</description></image>
 <p><ol marker="a.">
   <li><p>How much rollerblading equipment was sold in April?</p></li>
   <li><p>In which month(s) did the Sports Exchange sell $900  worth of equipment?</p></li>
@@ -19,7 +19,7 @@
 </ol></p></answer></exercise>
 
 <exercise number="2"><statement><p>The graph shows the number of patients admitted to Mercy Hospital with work-related injuries last year.</p>
-    <image source="hp-5-5-2.png" width="55%"></image>
+    <image source="hp-5-5-2.png" width="55%"><description>bar graph</description></image>
 <p><ol marker="a.">
   <li><p>How many patients suffered work-related injuries in March?</p></li>
   <li><p>In which month(s) were the fewest patients with work-related injuries admitted to the hospital?</p></li>
@@ -34,7 +34,7 @@
   <li><p>What was the total enrollment (part-time and full-time) in 1990?</p></li>
   <li><p>By how much did part-time enrollment increase from 1975 to 1980?</p></li>
 </ol></p>
-    <image source="hp-5-5-3.png"></image></sidebyside></statement>
+    <image source="hp-5-5-3.png"><description>line graph</description></image></sidebyside></statement>
 
 <answer><p><ol marker="a.">
   <li><p>1,200,000</p></li>
@@ -44,7 +44,7 @@
 </ol></p></answer></exercise>
 
 <exercise number="4"><statement><p>The graph shows the number of cases of AIDS diagnosed in women in Los Angeles County over several years.</p>
-    <image source="hp-5-5-4.png" width="55%"></image>
+    <image source="hp-5-5-4.png" width="55%"><description>line graph</description></image>
 <p><ol marker="a.">
   <li><p>How many cases of AIDS were diagnosed among African-American women in 1986?</p></li>
   <li><p>How many cases were diagnosed among white women in 1991?</p></li>
@@ -53,9 +53,9 @@
 </ol></p></statement></exercise>
 
 <exercise number="5"><statement><p>The bar graph below appeared in the Los Angeles Times on December 15, 2000.  It shows the projected increase in jobs in Southern California over the next 25 years.</p>
-    <image source="hp-5-5-5.png" width="90%"></image>
+    <image source="hp-5-5-5.png" width="90%"><description>bar graph</description></image>
 <p><ol marker="a.">
-  <li><p><image source="ans-5-5-6.png" width="40%"></image></p></li> 
+  <li><p><image source="ans-5-5-6.png" width="40%"><description>line graph</description></image></p></li> 
   <li><p>The time intervals between bars are not equal.</p></li>
 </ol></p></statement> 
 
@@ -65,7 +65,7 @@
 </ol></p></answer></exercise>
 
 <exercise number="6"><statement><p>The bar graph below appeared in the Los Angeles Times on December 15, 2000.  It shows the projected increase in the number of households in Southern California over the next 25 years.</p>
-    <image source="hp-5-5-6.png" width="90%"></image>
+    <image source="hp-5-5-6.png" width="90%"><description>bar graph</description></image>
 <p><ol marker="a.">
   <li><p>Use the grid  to create a line graph for the same information.</p></li> 
   <li><p>What feature of the original bar graph could be considered misleading?</p></li>
@@ -103,10 +103,10 @@
       <li><p>In which year(s) did women's earnings make the greatest gain?</p></li>
       <li><p>In which year(s) did women's earnings decline, relative to men's?</p></li>
       <li><p>What was the net gain in women's earnings (as a percentage of men's) over the decade of the 1980's?</p></li>
-  </ol></p><image source="hp-5-5-7.png"></image></sidebyside></statement>
+  </ol></p><image source="hp-5-5-7.png"><description>grid</description></image></sidebyside></statement>
 
 <answer><p><ol marker="a.">
-      <li><p><image source="ans-5-5-7.png"></image></p></li>  
+      <li><p><image source="ans-5-5-7.png"><description>line graph</description></image></p></li>  
       <li><p>1982, 1989</p></li>
       <li><p>1981, 1986</p></li>
       <li><p>8.5%</p></li>
@@ -144,7 +144,7 @@
       <li><p>In which year(s) did women's earnings make the greatest gain?</p></li>
       <li><p>In which year(s) did women's earnings decline, relative to men's?</p></li>
       <li><p>What was the net gain in women's earnings (as a percentage of men's) over the decade of the 1980's? How does this compare to progress in the 1980's?</p></li>
-  </ol></p><image source="hp-5-5-8.png"></image></sidebyside></statement></exercise>
+  </ol></p><image source="hp-5-5-8.png"><description>grid</description></image></sidebyside></statement></exercise>
 
 <exercise number="9"><statement><p>A national opinion poll asked voters the question "Do you agree or disagree that most men are better suited emotionally for politics than women?" The results are shown in the table. (Note that the question was not asked every year.) [Source: National Opinion Research Center]</p>
 
@@ -196,10 +196,10 @@
     <li><p>On the grid at right, make two line graphs illustrating the data.</p></li>
     <li><p>What trends in public opinion do you see in the graphs?</p></li>
     <li><p>Why don't the percent of people who agree and the percent who disagree in each year add up to 100%?</p></li>
-  </ol></p><image source="hp-5-5-9.png"></image></sidebyside></statement>
+  </ol></p><image source="hp-5-5-9.png"><description>grid</description></image></sidebyside></statement>
 
  <answer><p><ol marker="a.">
-    <li><p><image source="ans-5-5-9.png"></image></p></li>
+    <li><p><image source="ans-5-5-9.png"><description>line graph</description></image></p></li>
     <li><p>The number of people who agree with the statement is decreasing.</p></li>
     <li><p>Some people are undecided.</p></li>
   </ol></p></answer></exercise> 
@@ -236,7 +236,7 @@
     <li><p>On the grid at right, make two line graphs illustrating the data.</p></li>
     <li><p>What trends do you see in fatalities among motorcycle drivers?</p></li>
     <li><p>During which year did the number of fatalities among older drivers first exceed the number of fatalities among younger drivers?</p></li>
-  </ol></p><image source="hp-5-5-10.png"></image></sidebyside></statement></exercise>
+  </ol></p><image source="hp-5-5-10.png"><description>grid</description></image></sidebyside></statement></exercise>
 
   <exercisegroup><introduction><p>For Problems 11-18, answer with a sentence.</p></introduction>
 
@@ -261,10 +261,10 @@
 <exercise number="18"><statement><p>What does each point on the graph of an equation represent?</p></statement></exercise>
 </exercisegroup>
 
-<exercise number="19"><statement><sidebyside widths="40% 36%" valigns="middle middle"><p>The graph at right gives the weight, <m>W</m> in ounces, of a chocolate bunny that is <m>h</m> inches tall. State the values of the variables at point <m>B</m>, and explain what they tell you.</p><image source="hp-5-5-19.png"></image></sidebyside></statement>
+<exercise number="19"><statement><sidebyside widths="40% 36%" valigns="middle middle"><p>The graph at right gives the weight, <m>W</m> in ounces, of a chocolate bunny that is <m>h</m> inches tall. State the values of the variables at point <m>B</m>, and explain what they tell you.</p><image source="hp-5-5-19.png"><description>graph</description></image></sidebyside></statement>
   <answer><p><m>h=4, W=16.</m> A chocolate bunny that is 4 inches tall weighs 16 ounces.</p></answer></exercise>
 
-<exercise number="20"><statement><sidebyside widths="40% 40%" valigns="middle middle"><p>The graph at right gives the altitude, <m>a</m>, in meters, of a hot-air balloon at <m>t</m> minutes after takeoff. State the values of the variables at point <m>H</m>, and explain what they tell you.</p><image source="hp-5-5-20.png"></image></sidebyside></statement></exercise>
+<exercise number="20"><statement><sidebyside widths="40% 40%" valigns="middle middle"><p>The graph at right gives the altitude, <m>a</m>, in meters, of a hot-air balloon at <m>t</m> minutes after takeoff. State the values of the variables at point <m>H</m>, and explain what they tell you.</p><image source="hp-5-5-20.png"><description>graph</description></image></sidebyside></statement></exercise>
 
 <exercise number="21"><statement><sidebyside widths="50% 35%" valigns="middle middle"><p><ol marker="a.">
   <li><p>Use the graph to complete the table of values.</p> 
@@ -283,7 +283,7 @@
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></li>
   <li><p>Write an equation for <m>y</m> in terms of <m>x</m>.</p></li>
-</ol></p><image source="hp-5-5-21.png"></image></sidebyside></statement>
+</ol></p><image source="hp-5-5-21.png"><description>graph of line</description></image></sidebyside></statement>
   <answer><p><ol marker="a.">
   <li><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
@@ -319,7 +319,7 @@
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></li>
   <li><p>Write an equation for <m>y</m> in terms of <m>x</m>.</p></li>
-</ol></p><image source="hp-5-5-22.png"></image></sidebyside></statement></exercise>
+</ol></p><image source="hp-5-5-22.png"><description>graph of line</description></image></sidebyside></statement></exercise>
 
 <exercise number="23"><statement><sidebyside widths="50% 45%" valigns="middle middle"><p><ol marker="a.">
   <li><p>Use the graph to complete the table of values.</p> 
@@ -338,7 +338,7 @@
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></li>
   <li><p>Write an equation for <m>k</m> in terms of <m>p</m>.</p></li>
-</ol></p><image source="hp-5-5-23.png"></image></sidebyside></statement>
+</ol></p><image source="hp-5-5-23.png"><description>graph of line</description></image></sidebyside></statement>
   <answer><p><ol marker="a.">
   <li><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
@@ -374,7 +374,7 @@
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></li>
   <li><p>Write an equation for <m>w</m> in terms of <m>n</m>.</p></li>
-</ol></p><image source="hp-5-5-24.png"></image></sidebyside></statement>
+</ol></p><image source="hp-5-5-24.png"><description>graph of line</description></image></sidebyside></statement>
   <answer></answer></exercise>
 
 <exercise number="25"><statement><p>Wrapping paper costs $1.50 per roll at an after-holiday sale.</p>
@@ -396,7 +396,7 @@
         </tabular></li>
   <li><p>Write an equation for <m>p</m> in terms of <m>r</m>.</p></li>
   <li><p>Grah your equation on the grid.</p></li>
-</ol></p><image source="hp-5-5-25.png"></image></sidebyside></statement>
+</ol></p><image source="hp-5-5-25.png"><description>grid</description></image></sidebyside></statement>
   <answer><p><ol marker="a.">
   <li><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
@@ -435,7 +435,7 @@
         </tabular></li>
   <li><p>Write an equation for <m>C</m> in terms of <m>t</m>.</p></li>
   <li><p>Grah your equation on the grid.</p></li>
-</ol></p><image source="hp-5-5-26.png"></image></sidebyside></statement></exercise>
+</ol></p><image source="hp-5-5-26.png"><description>grid</description></image></sidebyside></statement></exercise>
 
 <exercise number="27"><statement><p>When dining in a restaurant, it is customary to tip the waiter 15% of the bill.</p>
   <sidebyside widths="50% 40%" valigns="top top"><p><ol marker="a.">
@@ -456,7 +456,7 @@
         </tabular></li>
   <li><p>Write an equation for <m>t</m> in terms of <m>b</m>.</p></li>
   <li><p>Grah your equation on the grid.</p></li>
-</ol></p><image source="hp-5-5-27.png"></image></sidebyside></statement>
+</ol></p><image source="hp-5-5-27.png"><description>grid</description></image></sidebyside></statement>
   <answer><p><ol marker="a.">
   <li><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
@@ -495,7 +495,7 @@
         </tabular></li>
   <li><p>Write an equation for <m>P</m> in terms of <m>I</m>.</p></li>
   <li><p>Grah your equation on the grid.</p></li>
-</ol></p><image source="hp-5-5-28.png"></image></sidebyside></statement></exercise>
+</ol></p><image source="hp-5-5-28.png"><description>grid</description></image></sidebyside></statement></exercise>
 
 <exercisegroup><introduction><p>For Problems 29-34, complete the table of values and plot the graph. Then use the graph to answer the questions.</p></introduction>
 
@@ -523,7 +523,7 @@
         <row><cell>300</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-  <image source="hp-5-5-29.png"></image></sidebyside>
+  <image source="hp-5-5-29.png"><description>grid</description></image></sidebyside>
   <p><ol marker="a.">
     <li><p>How long will it take Meryl to reach the resort if she averages 50 miles per hour? Locatthis point on your graph.</p></li>
     <li><p>How fast will Meryl have to travel if she wants to reach the resort in 3 hours? Locatthis point on your graph.</p></li>
@@ -550,7 +550,7 @@
         <row><cell>300</cell>
             <cell>2</cell></row>
         </tabular></p>
-        <image source="ans-5-5-29.png"></image>
+        <image source="ans-5-5-29.png"><description>graph</description></image>
     <p><ol marker="a.">
     <li><p>12 hr</p></li>
     <li><p>200 mph</p></li>
@@ -578,7 +578,7 @@
         <row><cell>30</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-  <image source="hp-5-5-30.png"></image></sidebyside>
+  <image source="hp-5-5-30.png"><description>grid</description></image></sidebyside>
   <p><ol marker="a.">
     <li><p>If Aisha crochets 2 inches per day, how long will it take to finish the scarf? Locate this point on your graph.</p></li>
     <li><p>If Aisha wants to finish the scarf in five days, how much must she crochet each day? Locate this point on your graph.</p></li>
@@ -604,7 +604,7 @@
         <row><cell>30,000</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-  <image source="hp-5-5-31.png"></image></sidebyside>
+  <image source="hp-5-5-31.png"><description>grid</description></image></sidebyside>
   <p><ol marker="a.">
     <li><p>How far can you see from an altitude of 10,000 feet? Locate this point on your graph.</p></li>
     <li><p>How high do you have to be to see 100 miles? Locate this point on your graph.</p></li>
@@ -630,7 +630,7 @@
   <p><ol marker="a.">
     <li><p>122 mi</p></li>
     <li><p>6719 ft</p></li>
-  </ol></p><image source="ans-5-5-31.png"></image>    
+  </ol></p><image source="ans-5-5-31.png"><description>graph</description></image>    
 </answer></exercise> 
 
 <exercise number="32"><statement><p>If an object falls from a height of <m>h</m> meters, its velocity <m>v</m>  when it strikes the ground is given by <m>v = 4.4 \sqrt{h}</m>  in meters per second. </p> 
@@ -655,7 +655,7 @@
         <row><cell>350</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-  <image source="hp-5-5-32.png"></image></sidebyside>
+  <image source="hp-5-5-32.png"><description>grid</description></image></sidebyside>
   <p><ol marker="a.">
     <li><p>A penny falls off the Washington monument, 170 meters high. What is its velocity when it hits the ground?  Locate this point on your graph.</p></li>
     <li><p>A rock dropped from the Royal Gorge bridge in Colorado will hit the water below at a velocity of 80 meters per second. How high is the bridge? Locate this point on your graph.</p></li>
@@ -684,7 +684,7 @@
         <row><cell>October <m>m=6</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-        <image source="hp-5-5-33.png"></image></sidebyside></li>
+        <image source="hp-5-5-33.png"><description>grid</description></image></sidebyside></li>
     <li><p>Graph the data in your table on the grid.</p></li>
   </ol></p></statement>
     <answer><p><ol marker="a.">
@@ -707,7 +707,7 @@
         <row><cell>October <m>m=6</m></cell>
             <cell>0.625</cell></row>
         </tabular></p></li>
-    <li><p><image source="ans-5-5-33.png"></image></p></li>
+    <li><p><image source="ans-5-5-33.png"><description>graph</description></image></p></li>
   </ol></p></answer></exercise>
 
 <exercise number="34"><statement><p>A biology student is culturing a certain bacteria. She starts with 100 bacteria, and under optimum conditions the number of bacteria will double every day.</p>
@@ -735,7 +735,7 @@
         <row><cell>7</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-        <image source="hp-5-5-34.png"></image></sidebyside></li>
+        <image source="hp-5-5-34.png"><description>grid</description></image></sidebyside></li>
     <li><p>Graph the data in your table on the grid.</p></li>
   </ol></p></statement></exercise>
 

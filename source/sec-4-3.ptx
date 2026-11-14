@@ -11,22 +11,22 @@
     <li><p>Pythagorean Theorem</p></li>
   </ul></p>
   
-  <image source="rootspiral.png"></image></sidebyside>
+  <image source="rootspiral.png"><description>root spiral</description></image></sidebyside>
 
 <subsection><title>What Is a Square Root?</title>
 
 <assemblage><title>A Quick Refresher</title>
 <p>Recall that an <term>exponent</term> is a number that appears above and to the right of a particular factor. It tells us how many times that factor occurs in the product. For example,
-    <me>5^2 = 5 \times 5 = 25 ~~~~~~ \text{and} ~~~~~ 5^3 = 5 \times 5 \times 5 = 125</me>
+    <md><mrow>5^2 = 5 \times 5 = 25 ~~~~~~ \text{and} ~~~~~ 5^3 = 5 \times 5 \times 5 = 125</mrow></md>
 You can review exponents in <xref ref="exponents" text="custom">Section 3.2</xref>.</p></assemblage>
 
 <p>To <term>square</term> a number means to multiply the number by itself. For example,
-    <me>7^2 = 7 \times 7 = 49</me>
+    <md><mrow>7^2 = 7 \times 7 = 49</mrow></md>
 If you know the square of a number, can you find the original number?</p>
 
 <sidebyside widths="70% 25%" margins="0% 5%"><stack><p>The area of the square shown at right is 25 square inches. What is the length of each side of the square? Because the area of a square is found by squaring the length of a side, we are looking for a number whose square is 25.</p>
 <p>You can probably see that the number we need is 5, because <m>5^2 = 25</m>. The number 5 is called a <term>square root</term> of 25.</p></stack>  
-  <image source="fivesquared.png"></image></sidebyside>
+  <image source="fivesquared.png"><description>5 by 5 square</description></image></sidebyside>
 
 <assemblage><title>Definition</title>
 <p>A number <m>s</m> is called a <term>square root</term> of <m>N</m>  if <m>s^2 = N</m>.</p></assemblage>
@@ -42,12 +42,12 @@ If you know the square of a number, can you find the original number?</p>
 <answer><p>4 is a square root of 16.</p></answer></exercise>
 
 <note><p> If you know about negative numbers, you will have noticed that 5 is not the only square root of 25.  We can see that <m>-5</m>  is another square root of  25, because 
-    <me>(-5)^2 = (-5) \cdot (-5) = 25</me>
+    <md><mrow>(-5)^2 = (-5) \cdot (-5) = 25</mrow></md>
 In fact, every positive number has two square roots, one positive and one negative.  We'll learn more about negative numbers in the next lesson.</p></note>
 
 <assemblage><title>Notation</title>
 <p>We have a special symbol called a <term>radical sign</term>, <m>\sqrt{\hphantom{0}}</m>, to denote the positive square root of a number.  For example,
-    <me>\sqrt{16}~~~~ \text{means} ~~~~ \text{"the positive square root of 16."}</me>
+    <md><mrow>\sqrt{16}~~~~ \text{means} ~~~~ \text{"the positive square root of 16."}</mrow></md>
 so <m>\sqrt{16} = 4.</m></p></assemblage>
 
 <example><statement><p><ol marker="a." cols="2">
@@ -61,7 +61,7 @@ so <m>\sqrt{16} = 4.</m></p></assemblage>
 <answer><p><m>\sqrt{4} = 2</m></p></answer></exercise>
 
 <p>Numbers such as 16 and 25 are called <term>perfect squares</term> because they are the squares of whole numbers: 
-    <me>16 = 4^2 ~~~~~~ \text{and} ~~~~~~ 25 = 5^2 </me> 
+    <md><mrow>16 = 4^2 ~~~~~~ \text{and} ~~~~~~ 25 = 5^2 </mrow></md>
 We met perfect squares in our work with exponents. So you already know the square roots of several numbers.</p>
 
   <activity><title>Square Roots</title>
@@ -159,7 +159,7 @@ We met perfect squares in our work with exponents. So you already know the squar
 
 <p><m>\blert{\text{Step 2}}</m></p>
 <p>Let's guess 2.5 for <m>\sqrt{5}</m>. To check our guess, we can square  2.5  and see if we get  5:
-  <me>(2.5)^2 = 6.25</me>
+  <md><mrow>(2.5)^2 = 6.25</mrow></md>
   So 2.5 is too big to be the square root of  5.</p>
 
 <p><m>\blert{\text{Step 3}}</m></p>
@@ -224,14 +224,14 @@ We met perfect squares in our work with exponents. So you already know the squar
 <p>An <term>irrational number</term> is one that cannot be written as a fraction.</p></assemblage>
 
 <note><sidebyside widths="60% 30%"><p>Do you think it's strange that some numbers cannot be written as fractions? So did the Pythagoreans. Hippasus, one of Pythagoras' students, proved that <m>\sqrt{2}</m> is irrational, and legend has it that they threw him overboard into the ocean.</p>
-    <image source="hippasus.png"></image></sidebyside></note>
+    <image source="hippasus.png"><description>Hippasus</description></image></sidebyside></note>
 
 <p>There is nothing special about <m>\sqrt{5}</m>.  All whole numbers that are not perfect squares have square roots that are irrational.  However, by increasing the number of decimal places, we can find an approximation to <m>\sqrt{5}</m>, or to any irrational number, as accurate as we like.  For example,
-    <me>\sqrt{5} \approx 2.2360679774998…</me>
+    <md><mrow>\sqrt{5} \approx 2.2360679774998…</mrow></md>
 But there is no symbol to write the exact value of <m>\sqrt{5}</m> except for <m>\sqrt{5}</m> !</p>
 
 <p>Most scientific calculators give values for square roots to as many digits as their displays allow. Look for a key labeled <m>\boxed{\sqrt{\hphantom{0}}}</m>,  and enter
-  <me> 5 \hphantom{0} \boxed{\sqrt{\hphantom{0}}}</me>
+  <md><mrow>5 \hphantom{0} \boxed{\sqrt{\hphantom{0}}}</mrow></md>
 (On a graphing calculator, enter the radical symbol first: <m>\boxed{\sqrt{\hphantom{0}}} \hphantom{0} 5</m>.)  The calculator will return an approximation for <m>\sqrt{5}</m>, for example, 2.236068. You can then round off the number to as many decimal places as you need.</p>
 
 <note><p>You can review rounding in <xref ref="rounding"/>.</p></note>
@@ -258,18 +258,18 @@ But there is no symbol to write the exact value of <m>\sqrt{5}</m> except for <m
 <subsection><title>Squares and Square Roots</title>
 
 <p>If you know that the square of an unknown positive number is 36, can you find the number?  Let's call the unknown number <m>n</m>.  In math notation, the question becomes:  can you find <m>n</m> if you know that
-        <me>n^2 = 36</me> 
+        <md><mrow>n^2 = 36</mrow></md> 
 Of course you can: <m>n</m>  must be the square root of 36, or
-        <me>n = \sqrt{36} = 6</me>
+        <md><mrow>n = \sqrt{36} = 6</mrow></md>
 This is because squaring and taking square roots are <term>opposite operations</term>;  each operation undoes the effects of the other.  If you square a number and then take the square root of the result, you get back to the original number.
-    <me>\blert{\large\substack{\text{Start with} \\ \text{a Number}}  13  \rightarrow  \large\substack{\text{Square the} \\ \text{Number}}  \rightarrow  169  \rightarrow \large\substack{\text{Take the}\\ \text{Square Root}} \rightarrow  13 \hphantom{0} \large\substack{\text{Get the original}\\ \text{number back!}}}</me></p>
+        <md><mrow>\blert{\large\substack{\text{Start with} \\ \text{a Number}}  13  \rightarrow  \large\substack{\text{Square the} \\ \text{Number}}  \rightarrow  169  \rightarrow \large\substack{\text{Take the}\\ \text{Square Root}} \rightarrow  13 \hphantom{0} \large\substack{\text{Get the original}\\ \text{number back!}}}</mrow></md></p>
 
 <example><statement><p>If <m>B</m> is a positive number and <m>B^2 = 784</m>,  what is the value of <m>B</m>?</p></statement>
 
 <solution><p> <m>B</m> must be the square root of 784, or <m>B = \sqrt{784}</m>.  Using a calculator, we find that
-    <me>B = \sqrt{784} = 28</me>
+    <md><mrow>B = \sqrt{784} = 28</mrow></md>
 We can check our result by squaring.
-    <me>B^2 = 28^2 = 784</me></p></solution></example>
+    <md><mrow>B^2 = 28^2 = 784</mrow></md></p></solution></example>
 
 <note><p>In Example 4.3.10, we can also say that we solved the equation <m>B^2 = 784</m>. Earlier we learned that we solve equations by applying opposite operations, and the same is true here:  to solve an equation where the variable is squared, we take the square root.</p></note>
 
@@ -284,13 +284,13 @@ We can check our result by squaring.
 
 <assemblage><title>Pythagorean Theorem</title>
 <p><sidebyside widths="60% 30%"><p>If the letter <m>\alert{c}</m> stands for the length of the hypotenuse, and the lengths of the two legs are denoted by <m>\alert{a}</m> and <m>\alert{b}</m>, then
-  <me>\alert{a^2 + b^2 = c^2}</me></p>
-<image source="Pythtri.png"></image></sidebyside></p></assemblage>
+    <md><mrow>\alert{a^2 + b^2 = c^2}</mrow></md></p>
+<image source="Pythtri.png"><description>right triangle</description></image></sidebyside></p></assemblage>
  
 <p>We first studied the Pythagorean Theorem in <xref ref="pythagoras" text="custom">Section 3.2</xref>. And now that we can take square roots, we can use the theorem to solve problems.</p>
 
 <example><statement><sidebyside widths="60% 30%" valigns="middle middle"><p>The two legs of a right triangle are 6 inches and 8 inches long. How long is the hypotenuse?</p>
-    <image source="six8rttri.png"></image></sidebyside></statement>
+    <image source="six8rttri.png"><description>right triangle</description></image></sidebyside></statement>
 
 <solution><p>We substitute the lengths of the two legs into the Pythagorean theorem for <m>a</m> and <m>b</m>.
     <md><mrow>6^2 + 8^2 \amp = c^2  \amp \amp \blert{\text{Compute the powers.}}</mrow>
@@ -305,20 +305,20 @@ The hypotenuse is 10 inches long.</p></solution></example>
 <answer><p>41 meters</p></answer></exercise>
 
 <example><statement><sidebyside widths="70% 30%"><p>A triathlete wants to know the distance across a small lake, from point <m>A</m> to point <m>B</m>.  She locates point <m>C</m> on one side of the lake to make a right triangle as shown. The distance from <m>A</m> to <m>C</m> is 3 miles, and the distance from <m>B</m> to <m>C</m> is 4 miles.  How far is it from <m>A</m> to <m>B</m> across the lake?</p>
-    <image source="laketri.png"></image></sidebyside></statement>
+    <image source="laketri.png"><description>right triangle</description></image></sidebyside></statement>
 
 <solution><p>We can apply the Pythagorean theorem. Let's let <m>d</m> represent the distance across the lake, from <m>A</m> to <m>B</m>.  Then
-    <me>d^2 + 3^2 = 4^2</me>
+    <md><mrow>d^2 + 3^2 = 4^2</mrow></md>
 We square the numbers to get
-    <me>d^2+ 9 = 16</me>
+    <md><mrow>d^2+ 9 = 16</mrow></md>
 If 9 added to <m>d^2</m> gives 16, then <m>d^2</m> must be equal to 7.
-    <me>d^2 = 7</me>
+    <md><mrow>d^2 = 7</mrow></md>
 So <m>d</m> must be the square root of 7.
-    <me>d = \sqrt{7} = 2.64575 ...</me>
+    <md><mrow>d = \sqrt{7} = 2.64575 ...</mrow></md>
 The distance across the lake is about 2.65 miles.</p></solution></example>
 
 <exercise><statement><sidebyside widths="70% 30%"><p>The Department of Roads wants to know the distance through a mountain in the path of a proposed highway from <m>A</m> to <m>B</m>. The field engineer locates point <m>C</m> on a line perpendicular to the planned route.  He then measures the distance from <m>A</m> to <m>C</m> as 2 miles, and the distance from <m>B</m> to <m>C</m> as 3 miles.  How far is it from <m>A</m> to <m>B</m> through the mountain?</p>
-     <image source="roadstri.png"></image></sidebyside></statement>
+     <image source="roadstri.png"><description>right triangle</description></image></sidebyside></statement>
 
 <answer><p>About 2.24 miles</p></answer></exercise>
 
@@ -334,7 +334,7 @@ The distance across the lake is about 2.65 miles.</p></solution></example>
 
 <p>Here is a picture of the situation.</p>
 
-    <image source="biketripmap.png" width="70%"></image>
+    <image source="biketripmap.png" width="70%"><description>right triangle</description></image>
 
 <p><ol>
   <li><p>Let us call the distance Delbert has to ride <m>D</m>. The three distances, 20 miles, 20.5 miles, and <m>D</m> miles, form a right triangle. Write an equation using the Pythagorean theorem.</p></li>
@@ -342,10 +342,10 @@ The distance across the lake is about 2.65 miles.</p></solution></example>
   <li><p>Now square the two numbers in your equation to get a new equation.</p></li>
 
   <li><p>What does your new equation tell you about the value of <m>D^2</m> ? 
-        <me>D^2 = </me>  </p></li>              
+        <md><mrow>D^2 = </mrow></md>  </p></li>              
 
   <li><p>Now you can find <m>D</m>. Use a calculator to find that 
-        <me>D = </me>  </p></li>                
+        <md><mrow>D = </mrow></md>  </p></li>                
 
   <li><p>Delbert must ride another <fillin></fillin> miles to reach the bridge. (Do you find the answer surprising?)</p></li>
 </ol></p></activity>
@@ -355,7 +355,7 @@ The distance across the lake is about 2.65 miles.</p></solution></example>
 <sidebyside widths="60% 35%"><stack><p>The figure at the start of this section is called the Spiral of Theodorus. Theodorus of Cyrene was a Greek mathematician who lived in the 5th century BCE. He used the spiral to prove that the square roots of the non-square numbers up to 17 are irrational.</p>
 
 <p>To make the spiral, you start with the right triangle shaded in blue. Then you use the hypotenuse of that triangle as one leg of another right triangle, with a second leg of length 1. Continue the process, adding a new right triangle at each step.</p></stack>
-  <image source="bluespiral.png"></image></sidebyside>
+  <image source="bluespiral.png"><description>root spiral</description></image></sidebyside>
 
 <p><ol>
   <li><p>Use the Pythagorean theorem to find the hypotenuse of the first right triangle, shaded blue in the figure.</p></li>
@@ -369,7 +369,7 @@ The distance across the lake is about 2.65 miles.</p></solution></example>
 
 <p>When the railroad lays a new track, they always leave a small amount of space between the ends of adjacent rails. This is because the rails expand on hot days, and without some room between rails the tracks would buckle. Suppose that a fifteen mile section of rail expands one inch, causing the track to buckle as shown in the figure.  (Not to scale!) </p>
 
-    <image source="hp-4-3-chall.png" width="50%"></image>
+    <image source="hp-4-3-chall.png" width="50%"><description>right triangle</description></image>
 
 <p><ol>
   <li><p>How high will the rail rise in the middle?  First, choose your best guess:</p>

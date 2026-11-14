@@ -12,7 +12,7 @@
     <li><p>Volume of a Sphere</p></li>
   </ul></p>
   
-  <image source="spheresincircle.png"></image></sidebyside>
+  <image source="spheresincircle.png"><description>circle with spheres</description></image></sidebyside>
 
 <subsection><title>Perimeter</title>
 <p>Recall that the <term>perimeter</term> of a region means the length of its boundary or outer edge.</p>
@@ -23,17 +23,17 @@
 <p>In an earlier lesson, we learned to find the perimeter of a straight-sided figure by adding the lengths of its sides.</p>
 
 <sidebyside widths="60% 30%" margins="0% 10%"><p>For example, perhaps you know a formula for the perimeter of a rectangle. Because the opposite sides of the rectangle are equal in length, we can calculate its perimeter by</p>
-  <image source="hp-1-5-29c.png"></image></sidebyside>
+  <image source="hp-1-5-29c.png"><description>rectangle</description></image></sidebyside>
 
-<p><me> \blert{\text{Perimeter} = (2 \times \text{ width}) + (2 \times \text{ length})}</me></p>
+<p><md><mrow>\blert{\text{Perimeter} = (2 \times \text{ width}) + (2 \times \text{ length})}</mrow></md></p>
 
 <p>You can check that the perimeter of this rectangle is 50 feet:
 
-    <me>(2 \times 16 \text{ ft}) + (2 \times 9 \text{ ft}) = 32 + 18 = 50 \text{ ft}</me></p>
+    <md><mrow>(2 \times 16 \text{ ft}) + (2 \times 9 \text{ ft}) = 32 + 18 = 50 \text{ ft}</mrow></md></p>
 
 <p>But how can we find the perimeter of a figure with curved sides, such as a circle? Well, we can use a tape measure, or even a piece of string, but we'd like a formula that gives us the distance around the circle in terms of the size of the circle.</p>
 
-  <image source="oranges.png" width="60%"></image>
+  <image source="oranges.png" width="60%"><description>oranges</description></image>
 </subsection>
 
 <subsection><title>Circumference of a Circle</title>
@@ -52,7 +52,7 @@
     <li><p>and the diameter is the distance across the circle.</p></li>
   </ul></p></stack>
 
-  <image source="circleterms.png"></image></sidebyside>
+  <image source="circleterms.png"><description>circle</description></image></sidebyside>
 
   <p>It seems clear that the bigger the diameter of the circle, the bigger its circumference will be. But is there a formula for finding the circumference of a circle in terms of its diameter?</p>
 
@@ -96,37 +96,37 @@
 </ol></p></activity>
 
 <sidebyside widths="60% 40%"><stack><p>It is a fact that the circumference of every circle is a little more than three times its diameter. More precisely,
-   <me>\blert{\text{Circumference} = \pi \times \text{diameter}}</me>
+    <md><mrow>\blert{\text{Circumference} = \pi \times \text{diameter}}</mrow></md>
 The Greek letter <m>\blert{\pi}</m> (<term>pi</term>, read "pie") stands for an <term>irrational</term> number:   
-    <me>\blert{\pi = 3.141592654 ...}</me>
+    <md><mrow>\blert{\pi = 3.141592654 ...}</mrow></md>
   We can state this result as a formula for the circumference of a circle.</p></stack>
 
-  <image source="pi.png"></image></sidebyside>
+  <image source="pi.png"><description>circle</description></image></sidebyside>
 
   <assemblage><title>Circumference</title>
   <p>The circumference <m>C</m>  of a circle is given by
-        <me>\blert{C = \pi \times d}</me>
+        <md><mrow>\blert{C = \pi \times d}</mrow></md>
  where <m>d</m> is the diameter of the circle.</p></assemblage>
 
 <note><p>An irrational number is one whose decimal expression never ends. You can read more about irrational numbers in Section 4.3.</p>
 <p>Most scientific calculators have a key for <m>\pi</m> that you can use in calculations. If your calculator does not have a key for <m>\pi</m>, you can use the approximation <m>\pi \approx 3.14</m>.</p></note>
 
 <example xml:id="skatingrink"><statement><p>Find the distance around the edge of a circular skating rink whose diameter is 50 feet.
-    <image source="skating.png" width = "50%"></image></p></statement>
+    <image source="skating.png" width = "50%"><description>skating rink</description></image></p></statement>
 
 <solution><p>The distance around the edge is the circumference of the circle. So we are looking for the circumference of a circle whose diameter is 50 feet. We'll apply the formula above.
-  <me>C = \pi \times d = \pi \times 50</me>
+    <md><mrow>C = \pi \times d = \pi \times 50</mrow></md>
 Using a calculator, we find that <m>C = 157.07963</m>  feet, or approximately 157 feet.</p></solution></example>  
 
 <exercise><statement><p><sidebyside widths="50% 20%" valigns="middle middle"><p>Find the distance around the edge of a 10 peso coin with diameter 28 millimeters.</p>
-    <image source="peso.png"></image></sidebyside></p></statement>
+    <image source="peso.png"><description>peso</description></image></sidebyside></p></statement>
 
 <answer><p>87.96 mm</p></answer></exercise>
 
 <assemblage><p><m>\blert{\text{Question 1:}}</m>  To find the circumference of circle when we know its diameter, we multiply by <m>\pi</m>. How can we find the diameter of a circle if we know its circumference?</p></assemblage>
 
 <example><statement><p>The distance around a circular pond at the arboretum is approximately 500 yards. How far is it from the edge of the pond to the gazebo at its center? </p>
-    <image source="gazebo.png" width="50%"></image></statement>
+    <image source="gazebo.png" width="50%"><description>gazebo</description></image></statement>
 
 <solution><p>We are given the circumference of a circle and asked to find its radius. First we'll find the diameter of the circle, using the formula <m>C = \pi \times d</m>.  We substitute the value of <m>C</m>, <m>\alert{500}</m> yards, and solve the formula for <m>d</m>.
     <md><mrow>\alert{500} \amp = \pi \times d ~~~~~~~~~~~\blert{\text{Divide 500 by } \pi}</mrow>
@@ -134,7 +134,7 @@ Using a calculator, we find that <m>C = 157.07963</m>  feet, or approximately 15
 Use your calculator to find that  is approximately 150.15 yards. Because the radius of a circle is half its diameter, we divide 150.15 by 2 to find that the radius is 79.58 yards. The distance to the gazebo from the edge of the pond is about 79.6 yards.</p></solution></example>
 
 <exercise xml:id="treetrunk"><statement><p><sidebyside widths="50% 20%" valigns="middle middle"><p>A tree trunk has a circumference of 2 meters. What is the radius of the trunk?</p>
-    <image source="treetrunk.png"></image></sidebyside></p></statement>
+    <image source="treetrunk.png"><description>tree</description></image></sidebyside></p></statement>
 
 <answer><p> About 0.32 m</p></answer></exercise>
 
@@ -147,12 +147,12 @@ Use your calculator to find that  is approximately 150.15 yards. Because the rad
 <subsection><title>Area of a Circle</title>
 
 <p>Recall that the <term>area</term> measures the amount of space in a region.  We measure area in <term>square units</term>, such as square inches or square meters. It might seem strange to ask how many square units fill the inside a circle, but you can imagine painting the inside of the circle, and then asking what size rectangle we can cover with the same amount of paint.</p>
-    <image source="paint.png" width="75%"></image>
+    <image source="paint.png" width="75%"><description>circle and square</description></image>
     
 <activity><title>Area of a Circle</title>
 <p><ol>
   <li><p>We can estimate the area of a circle by counting the number of squares that fit inside.</p>
-    <image source="circlearea1.png"></image>
+    <image source="circlearea1.png"><description>circle on grid</description></image>
   <p><ol marker="a.">
     <li><p>On the circle on the left, put a dot in each square that is completely within the circle.  Count the number of squares with dots.</p> 
       <p>The area of the circle is larger than  <fillin></fillin> square units.</p></li>
@@ -161,7 +161,7 @@ Use your calculator to find that  is approximately 150.15 yards. Because the rad
     </ol></p></li>
   
   <li><p>If we make the squares smaller, we can get a better estimate for the area of the circle. Repeat parts (a) and (b) from Step 1.</p>
-      <image source="circlearea2.png"></image>
+      <image source="circlearea2.png"><description>circle on grid</description></image>
     <p><ol marker="a.">
     <li><p>On the circle on the left, put a dot in each square that is completely within the circle.  Count the number of squares with dots.</p> 
       <p>The area of the circle is larger than  <fillin></fillin> square units.</p></li>
@@ -189,16 +189,16 @@ Use your calculator to find that  is approximately 150.15 yards. Because the rad
 
 <p><ol>
 <li><p>Here is a circle divided into 8 wedges. The radius of this circle is <m>R</m>.  Trace the circle onto a sheet of paper, then cut out all the wedges.</p>
-     <image source="circlewedges.png" width="40%"></image></li>
+     <image source="circlewedges.png" width="40%"><description>circle with wedges</description></image></li>
 <li><p>
   <ol marker="a.">
     <li><p>Arrange the wedges as shown in the lefthand picture below. Does it look sort of like a rectangle? (Or maybe a parallelogram?)</p>
-      <image source="wedges.png" width="80%"></image></li>
+      <image source="wedges.png" width="80%"><description>wedges arranged</description></image></li>
 
     <li><p>No? Okay, what if you slice off half of the first wedge and stick it on the other end, as shown in the righthand picture above?</p></li>
   </ol></p></li>
 <li><p>If you are still not convinced, consider what happens when we increase the number of wedges. Look at the figure below.</p>
-      <image source="manywedges.png"></image></li>
+      <image source="manywedges.png"><description>more wedges</description></image></li>
 <li><p>Does rearranging the pieces of the circle change its area?</p>
 
   <p>So if we can find the area of the almost-rectangle, it will also be the area of the circle. Your answers to (a) and (b) below will involve the radius of the circle.</p>
@@ -211,21 +211,21 @@ Use your calculator to find that  is approximately 150.15 yards. Because the rad
 
 <li><p>Finally, use your answers to Step 4 to write a formula for the area of the rectangle -- and the circle. Your formula should be written in terms of the radius of the circle.</p>
 
-    <me>\blert{\text{Area of circle } = <fillin></fillin>}</me></li>  
+    <md><mrow>\blert{\text{Area of circle } = <fillin></fillin>}</mrow></md></li>  
 </ol></p></activity> 
 
-  <image source="spirographs.png" width="80%"></image>                  
+  <image source="spirographs.png" width="80%"><description>spirographs</description></image>                  
 
 <p>Here is our formula for the area of a circle.</p>
 
 <assemblage><title>Area of a Circle</title>
 <p>The area enclosed by a circle is given by
-    <me>\blert{\text{Area } = \pi \times r^2}</me>
+    <md><mrow>\blert{\text{Area } = \pi \times r^2}</mrow></md>
 where <m>r</m> is the radius of the circle.</p></assemblage>
 
 <assemblage><title>A Quick Refresher</title>
 <p>The number 2 in <m>r^2</m> is called an <term>exponent</term>, and <m>r</m> is called the <term>base</term>.  An exponent tells us how many times the base occurs as a factor in a product. So
-    <me>r^2 \hphantom{0000}\text{ means } \hphantom{0000} r \times r</me>   
+    <md><mrow>r^2 \hphantom{0000}\text{ means } \hphantom{0000} r \times r</mrow></md>   
 The product is called a <term>power</term> of the base. We compute powers before we compute the rest of a product.</p>
 
 <p><md><mrow>\text{Example:  } \hphantom{000000}  4 \times 13^2 \amp = 4 \times (13 \times 13) \hphantom{000000}</mrow>
@@ -241,7 +241,7 @@ The product is called a <term>power</term> of the base. We compute powers before
 The area of the skating rink is approximately 1963.50 square feet.</p></solution></example>
 
 <exercise><statement><sidebyside widths="60% 25%"><p>Cara used a slab from the tree trunk in <xref ref="treetrunk" text="custom">Ceckpoint 3.4.5</xref> to make a table top. What is the area of the table top?</p>
-  <image source="treetable.png"></image></sidebyside></statement>
+  <image source="treetable.png"><description>table</description></image></sidebyside></statement>
 
 <answer><p>About 0.32 sq m</p></answer></exercise>
 </subsection>
@@ -249,7 +249,7 @@ The area of the skating rink is approximately 1963.50 square feet.</p></solution
 <subsection><title>Volume of a Sphere</title>
 
 <sidebyside widths="60% 25%" margins="0% 5%"><p>How much does the Earth weigh? That depends on two things: the density of the materials that make up Earth, and the volume of the planet.  The <term>volume</term> of a three-dimensional figure measures how much space is inside the figure, and is given in <term>cubic units</term>.</p>
-    <image source="earth.png"></image></sidebyside>
+    <image source="earth.png"><description>Earth</description></image></sidebyside>
 
 <p>As with the area of a circle, it may seem strange to measure the inside of a round object like a sphere in cubic units.  Imagine filling the sphere with liquid, and then pouring the liquid into a rectangular box to measure its volume.</p>
 
@@ -259,9 +259,9 @@ The area of the skating rink is approximately 1963.50 square feet.</p></solution
 
 <assemblage><title>Volume of a Sphere</title>
 <sidebyside widths="60% 20%" valigns="middle middle" margins="0% 10%"><p>The volume of a sphere is given by 
-  <me>\blert{\text{Volume } = \dfrac{4}{3} \times \pi r^3}</me>     
+    <md><mrow>\blert{\text{Volume } = \dfrac{4}{3} \times \pi r^3}</mrow></md>     
   where <m>r</m> is the radius of the sphere.</p>  
-      <image source="volsphere.png"></image></sidebyside>
+      <image source="volsphere.png"><description>sphere</description></image></sidebyside>
 </assemblage>
 
 <note><p>In the formula for the volume of a sphere, notice that the exponent on <m>r</m> is 3. Recall that <m>r^3</m>, which we read as "<m>r</m> cubed," means <m>r\times r \times r</m>.</p></note>  
@@ -277,7 +277,7 @@ The area of the skating rink is approximately 1963.50 square feet.</p></solution
   The volume of the tank is approximately 33,510.32 cubic yards.</p></solution></example>
 
 <exercise><statement><sidebyside widths="50% 20%" valigns="middle middle" margins="10% 10%"><p>Find the volume of a basketball with a radius of 4.75 inches.</p>
-     <image source="basketball.png"></image></sidebyside></statement>
+     <image source="basketball.png"><description>basketball</description></image></sidebyside></statement>
 
 <answer><p>The volume is approximately 448.92 cu in.</p></answer></exercise>
 
@@ -286,21 +286,21 @@ The area of the skating rink is approximately 1963.50 square feet.</p></solution
 <assemblage><title>Circles and Spheres</title>
 
 <p>The diameter of a circle is twice its radius.
-  <me>\blert{D = 2 \times r}</me></p>
+  <md><mrow>\blert{D = 2 \times r}</mrow></md></p>
 
 <p>Circumference of a circle
-  <me>\blert{C = \pi \times D} \hphantom{0000} \text {or} \hphantom{0000} \blert{C = 2 \times \pi \times r}</me></p>
+  <md><mrow>\blert{C = \pi \times D} \hphantom{0000} \text {or} \hphantom{0000} \blert{C = 2 \times \pi \times r}</mrow></md></p>
 
 <p>Area of a circle
-    <me>\blert{A = \pi \times r^2}</me></p>
+    <md><mrow>\blert{A = \pi \times r^2}</mrow></md></p>
 
 <p>Volume of a sphere
-  <me>\blert{\text{Volume } = \dfrac{4}{3} \times \pi r^3}</me></p>
+  <md><mrow>\blert{\text{Volume } = \dfrac{4}{3} \times \pi r^3}</mrow></md></p>
 </assemblage>
 
 <activity><title>Quilt Patterns</title>
 <p>This quilt pattern is called Drunkard's Path. The entire block (without the border) measures 30 centimeters on each side, and it is made out of 16 patches.</p>
-    <image source="drunkardspath.png" width="50%"></image>
+    <image source="drunkardspath.png" width="50%"><description>quilt pattern</description></image>
 
 <p><ol>
   <li><p>Find the dimensions and area of each patch.</p></li>
@@ -315,7 +315,7 @@ The area of the skating rink is approximately 1963.50 square feet.</p></solution
 </ol></p>
 
 <p>This quilt is called Birdhouse Row. Each birdhouse sits in a square that measures <m>6\dfrac{1}{2}</m> inches on a side.</p>
-    <image source="birdhouserow.png" width="50%"></image>
+    <image source="birdhouserow.png" width="50%"><description>quilt pattern</description></image>
 
 <p><ol>
   <li><p>Find the area of one square.</p></li>
@@ -331,7 +331,7 @@ The area of the skating rink is approximately 1963.50 square feet.</p></solution
 
 <assemblage><title>Challenge Problem</title>
 <sidebyside widths="50% 25%" valigns="middle middle"><p>The radius of the earth is approximately 3963 miles. Suppose you have a string stretched tight around the equator of the earth.</p>
-    <image source="earth.png"></image></sidebyside>
+    <image source="earth.png"><description>Earth</description></image></sidebyside>
   <p><ol marker="a.">
     <li><p>How long is the string?</p></li>
     <li><p>Now suppose you add 10 feet to the length of the string. How long is it now (in feet)?</p></li>

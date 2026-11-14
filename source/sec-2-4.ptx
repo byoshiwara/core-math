@@ -10,14 +10,14 @@
     <li><p>Evaluating Algebraic Expressions</p></li>
     <li><p>Writing Algebraic Expressions</p></li>
   </ul></p>
-      <image source="algexp.png"></image></sidebyside>
+      <image source="algexp.png"><description>face</description></image></sidebyside>
 
 <subsection><title>What is an Algebraic Expression?</title>
 
 <p>In Section 2.3 we saw that we can use a letter to represent a variable quantity, such as temperature or age. Now we'll see how to work with variables to describe changing situations and to solve problems.</p>
 
 <p>Our first task is to describe variable situations in mathematical language. When we use operation symbols to combine numbers and variables, we create <term>algebraic expressions</term>. Some examples of algebraic expressions are</p>
-        <image source="exampalgexp.png" width="60%"></image>
+        <image source="exampalgexp.png" width="60%"><description>algebraic expressions</description></image>
 
 <p>For example, the expression <m>8 + b</m> might stand for 8 dollars more than the bill, and <m>r \times t</m> is often used to represent rate (or speed) times time.</p>
 
@@ -29,11 +29,11 @@
   <li><p>When we add two numbers or variables together, the result is called the <term>sum</term>, and the things added together are called <term>terms</term>.</p></li>  
   <li><p>When we multiply two numbers or variables together, the result is called the <term>product</term>, and the things multiplied together are called <term>factors</term>.</p></li>
 </ul></p>
-        <image source="sumproduct.png" width="65%"></image>
+        <image source="sumproduct.png" width="65%"><description>factors and terms</description></image>
 
 <assemblage><title>Products</title>
 <p>In algebra, we can use a raised dot or parentheses instead of a cross to indicate multiplication. For example, we write "two times three" as 
-    <me>\alert{2 \cdot 3}~~~~~~\text{or}~~~~~~\alert{2(3)}~~~~~~\text{or}~~~~~~\alert{2 \times 3}</me>
+    <md><mrow>\alert{2 \cdot 3}~~~~~~\text{or}~~~~~~\alert{2(3)}~~~~~~\text{or}~~~~~~\alert{2 \times 3}</mrow></md>
 We write the product of two variables, or a number and a variable, next to each other without any symbol between them. For example,
     <md><mrow>\alert{5g}~~~~~~\text{means}~~~~~~\alert{5 \times g}</mrow>
         <mrow>\alert{xy}~~~~~~\text{means}~~~~~\alert{x \times y}</mrow></md></p></assemblage>
@@ -117,7 +117,7 @@ We write the product of two variables, or a number and a variable, next to each 
 <p>When we divide one number or variable by another, the result is called the <term>quotient</term>. In algebra, we often use a fraction bar instead of the symbol <m>\div</m> to denote division. For example,</p>
 
   <assemblage><title>Quotients</title>
-    <p><me>\alert{\dfrac{20}{5}}~~~~~~\text{means}~~~~~~\alert{20 \div 5}</me></p>
+    <p><md><mrow>\alert{\dfrac{20}{5}}~~~~~~\text{means}~~~~~~\alert{20 \div 5}</mrow></md></p>
   </assemblage>
 
 <p>The fraction bar and the symbol <m>\div</m> both mean "divided by."</p> 
@@ -133,7 +133,7 @@ We write the product of two variables, or a number and a variable, next to each 
 
 <assemblage><title>Division</title>
   <p>Here are three different ways to write the division  "Fifteen divided by three":
-    <me>~~\alert{3)\overline{15}~~~~~~~~~~~ 15 \div 3 ~~~~~~~~~~~ \dfrac{15}{3}}</me>
+    <md><mrow>~~\alert{3)\overline{15}~~~~~~~~~~~ 15 \div 3 ~~~~~~~~~~~ \dfrac{15}{3}}</mrow></md>
   Look carefully at the order of the numbers in each expression.</p></assemblage>
 
 <activity><title>Ways to Write Division</title>
@@ -487,9 +487,9 @@ We write the product of two variables, or a number and a variable, next to each 
 
   <solution><p><ol marker="a.">
     <li><p>We replace <m>y</m> by <m>\alert{7}</m> to get
-      <me>y + 14 = \alert{7} + 14 = 21~~~~~~~~ \blert{\text{Add 14 to 7.}}</me></p></li>
+      <md><mrow>y + 14 = \alert{7} + 14 = 21~~~~~~~~ \blert{\text{Add 14 to 7.}}</mrow></md></p></li>
     <li><p>We replace <m>x</m> by <m>\alert{5}</m> and <m>z</m> by <m>\alert{4}</m> to get
-      <me>3xz = 3(\alert{5})(\alert{4}) = 60~~~~~~~~ \blert{\text{Multiply 3 by 5 by 4.}}</me></p></li>
+      <md><mrow>3xz = 3(\alert{5})(\alert{4}) = 60~~~~~~~~ \blert{\text{Multiply 3 by 5 by 4.}}</mrow></md></p></li>
     </ol></p></solution></example>
 
 <exercise><statement><p>Evaluate each expression for <m>a = \alert{0.3},~b = \alert{1.2}</m>, and <m>c = \alert{6}</m>.</p>

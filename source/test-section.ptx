@@ -7,14 +7,14 @@
   <xi:include href="./meta_docinfo.ptx" />
 
   <book xml:id="testing">
-    <title>core-math</title>
+    <title>CoreMath</title>
 
    <xi:include href="./meta_frontmatter.ptx" />
    <chapter xml:id="testchap"  xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Testing</title>
 
 
-    <xi:include href="./sec-4-5.ptx" />
+    <xi:include href="./sec-5-4.ptx" />
 
 </chapter>
 

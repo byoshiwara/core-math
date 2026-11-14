@@ -26,11 +26,11 @@ From that point, move 3 units in the <term>positive direction</term>, or to the 
 
 <exercise><statement><p>Illustrate the sum <m>(+2) + (+5)</m> on the number line.
     <image source="signednumberline.png" width="95%"></image>
-    <me>(+2)+(+5) = </me></p></statement>
+    <md><mrow>(+2)+(+5) = </mrow></md></p></statement>
 <answer><m>+7</m></answer></exercise>
 
 <p>What about the sum of two negative numbers?  For example, what is 
-      <me>(-5) + (-3)~  ? </me>
+      <md><mrow>(-5) + (-3)~  ?</mrow></md>
 We'll use ideas about money to illustrate negative numbers.</p>
 
 <sidebyside widths="50% 30%"><p>Think of negative numbers as representing debts. It makes sense that the sum of two negative numbers is another negative number:  if you owe $5 to one person and $3 to another person, then you are $8 in debt.</p><image source="dollars.png"></image></sidebyside>  
@@ -43,7 +43,7 @@ From that point, move 3 units in the <term>negative direction</term>, or to the 
 
 <exercise><statement><p>Illustrate the sum <m>(-1) + (-5)</m> on the number line.
     <image source="signednumberline.png" width="95%"></image>
-    <me>(-1)+(-5) = </me></p></statement>
+    <md><mrow>(-1)+(-5) =</mrow></md></p></statement>
     <answer><m>-6</m></answer></exercise>
 
 <p>From the examples above, we see that: </p>
@@ -59,7 +59,7 @@ From that point, move 3 units in the <term>negative direction</term>, or to the 
 <subsection><title>Adding Two Numbers with Opposite Signs</title>
 
 <p>Now suppose you have $6, but you owe someone $8. Your financial status is described by 
-  <me>(+6) + (-8)</me>
+  <md><mrow>(+6) + (-8)</mrow></md>
 Your debts are greater than your assets, so you are $2 in debt.</p>
 
 <example><statement><p>Use a number line to illustrate the sum <m>(+6) + (-8)</m></p></statement>
@@ -70,11 +70,11 @@ From that point, move 8 units in the <term>negative direction</term>, or to the 
 
 <exercise><statement><p>Illustrate the sum <m>(-9) + (+2)</m> on the number line.
     <image source="signednumberline.png" width="95%"></image>
-    <me>(-9)+(+2) = </me></p></statement>
+    <md><mrow>(-9)+(+2) = </mrow></md></p></statement>
     <answer><m>-7</m></answer></exercise>
 
 <p>So if your debts are greater than your assets, you end up in debt. What if your assets are greater than your debts? In that case, your net worth is positive. Suppose you have $10, but you owe someone $6. We can represent this situation by the sum
-    <me>(+10) + (-6)</me>
+    <md><mrow>(+10) + (-6)</mrow></md>
 Once you pay off your debt, you still have $4 left.</p>
 
 <example><statement><p>Use a number line to illustrate the sum <m>(+10) + (-6)</m></p></statement>
@@ -90,7 +90,7 @@ From that point, move 6 units in the <term>negative direction</term>, or to the 
 
  <exercise><statement><p>Illustrate the sum <m>(-4) + (+8)</m> on the number line.
     <image source="signednumberline.png" width="95%"></image>
-    <me>(-4)+(+8) = </me></p></statement>
+    <md><mrow>(-4)+(+8) = </mrow></md></p></statement>
     <answer><m>+4</m></answer></exercise> 
 
   <p><m>\large{\blert{\text{Summary}}}</m></p>
@@ -105,7 +105,7 @@ From that point, move 6 units in the <term>negative direction</term>, or to the 
   <p>So now we know the sign of the answer when we add two numbers of opposite signs, but how do we find its actual value? Look again at the examples above. Forget about the signs for a moment. If we subtract the two numbers, we find out by how much the "bigger" number outweighs the smaller one. Then we use the appropriate sign, positive or negative, for the answer.</p>
 
 <p>This makes sense if we consider another example about money. Suppose you earn $20, but you have a debt of $15. Your financial status is given by 
-    <me>(+20) + (-15)</me>
+    <md><mrow>(+20) + (-15)</mrow></md>
 You need $15 of your earnings to pay off the debt, so we subtract $15 from $20. The remainder, $5, is your net worth.
     <image source="unnumexm-7-1.png" width="95%"></image></p>
 
@@ -122,7 +122,7 @@ You need $15 of your earnings to pay off the debt, so we subtract $15 from $20. 
 
 <p><ol>
   <li><p>Let's start with <term>zero sums</term>. Suppose you have $5 in your wallet, and you spend $5 on coffee and a cookie. What is your financial status now?
-    <me>(+5)+(-5) = 0</me>
+      <md><mrow>(+5)+(-5) = 0</mrow></md>
   When we add two numbers that are opposites, we get zero. We represent the zero sum <m>(+5)+(-5)</m> with counters like this:
         <image source="zerosum.png" width="60%"></image>
   Because the sum is zero, we can remove them from the table. An empty table represents the number 0.</p>
@@ -130,7 +130,7 @@ You need $15 of your earnings to pay off the debt, so we subtract $15 from $20. 
   <p>Note: In our examples below, yellow counters are positive and red ones are negative.</p> </li>
 
   <li><p>Now we'll consider a sum of two numbers with opposite signs. Represent
-        <me>(+7)+(-3)</me>
+        <md><mrow>(+7)+(-3)</mrow></md>
   by placing 7 positive counters and 3 negative counters on the table.
         <image source="possum.png" width="65%"></image>
   You can remove the zero sum <m>(+3)+(-3)</m> from the table. What do you have left?</p>
@@ -212,17 +212,17 @@ You need $15 of your earnings to pay off the debt, so we subtract $15 from $20. 
 
 <solution><p><ol marker="a.">
   <li><p>Because <m>-4</m> and <m>-12</m> have the same sign, we add their unsigned parts to get
-    <me>4 + 12 = 16</me>
+      <md><mrow>4 + 12 = 16</mrow></md>
   We use the same sign, <m>-</m>, for the answer.  Thus,
-      <me>\blert{(-4) + (-12) = -16}</me></p></li>
+      <md><mrow>\blert{(-4) + (-12) = -16}</mrow></md></p></li>
   <li><p>Because <m>-8</m> and <m>+2</m> have opposite signs, we subtract their unsigned parts to get
-      <me>8 - 2 = 6</me>
+      <md><mrow>8 - 2 = 6</mrow></md>
   The negative number is farther from zero, so the answer is negative.  Thus,
-      <me>\blert{(-8) + (+2) = -6}</me></p></li>
+      <md><mrow>\blert{(-8) + (+2) = -6}</mrow></md></p></li>
   <li><p>Because <m>-7</m> and <m>+9</m> have opposite signs, we subtract their unsigned parts to get
-      <me>9 - 7 = 2</me>
+      <md><mrow>9 - 7 = 2</mrow></md>
   The positive number is farther from zero, so the answer is positive.
-      <me>\blert{(-7) + (+9) = +2}</me></p></li>
+      <md><mrow>\blert{(-7) + (+9) = +2}</mrow></md></p></li>
 </ol></p></solution></example>
 
 <note><p>Here is an informal strategy for adding signed numbers:</p>
@@ -264,7 +264,7 @@ You need $15 of your earnings to pay off the debt, so we subtract $15 from $20. 
 <example><statement><p>Seymour's stock gained 3 points on Tuesday, but lost 7 points on Wednesday. What was the net change in the stock since Tuesday?</p></statement>
 
 <solution><p>We use <m>+3</m> to denote a 3-point gain and <m>-7</m> to denote a 7-point loss in the price of the stock.  Then
-    <me>(+3) + (-7) = -4</me>
+    <md><mrow>(+3) + (-7) = -4</mrow></md>
 The net change in Seymour's stock was a 4-point loss.</p></solution></example>
 
 <exercise><statement><p>When the ballots in a disputed district were recounted, Senator Dubya lost 58 votes, but he gained 42 votes when the absentee ballots were tallied.<ol marker="a.">  

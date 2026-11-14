@@ -540,25 +540,27 @@
     </tabular></p></li>
   </ol></p></statement></exercise>
 
-  <exercise number="37"><statement><p><ol marker="a.">
-  <li><p>In 2023, one British pound was worth $1.20. Write an expression for the value in dollars of <m>p</m> British pounds.</p></li>
-  <li><p>Marion received <m>d</m> American dollars in exchange for <m>p</m> British pounds. Write an equation for <m>d</m> in terms of <m>p</m>.</p></li>
-  <li><p>Fill in the table.</p>
-  <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+  <exercise number="37"><statement>
+  <p><ol marker="a.">
+      <li><p>In 2023, one British pound was worth $1.20. Write an expression for the value in dollars of <m>p</m> British pounds.</p></li>
+      <li><p>Marion received <m>d</m> American dollars in exchange for <m>p</m> British pounds. Write an equation for <m>d</m> in terms of <m>p</m>.</p></li>
+      <li><p>Fill in the table.</p>
+          <sidebyside valigns="middle middle"><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
                 <col halign="center"/>
                 <col halign="center"/>
                 <col halign="center"/>
-    <row>
-      <cell><m>p</m></cell>
-      <cell>5</cell>
-      <cell></cell>
-      <cell>20</cell></row>
-    <row>
-      <cell><m>d</m></cell>
-      <cell></cell>
-      <cell>12</cell>
-      <cell></cell></row>
-    </tabular></p></li>
+            <row>
+              <cell><m>p</m></cell>
+              <cell> 5 </cell>
+              <cell></cell>
+              <cell>20</cell></row>
+            <row>
+              <cell><m>d</m></cell>
+              <cell></cell>
+              <cell>12</cell>
+              <cell></cell></row>
+          </tabular></p>
+    <image source="FivePoundNote.png" width="45%"><description>Five pound note</description></image></sidebyside></li>
   </ol></p></statement>
 <answer><p><ol marker="a.">
   <li><p><m>1.2p</m></p></li>

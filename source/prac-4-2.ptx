@@ -48,18 +48,18 @@ by 4.  Illustrate with a picture of <m>\dfrac{1}{4} \times 8</m>.</p></statement
 <exercisegroup cols="2"><introduction><p>Problems 15-18 show windows with sides of equal length. Find the length of weather stripping needed to frame the window.</p></introduction>
 
 <exercise number="15"><statement><p>side: <m>8\dfrac{7}{8} </m> inches</p>
-    <image source="hp-4-2-15.png" width="45%"></image></statement>
+    <image source="hp-4-2-15.png" width="45%"><description>square</description></image></statement>
 <answer><p><m>35\dfrac{1}{2}</m> in</p></answer></exercise>
 
 <exercise number="16"><statement><p>side: <m>15\dfrac{3}{4} </m> inches</p>
-    <image source="hp-4-2-16.png" width="50%"></image></statement></exercise>
+    <image source="hp-4-2-16.png" width="50%"><description>hexagon</description></image></statement></exercise>
 
 <exercise number="17"><statement><p>side: <m>10\dfrac{3}{16} </m> inches</p>
-    <image source="hp-4-2-17.png" width="55%"></image></statement>
+    <image source="hp-4-2-17.png" width="55%"><description>pentagon</description></image></statement>
 <answer><p><m>50\dfrac{15}{16}</m> in</p></answer></exercise>
 
 <exercise number="18"><statement><p>side: <m>9\dfrac{9}{10} </m> inches</p>
-    <image source="hp-4-2-18.png" width="50%"></image></statement></exercise>
+    <image source="hp-4-2-18.png" width="50%"><description>octagon</description></image></statement></exercise>
 </exercisegroup>
 
 <exercise number="19"><statement><p><ol marker="a.">
@@ -202,7 +202,7 @@ by 4.  Illustrate with a picture of <m>\dfrac{1}{4} \times 8</m>.</p></statement
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 47-50, find the area and perimeter of each rectangle.  Use the formulas
-  <me>\blert{\text{area } = \text{ length } \times \text{ width}}~~~~~~~~\blert{\text{perimeter } = (2 \times \text{ length} + 2 \times \text{ width})}</me></p></introduction>
+      <md><mrow>\blert{\text{area } = \text{ length } \times \text{ width}}~~~~~~~~\blert{\text{perimeter } = (2 \times \text{ length} + 2 \times \text{ width})}</mrow></md></p></introduction>
 
  <exercise number="47"><statement><p>A computer chip is <m>2\dfrac{1}{4}</m> centimeters long and <m>\dfrac{7}{8}</m> centimeters wide.</p></statement>
 <answer><p>Area: <m>1\frac{31}{32}</m> sq cm, Perimeter: <m>7\frac{1}{4}</m> cm</p></answer></exercise>
@@ -295,42 +295,42 @@ by 4.  Illustrate with a picture of <m>\dfrac{1}{4} \times 8</m>.</p></statement
 
 <exercisegroup cols="2"><introduction><p>For Problems 65-68, find the width, <m>w</m>, of the rectangle when you know its area, <m>A</m>, and its length, <m>L</m>.</p></introduction>
 
-<exercise number="65"><statement><p><image source="hp-4-2-65.png" width="60%"></image></p>
+<exercise number="65"><statement><p><image source="hp-4-2-65.png" width="60%"><description>rectangle</description></image></p>
   <p><m>A = 15 </m> square inches</p>
   <p><m>L = 2\dfrac{1}{2} </m> inches</p></statement>
 <answer><p> 6 in</p></answer></exercise>
 
-<exercise number="66"><statement><p><image source="hp-4-2-66.png" width="60%"></image></p>
+<exercise number="66"><statement><p><image source="hp-4-2-66.png" width="60%"><description>rectangle</description></image></p>
   <p><m>A = 39 </m> square feet</p>
   <p><m>L = 3\dfrac{1}{4} </m> feet</p></statement></exercise>
 
-<exercise number="67"><statement><p><image source="hp-4-2-67.png" width="60%"></image></p>
+<exercise number="67"><statement><p><image source="hp-4-2-67.png" width="60%"><description>rectangle</description></image></p>
   <p><m>A = 64 </m> square meters</p>
   <p><m>L = 1\dfrac{1}{2} </m> meters</p></statement>
 <answer><p><m>42 \frac{2}{3}</m> m</p></answer></exercise>
 
-<exercise number="68"><statement><p><image source="hp-4-2-68.png" width="60%"></image></p>
+<exercise number="68"><statement><p><image source="hp-4-2-68.png" width="60%"><description>rectangle</description></image></p>
   <p><m>A = 14 </m> square yards</p>
   <p><m>L = 4\dfrac{1}{4} </m> yards</p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 69-72, find the width, <m>w</m>, of the rectangle when you know its perimeter, <m>P</m>, and its length, <m>L</m>.</p></introduction>
 
-<exercise number="69"><statement><p><image source="hp-4-2-69.png" width="60%"></image></p>
+<exercise number="69"><statement><p><image source="hp-4-2-69.png" width="60%"><description>rectangle</description></image></p>
   <p><m>P = 9\dfrac{1}{2} </m> centimeters</p>
   <p><m>L = 3\dfrac{1}{2} </m> centimeters</p></statement>
 <answer><p><m>\dfrac{5}{4}</m> cm</p></answer></exercise>
 
-<exercise number="70"><statement><p><image source="hp-4-2-70.png" width="60%"></image></p>
+<exercise number="70"><statement><p><image source="hp-4-2-70.png" width="60%"><description>rectangle</description></image></p>
   <p><m>P = 18 </m> inches</p>
   <p><m>L = 6\dfrac{1}{4} </m> inches</p></statement></exercise>
 
-<exercise number="71"><statement><p><image source="hp-4-2-71.png" width="60%"></image></p>
+<exercise number="71"><statement><p><image source="hp-4-2-71.png" width="60%"><description>rectangle</description></image></p>
   <p><m>P = 28 </m> feet</p>
   <p><m>L = 8\dfrac{2}{3} </m> feet</p></statement>
 <answer><p><m>10 \frac{1}{3}</m> ft</p></answer></exercise>
 
-<exercise number="72"><statement><p><image source="hp-4-2-72.png" width="60%"></image></p>
+<exercise number="72"><statement><p><image source="hp-4-2-72.png" width="60%"><description>rectangle</description></image></p>
   <p><m>P = 23 </m> kilometers</p>
   <p><m>L = 7\dfrac{1}{5} </m> kilometers</p></statement></exercise>
 </exercisegroup>
