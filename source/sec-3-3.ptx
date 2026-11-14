@@ -12,7 +12,7 @@
   </ul></p>
   <assemblage><p>I have been struck again and again by how important measurement is to improving the human condition.</p>
     <p>Bill Gates</p></assemblage></stack></p>
-  <image source="tallman.png"></image></sidebyside>
+  <image source="tallman.png"><description>tall man</description></image></sidebyside>
 
   <subsection><title>Length</title>
 
@@ -30,12 +30,12 @@
 
 <solution><p><ol marker="a.">
   <li><p>There are 12 inches in a foot, so 5 feet is equal to
-      <me>5 \times 12 = 60~~\text{inches}</me>
+      <md><mrow>5 \times 12 = 60~~\text{inches}</mrow></md>
   and 5 feet 8 inches is equal to
-      <me>60 + 8 = 68~~\text{inches}</me>
+      <md><mrow>60 + 8 = 68~~\text{inches}</mrow></md>
   Rihanna is 68 inches tall.</p></li>
   <li><p>What fraction of a foot is 8 inches?
-      <me>\dfrac{8}{12} = \dfrac{2}{3}~~\text{foot}</me>
+      <md><mrow>\dfrac{8}{12} = \dfrac{2}{3}~~\text{foot}</mrow></md>
   Rihanna is <m>5 \dfrac{2}{3}</m> feet tall.</p></li>
 </ol></p></solution></example>
 
@@ -56,22 +56,22 @@
   <li><p>A foot was about the length of a forearm (or foot, if you have big feet.)</p></li>  
   <li><p>According to legend, King Henry I decreed that a yard would be the distance from the tip of his nose to the end of his thumb.</p></li>
 </ul></p>
-  <image source="engunits.png" width="75%"></image></note>
+  <image source="engunits.png" width="75%"><description>English units</description></image></note>
 
 <p>Many everyday measurements are given in inches, feet, or yards, and it is easy to convert from one unit to another. For example, to convert from feet to inches, we multiply by 12, as we did in Example 3.3.1. To convert from inches to feet, we divide by 12.</p>
 
 <p>If it's not clear whether we should multiply or divide, we can use a conversion factor to help us decide. A <term>conversion factor</term> is just a fraction that is equal to 1. For example,
-  <me>\dfrac{3 \text{ feet}}{1 \text{ yard}}~~~~~~\text{and}~~~~~~\dfrac{1 \text{ yard}}{3 \text{ feet}}</me>
+  <md><mrow>\dfrac{3 \text{ feet}}{1 \text{ yard}}~~~~~~\text{and}~~~~~~\dfrac{1 \text{ yard}}{3 \text{ feet}}</mrow></md>
 are conversion factors.  We choose the factor that "cancels out" the old units and leaves us with the units we want. Such conversion factors are also called <term>unit fractions</term>.</p>
 
 <example><statement><p>The basketball player Yao Ming is 90 inches tall. Convert 90 inches to feet.</p></statement>
 
 <solution><p>We'll use a conversion factor. Because 1 foot = 12 inches, the two fractions
-    <me>\dfrac{12 \text{ inches}}{1 \text{ foot}}~~~~~~\text{and}~~~~~~\dfrac{1 \text{ foot}}{12 \text{ inches}}</me>
+    <md><mrow>\dfrac{12 \text{ inches}}{1 \text{ foot}}~~~~~~\text{and}~~~~~~\dfrac{1 \text{ foot}}{12 \text{ inches}}</mrow></md>
 are both equal to 1. We can multiply 90 inches by either fraction without changing its value. We'd like to eliminate inches and end up with feet, so we choose the second factor.
-    <me>\dfrac{90 \cancel{\text{ inches}}}{1} \times \dfrac{1\text{ foot}}{12 \cancel{\text{ inches}}} = \dfrac{90 \times 1}{1 \times 12} \text{ feet}</me>
+    <md><mrow>\dfrac{90 \cancel{\text{ inches}}}{1} \times \dfrac{1\text{ foot}}{12 \cancel{\text{ inches}}} = \dfrac{90 \times 1}{1 \times 12} \text{ feet}</mrow></md>
 Notice how the "inches" cancel out, leaving us with "feet" as the unit. And we also see that we should divide 90 by 12.
-    <me>\dfrac{90}{12} \text{ feet} = 7.5  \text{ feet}</me>
+    <md><mrow>\dfrac{90}{12} \text{ feet} = 7.5  \text{ feet}</mrow></md>
 Yao Ming is 7.5 feet, or 7 feet 6 inches, tall.</p></solution></example> 
 
 <exercise><statement><p>NBA basketball star Andrew Bynum is 7 feet tall. His stride length is approximately 1 yard. How many steps would he take to walk a mile?  (Hint:  1 mile = 5280 feet. Convert feet to yards.)</p></statement>
@@ -81,10 +81,10 @@ Yao Ming is 7.5 feet, or 7 feet 6 inches, tall.</p></solution></example>
 
 <subsection><title>Metric Units</title>
 <p>We can also measure length in the <term>metric system</term>, which is based on a length called a <term>meter</term>. One meter is a little longer than a yard. (You can review some other metric units in Section 2.1.)</p>
-  <image source ="meteryard.png"></image>
+  <image source ="meteryard.png"><description>meter and yard</description></image>
 
 <p>In fact,</p>
-  <assemblage><p><me>\large\text{1 meter} =  \large\text{1.0963 yards}</me></p></assemblage>
+  <assemblage><p><md><mrow>\large\text{1 meter} =  \large\text{1.0963 yards}</mrow></md></p></assemblage>
 
 <example><statement><p>Jamaica's Usain Bolt holds the world record in the 100-meter dash, with a time of 9.58 seconds.</p>
 <p><ol marker="a.">  
@@ -94,11 +94,11 @@ Yao Ming is 7.5 feet, or 7 feet 6 inches, tall.</p></solution></example>
 
 <solution><p><ol marker="a.">  
   <li><p>To convert 100 meters to yards, we multiply the length of 1 meter by 100.  
-      <me>100 \text{ meters} = 100 \times 1.0963  \text{ yards} = 109.63 \text{ yards}</me>
+      <md><mrow>100 \text{ meters} = 100 \times 1.0963  \text{ yards} = 109.63 \text{ yards}</mrow></md>
 And because there are 3 feet in a yard,
-    <me>100 \text{ meters} =  109.63 \cancel{\text{ yard}} \times \dfrac{3 \text{ feet}}{1 \cancel{\text{ yard}}} = 328.89 \text{ feet}</me></p></li>
+      <md><mrow>100 \text{ meters} =  109.63 \cancel{\text{ yard}} \times \dfrac{3 \text{ feet}}{1 \cancel{\text{ yard}}} = 328.89 \text{ feet}</mrow></md></p></li>
   <li><p>Usain Bolt's speed was
-      <me>\dfrac{328.89 \text{ feet}}{9.58 \text{ seconds}} = 34.33 \text{ feet per second}</me></p></li>
+      <md><mrow>\dfrac{328.89 \text{ feet}}{9.58 \text{ seconds}} = 34.33 \text{ feet per second}</mrow></md></p></li>
 </ol></p></solution></example>
 
 <exercise><statement><p>One mile is equal to 1760 yards. How many meters are in one mile?</p></statement>
@@ -108,7 +108,7 @@ And because there are 3 feet in a yard,
 <note><p>The only countries in the world that have not officially adopted the metric system of measurement are the Unites States, Liberia, and Myanmar.</p></note>
 
 <p>In the metric system, a meter serves the same purpose as a yard. For smaller lengths, we use <term>centimeters (cm)</term>.  There are one hundred centimeters in 1 meter. Here is a picture of a ruler marked in both centimeters and inches. Notice that each centimeter is divided into 10 smaller units called <term>millimeters (mm)</term>.</p>
-  <image source ="cmruler.png" width="60%"></image>
+  <image source ="cmruler.png" width="60%"><description>tall man</description>ruler</image>
 
 <example><statement><p><ol marker="a.">  
   <li><p>The label on a picture frame says it is 65 centimeters wide. How many meters is that?</p></li>
@@ -117,7 +117,7 @@ And because there are 3 feet in a yard,
 
 <solution><p><ol marker="a.">  
   <li><p>To convert centimeters to meters, we can multiply 65 centimeters by a unit fraction.
-      <me>65 \cancel{\text{ centimeter}} \times \dfrac{1 \text{ meter}}{100 \cancel{\text{ centimeter}}} = \dfrac{65}{100} \text{ meter}</me>
+      <md><mrow>65 \cancel{\text{ centimeter}} \times \dfrac{1 \text{ meter}}{100 \cancel{\text{ centimeter}}} = \dfrac{65}{100} \text{ meter}</mrow></md>
   The frame is 0.65 meter wide.</p></li>
   <li><p>0.65 meter is approximately <m>\dfrac{2}{3}</m> meter, and a meter is approximately one yard, or 3 feet, in length. So <m>\dfrac{2}{3}</m> meter is about 2 feet. The picture frame is about 2 feet wide.</p></li>
 </ol></p></solution></example>
@@ -130,12 +130,12 @@ And because there are 3 feet in a yard,
 <assemblage><p>
   <md><mrow>\large {1 \text{ centimeter}} \amp = \large{0.3937 \text { inch}}</mrow>
       <mrow> \large {1 \text{ inch}} \amp = \large {2.54 \text { centimeters}}</mrow></md></p></assemblage></stack></p>
-<image source ="cm.png"></image></sidebyside>
+<image source ="cm.png"><description>index finger</description></image></sidebyside>
 
 <example><statement><p>What is the length of 1 foot in centimeters?</p></statement>
 
 <solution><p>We multiply 12 inches by a unit fraction.
-    <me>12 \cancel {\text{ inches}} \times \dfrac{2.54 \text { centimeters}}{1 \cancel{\text{ inch}}} = 30.48 \text{ centimetters}</me>
+    <md><mrow>12 \cancel {\text{ inches}} \times \dfrac{2.54 \text { centimeters}}{1 \cancel{\text{ inch}}} = 30.48 \text{ centimetters}</mrow></md>
 One foot is equal in length to 30.48 centimeters.</p></solution></example>
 
 <exercise><statement><p>What is the length of 1 meter in inches?</p></statement>
@@ -158,12 +158,12 @@ Can you explain each of these conversions? Use unit fractions if you like, then 
 
 <p>One kilometer is about six-tenths of a mile.</p>
 
-<assemblage><p><me>\large\text{1 kilometer}  =  \large\text{0.6214 mile}</me></p></assemblage>
+<assemblage><p><md><mrow>\large\text{1 kilometer}  =  \large\text{0.6214 mile}</mrow></md></p></assemblage>
 
 <example><statement><p>What is the length of a 5K (5 kilometer) race in miles?</p></statement>
 
 <solution><p>We can use a unit fraction, or we can simply multiply the length of 1 kilometer by 5.
-  <me>5 \text{ kilometers} = 5 \times 0.6214 \text{ miles} = 3.107 \text{ miles}</me>
+  <md><mrow>5 \text{ kilometers} = 5 \times 0.6214 \text{ miles} = 3.107 \text{ miles}</mrow></md>
   Or you could notice that a 10K race is about 6.2 miles and then divide by 2 to find the length of a 5K race. Either way, a 5K race is about 3.1 miles long.</p></solution></example>
 
 <exercise><statement><p>The speed limit on expressways in Canada is 110 kilometers per hour. What is the speed limit in miles per hour?</p></statement>
@@ -179,9 +179,9 @@ Can you explain each of these conversions? Use unit fractions if you like, then 
 <activity><title>Area and Volume</title>
 <p><ol>
   <li><p>How many square feet are there in a square yard? The lines on the grid below represent feet. In the upper left corner of the grid, draw a square yard, that is, a square that measures one yard on each side.
-    <image source ="cmgrid.png"></image>
+    <image source ="cmgrid.png"><description>cm grid</description></image>
 
-    <me>\large\text{1 square yard}  = <fillin></fillin> \large\text{ square feet}</me></p></li>
+    <md><mrow>\large\text{1 square yard}  = <fillin></fillin> \large\text{ square feet}</mrow></md></p></li>
 
   <li><p>What is the difference between "2 square yards" and "a 2-yard square"? On the grid above, draw 2 square yards that touch along one edge. Then draw a square that measures 2 yards on each side. Are they the same? How many square yards are in a 2-yard square?</p></li>
 
@@ -190,9 +190,9 @@ Can you explain each of these conversions? Use unit fractions if you like, then 
     <p>Carpet is sold by the square yard. How many square yards of carpet does Karin need for her living room?</p></li>
 
   <li><p>How many square inches are there in a square foot? The lines on the grid below represent inches. Draw a square that measures 1 foot on each side.
-     <image source ="cmgrid.png"></image>
+     <image source ="cmgrid.png"><description>cm grid</description></image>
 
-     <me>\large\text{1 square foot}  = <fillin></fillin> \large\text{ square inches}</me></p></li>
+     <md><mrow>\large\text{1 square foot}  = <fillin></fillin> \large\text{ square inches}</mrow></md></p></li>
 
   <li><p>Do you see a pattern in how to convert one square unit to another? Use your discovery to calculate the number of square inches in one square yard.</p></li>
 
@@ -203,7 +203,7 @@ Can you explain each of these conversions? Use unit fractions if you like, then 
     <p>What is the area of the bulletin board in square yards?</p></li>
 
   <li><p>How many cubic feet are there in a cubic yard? Here is a picture of a cubic yard, with its sides marked in feet.
-          <image source ="cubicyard.png" width="60%"></image></p></li>   
+          <image source ="cubicyard.png" width="60%"><description>cubic yard</description></image></p></li>   
 
   <li><p>Now imagine a cubic foot, with its sides marked in inches. It will have 12 layers, each 1-inch thick, and each layer will be a square that is 12 inches by 12 inches. How many cubic inches are in each layer? How many cubic inches are in the whole cubic foot?
 
@@ -211,7 +211,7 @@ Can you explain each of these conversions? Use unit fractions if you like, then 
         <mrow>\large\text{1 cubic foot}  = <fillin></fillin> \large\text{ cubic inches}</mrow></md></p></li>
 
   <li><p>In the construction industry, building materials such as gravel or wood chips are often measured in "yards," but they really mean cubic yards.
-      <image source ="gravel.png" width="60%"></image>
+      <image source ="gravel.png" width="60%"><description>gravel</description></image>
   At the U-Do-It store, gravel is sold in units of 0.25 (cubic) yards. Reza's driveway is 6 feet wide and 20 feet long. How many (cubic) yards of gravel should he order to cover the driveway 4 inches thick?</p></li>
 </ol></p></activity>
 </subsection>
@@ -227,7 +227,7 @@ Can you explain each of these conversions? Use unit fractions if you like, then 
       <mrow> \large {1 \text{ quart}} \amp = \large {2 \text { pints}}</mrow>
       <mrow> \large {1 \text{ gallon}} \amp = \large {4 \text { quarts}}</mrow></md></p>
 </assemblage></p>
-    <image source ="liquids.png"></image></sidebyside>
+    <image source ="liquids.png"><description>bottles</description></image></sidebyside>
 
 <p>We can use unit fractions as conversion factors for liquid measure.</p>
 
@@ -235,7 +235,7 @@ Can you explain each of these conversions? Use unit fractions if you like, then 
 
 <solution><p>We'd like to convert fluid ounces to cups, so we multiply by the appropriate unit fraction.
 
-     <me>20 \cancel {\text{ fluid ounces}} \times \dfrac{1 \text { cup}}{8 \cancel{\text{ fluid ounces}}} = \dfrac{20}{8} \text{ cups}</me>
+     <md><mrow>20 \cancel {\text{ fluid ounces}} \times \dfrac{1 \text { cup}}{8 \cancel{\text{ fluid ounces}}} = \dfrac{20}{8} \text{ cups}</mrow></md>
 
   We can reduce <m>\dfrac{20}{8}</m> to <m>\dfrac{5}{2}</m> or  <m>2\dfrac{5}{2}</m> cups.</p></solution></example>
 
@@ -245,13 +245,13 @@ Can you explain each of these conversions? Use unit fractions if you like, then 
 
 <sidebyside widths="70% 15%"><p><stack><p>To measure capacity in metric units, we use the <term>liter (l)</term>.  One liter is about the same as one quart. Soft drinks are often sold in 2 liter bottles.</p>
 
-  <assemblage><p><me>\large\text{1 liter}  =  \large\text{1.06 quarts}</me></p></assemblage></stack></p>
+  <assemblage><p><md><mrow>\large\text{1 liter}  =  \large\text{1.06 quarts}</mrow></md></p></assemblage></stack></p>
 
-  <image source ="soda.png"></image></sidebyside>
+  <image source ="soda.png"><description>soda bottle</description></image></sidebyside>
  
 <p>A <term>milliliter (ml)</term> is 11000 of one liter. It has the same volume as 1 cubic centimeter, so 1 milliliter is also called 1 cc.</p>
 
-  <image source ="milliliter.png" width="60%"></image>
+  <image source ="milliliter.png" width="60%"><description>1 ml</description></image>
 
 <example><statement><p><ol marker="a.">
   <li><p>The directions on a bottle of cold medicine say to take 30 cc every 6 hours. How much is that in fluid ounces?</p></li>
@@ -260,9 +260,9 @@ Can you explain each of these conversions? Use unit fractions if you like, then 
 
 <solution><p><ol marker="a.">
   <li><p>First we'll convert 30 cc, or 30 milliliters, to quarts.
-        <me>\dfrac{30}{100} \cancel {\text{ liter}} \times \dfrac{1.06 \text { quarts}}{1 \cancel{\text{ liter}}} = \dfrac{30 \times 1.06}{1000} \text{ quarts} = 0.0318 \text{ quarts}</me>
+        <md><mrow>\dfrac{30}{100} \cancel {\text{ liter}} \times \dfrac{1.06 \text { quarts}}{1 \cancel{\text{ liter}}} = \dfrac{30 \times 1.06}{1000} \text{ quarts} = 0.0318 \text{ quarts}</mrow></md>
     There are 32 fluid ounces in a quart, so
-      <me>0.0318 \cancel {\text{ quarts}} \times \dfrac{32 \text { fluid ounces}}{1 \cancel{\text{ quart}}} = 1.0176 \text{ fluid ounces}</me>
+        <md><mrow>0.0318 \cancel {\text{ quarts}} \times \dfrac{32 \text { fluid ounces}}{1 \cancel{\text{ quart}}} = 1.0176 \text{ fluid ounces}</mrow></md>
     Thirty cc is a little over 1 fluid ounce.</p></li>
   <li><p>There are 2 tablespoons in 1 fluid ounce, and we see that 30 cc is just a little over 1 fluid ounce, so one dose of cold medicine is just over 2 tablespoons.</p></li>
 </ol></p></solution></example>

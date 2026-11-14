@@ -4,39 +4,39 @@
 <exercisegroup><introduction><p>For Problems 1-10, use number lines to illustrate the sums.</p></introduction> 
 
 <exercise number="1"><statement><p><m>(+4) + (+5)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement>
-<answer><image source="ans-7-1-1.png" width="80%"></image></answer></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement>
+<answer><image source="ans-7-1-1.png" width="80%"><description>number line</description></image></answer></exercise>
 
 <exercise number="2"><statement><p><m>(+3) + (+6)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement></exercise>
 
 <exercise number="3"><statement><p><m>(-2) + (-6)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement>
-<answer><image source="ans-7-1-3.png" width="80%"></image></answer></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement>
+<answer><image source="ans-7-1-3.png" width="80%"><description>number line</description></image></answer></exercise>
 
 <exercise number="4"><statement><p><m>(-7) + (-2)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement></exercise>
 
 <exercise number="5"><statement><p><m>(-3) + (+7)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement>
-<answer><image source="ans-7-1-5.png" width="80%"></image></answer></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement>
+<answer><image source="ans-7-1-5.png" width="80%"><description>number line</description></image></answer></exercise>
 
 <exercise number="6"><statement><p><m>(-9) + (+4)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement></exercise>
 
 <exercise number="7"><statement><p><m>(+10) + (-12)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement>
-<answer><image source="ans-7-1-7.png" width="80%"></image></answer></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement>
+<answer><image source="ans-7-1-7.png" width="80%"><description>number line</description></image></answer></exercise>
 
 <exercise number="8"><statement><p><m>(+8) + (-5)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement></exercise>
 
 <exercise number="9"><statement><p><m>(-8) + (+4)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement>
-<answer><image source="ans-7-1-9.png" width="80%"></image></answer></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement>
+<answer><image source="ans-7-1-9.png" width="80%"><description>number line</description></image></answer></exercise>
 
 <exercise number="10"><statement><p><m>(+1) + (-6)</m></p>
-    <image source="signednumberline.png" width="95%"></image></statement></exercise>
+    <image source="signednumberline.png" width="95%"><description>number line</description></image></statement></exercise>
 </exercisegroup>
 
 <exercise number="11"><statement><p>Is the sum of two negative numbers positive or negative?  When you are adding signed numbers, do "two negatives make a positive"?</p></statement>
@@ -214,7 +214,7 @@
 </exercisegroup>
 
 <exercise number="59"><statement><p>The bar graph shows the quarterly profits earned by Orinoco.com in one year. (A negative "profit" is a loss.)</p>
-  <image source="hp-7-1-59.png" width="70%"></image>
+  <image source="hp-7-1-59.png" width="70%"><description>bar graph</description></image>
 <p><ol marker="a.">
     <li><p>What are the profits for the four quarters shown?</p></li>
     <li><p>What was Orinoco.com's total annual profit for that year?</p></li>
@@ -224,14 +224,14 @@
     <li><p>$2.4 million</p></li>
   </ol></p></answer></exercise>
 
-<exercise number="60"><statement><p>The bar graph shows how much Kayla won in each of the six games of poker she played.</p>  <image source="hp-7-1-60.png" width="70%"></image>
+<exercise number="60"><statement><p>The bar graph shows how much Kayla won in each of the six games of poker she played.</p>  <image source="hp-7-1-60.png" width="70%"><description>bar graph</description></image>
 <p><ol marker="a.">
     <li><p>Write Kayla's poker record as a sum of signed numbers.</p></li>
     <li><p>What was the financial outcome of Kayla's poker session? </p></li>
 </ol></p></statement></exercise>
 
 <exercise number="61"><statement><p>The bar graph shows the water level in the reservoir, relative to its normal depth of 34 feet.  For example, in January, when the level was 3 feet above normal, the water depth was <m>34 + 3 = 37</m> feet.</p>
-    <image source="hp-7-1-61a.png" width="70%"></image>
+    <image source="hp-7-1-61a.png" width="70%"><description>bar graph</description></image>
 <p><ol marker="a.">
     <li><p>Using values from the bar graph, fill in the table.</p>
       <tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -279,7 +279,7 @@
             <cell><m>\hphantom{00}</m></cell></row>
         </tabular></li>
     <li><p>Use the grid below to make a bar graph showing the actual depth of the water in the reservoir.</p>
-        <image source="hp-7-1-61b.png" width="75%"></image></li>
+        <image source="hp-7-1-61b.png" width="75%"><description>grid</description></image></li>
 </ol></p></statement>
   <answer><p><ol marker="a.">
     <li><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -326,10 +326,10 @@
             <cell><m>28</m></cell>
             <cell><m>30</m></cell></row>
         </tabular></li>
-    <li><image source="ans-7-1-61.png" width="80%"></image></li>
+    <li><image source="ans-7-1-61.png" width="80%"><description>bar graph</description></image></li>
   </ol></p></answer></exercise>
 
-<exercise number="62"><statement><p>The bar graph shows the annual rainfall in Los Angeles, relative to the average value of 15 inches over the previous century.  For example, in 1987 rainfall was 6 inches below normal, or <m>15-6=9</m> inches.</p> <image source="hp-7-1-62a.png" width="70%"></image>
+<exercise number="62"><statement><p>The bar graph shows the annual rainfall in Los Angeles, relative to the average value of 15 inches over the previous century.  For example, in 1987 rainfall was 6 inches below normal, or <m>15-6=9</m> inches.</p> <image source="hp-7-1-62a.png" width="70%"><description>bar graph</description></image>
 <p><ol marker="a.">
     <li><p>Using values from the bar graph, fill in the table.</p>
       <tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -371,7 +371,7 @@
             <cell><m>\hphantom{00}</m></cell></row>
         </tabular></li>
   <li><p>Use the grid below to make a bar graph showing the annual rainfall in Los Angeles over the decade from 1987 to 1996.</p>
-        <image source="hp-7-1-62b.png" width="80%"></image></li>
+        <image source="hp-7-1-62b.png" width="80%"><description>grid</description></image></li>
 </ol></p></statement></exercise>
 
 

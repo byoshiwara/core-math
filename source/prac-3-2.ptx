@@ -57,7 +57,7 @@
   <li><p>Find the area of a square that measures 8 inches on a side.</p></li>
   <li><p>Find the volume of a cube whose base is the square in part (a).</p></li>
 </ol></p>
-  <image source="cube8in.png"></image></sidebyside></statement>
+  <image source="cube8in.png"><description>cube</description></image></sidebyside></statement>
 <answer><p><ol marker="a.">
   <li><p>64 sq in</p></li>
   <li><p>512 cu in</p></li>
@@ -67,7 +67,7 @@
   <li><p>Find the area of a square that measures 0.1 meter on a side.</p></li>
   <li><p>Find the volume of a cube whose base is the square in part (a).</p></li>
 </ol></p>
-  <image source="cubetenthm.png"></image></sidebyside></statement></exercise>
+  <image source="cubetenthm.png"><description>cube</description></image></sidebyside></statement></exercise>
 
 <exercise number="19"><statement><sidebyside widths="65% 30%"><stack><p>The side of a cube is 20 centimeters long.</p>
   <p><ol marker="a.">
@@ -75,7 +75,7 @@
   <li><p>How many faces does the cube have? Find the total surface area (the sum of the areas of all the faces) of the cube.</p></li>
   <li><p>Find the volume of the cube.</p></li>
 </ol></p></stack>
-  <image source="cube20cm.png"></image></sidebyside></statement>
+  <image source="cube20cm.png"><description>cube</description></image></sidebyside></statement>
 <answer><p><ol marker="a.">
   <li><p>4000 sq cm</p></li>
   <li><p>6 faces, 2400 sq cm</p></li>
@@ -169,7 +169,7 @@
 <exercise number="30"><statement><p><ol marker="a.">
   <li><p>Explain the difference between <m>4(3)</m> and <m>3^4</m>.</p></li>
   <li><p>Which of these is equal to <m>12^5~</m>?
-    <me>12+12+12+12+12~~~~~\text{or}~~~~~ 12 \cdot 12 \cdot 12 \cdot 12 \cdot 12</me></p></li>
+    <md><mrow>12+12+12+12+12~~~~~\text{or}~~~~~ 12 \cdot 12 \cdot 12 \cdot 12 \cdot 12</mrow></md></p></li>
 </ol></p></statement></exercise> 
 
 <exercisegroup><introduction><p>For Problems 31-32, use your calculator to compute.</p></introduction>

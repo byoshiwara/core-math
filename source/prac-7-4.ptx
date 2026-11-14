@@ -150,7 +150,7 @@
 </ol></answer></exercise>
 
 <exercise number="22"><statement><p>Dean is cycling down Mt. Whitney, and descends at a rate of 80 feet per minute. If he started at an elevation of 9600 feet, how long will it be before he reaches an elevation of 1200 feet?</p>
-  <image source="hp-7-4-22.png" width="60%"></image>
+  <image source="hp-7-4-22.png" width="60%"><description>cyclist</description></image>
 </statement></exercise>
 
 <exercise number="23"><statement><p>Lois spent Saturday afternoon playing hand after hand of Fizbin with her sister. At 3 o'clock Lois had a score of 60 points, but by 5 o'clock her score was <m>-96</m>.  If Lois lost 12 hands after 3 o'clock and didn't win any, how much is each hand worth?</p></statement>
@@ -167,19 +167,19 @@
 <exercisegroup cols="2"><introduction><p>For Problems 25-28, plot the points.</p></introduction>
 
 <exercise number="25"><statement><p><m>(2,3),~(2,-3),~(-2,3),~(-2,-3)</m></p>
-  <image source="coords3.png" width="80%"></image></statement>
-<answer><image source="hp-7-4-25ans" width="60%"></image></answer></exercise>
+  <image source="coords3.png" width="80%"><description>6 by 6 grid</description></image></statement>
+<answer><image source="hp-7-4-25ans" width="60%"><description>6 by 6 grid</description></image></answer></exercise>
 
 <exercise number="26"><statement><p><m>(0,4),~(4,0),~(-4,0),~(0,-4)</m></p>
-  <image source="coords3.png" width="80%"></image></statement>
+  <image source="coords3.png" width="80%"><description>6 by 6 grid</description></image></statement>
 </exercise>
 
 <exercise number="27"><statement><p><m>(1,5),~(5,1),~(-5,1),~(-1,5)</m></p>
-  <image source="coords3.png" width="80%"></image></statement>
-<answer><image source="hp-7-4-27ans" width="60%"></image></answer></exercise>
+  <image source="coords3.png" width="80%"><description>6 by 6 grid</description></image></statement>
+<answer><image source="hp-7-4-27ans" width="60%"><description>6 by 6 grid</description></image></answer></exercise>
 
 <exercise number="28"><statement><p><m>(2,2),~(6,6),~(-2,-2),~(-6,-6)</m></p>
-  <image source="coords3.png" width="80%"></image></statement></exercise>
+  <image source="coords3.png" width="80%"><description>6 by 6 grid</description></image></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>Answer the questions in Problems 29-30.</p></introduction>
@@ -218,7 +218,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement>
 
 <answer><tabular top="minor" halign="left" right="minor" left="minor" bottom="minor">
         <row bottom="minor" header="yes">
@@ -232,7 +232,7 @@
             <cell><m>0</m></cell>
             <cell><m>3</m></cell></row>
         </tabular>
-   <image source="hp-7-4-31ans" width="60%"></image></answer></exercise>
+   <image source="hp-7-4-31ans" width="60%"><description>graph of line</description></image></answer></exercise>
 
 <exercise number="32"><statement><p><m>y=2x</m></p>
 
@@ -248,7 +248,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement></exercise>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement></exercise>
 
 <exercise number="33"><statement><p><m>y=x - 1</m></p>
 
@@ -264,7 +264,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement>
 
  <answer><tabular top="minor" halign="left" right="minor" left="minor" bottom="minor">
         <row bottom="minor" header="yes">
@@ -278,7 +278,7 @@
             <cell><m>1</m></cell>
             <cell><m>3</m></cell></row>
         </tabular>
-   <image source="hp-7-4-33ans" width="60%"></image></answer></exercise>
+   <image source="hp-7-4-33ans" width="60%"><description>graph of line</description></image></answer></exercise>
 
 <exercise number="34"><statement><p><m>y=x + 2</m></p>
 
@@ -294,7 +294,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement></exercise>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement></exercise>
 
 <exercise number="35"><statement><p><m>y=-2x</m></p>
 
@@ -310,7 +310,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement>
 
  <answer><tabular top="minor" halign="left" right="minor" left="minor" bottom="minor">
         <row bottom="minor" header="yes">
@@ -324,7 +324,7 @@
             <cell><m>0</m></cell>
             <cell><m>8</m></cell></row>
         </tabular>
-   <image source="hp-7-4-35ans" width="60%"></image></answer></exercise>
+   <image source="hp-7-4-35ans" width="60%"><description>graph of line</description></image></answer></exercise>
 
 <exercise number="36"><statement><p><m>y=-3x</m></p>
 
@@ -340,7 +340,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement></exercise>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement></exercise>
 
 <exercise number="37"><statement><p><m>y=-x - 5</m></p>
 
@@ -356,7 +356,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement>
 
  <answer><tabular top="minor" halign="left" right="minor" left="minor" bottom="minor">
         <row bottom="minor" header="yes">
@@ -370,7 +370,7 @@
             <cell><m>-5</m></cell>
             <cell><m>-9</m></cell></row>
         </tabular>
-   <image source="hp-7-4-37ans" width="60%"></image></answer></exercise>
+   <image source="hp-7-4-37ans" width="60%"><description>graph of line</description></image></answer></exercise>
 
 <exercise number="38"><statement><p><m>y=-x + 4</m></p>
 
@@ -386,7 +386,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement></exercise>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement></exercise>
 
 <exercise number="39"><statement><p><m>y=2x+3</m></p>
 
@@ -402,7 +402,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement>
 
  <answer><tabular top="minor" halign="left" right="minor" left="minor" bottom="minor">
         <row bottom="minor" header="yes">
@@ -416,7 +416,7 @@
             <cell><m>3</m></cell>
             <cell><m>9</m></cell></row>
         </tabular>
-   <image source="hp-7-4-39ans" width="60%"></image></answer></exercise>
+   <image source="hp-7-4-39ans" width="60%"><description>graph of line</description></image></answer></exercise>
 
 <exercise number="40"><statement><p><m>y=-3x-1</m></p>
 
@@ -432,7 +432,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement></exercise>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement></exercise>
 
 <exercise number="41"><statement><p><m>y=\dfrac{1}{2}x - 4</m></p>
 
@@ -448,7 +448,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement>
 
  <answer><tabular top="minor" halign="left" right="minor" left="minor" bottom="minor">
         <row bottom="minor" header="yes">
@@ -462,7 +462,7 @@
             <cell><m>-4</m></cell>
             <cell><m>-1</m></cell></row>
         </tabular>
-   <image source="hp-7-4-41ans" width="60%"></image></answer></exercise>
+   <image source="hp-7-4-41ans" width="60%"><description>graph of line</description></image></answer></exercise>
 
 <exercise number="42"><statement><p><m>y=\dfrac{2}{3}x + 2</m></p>
 
@@ -478,7 +478,7 @@
             <cell><m>\hphantom{000}</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular>
-   <image source="grid10by10.png" width="90%"></image></statement></exercise>
+   <image source="grid10by10.png" width="90%"><description>10 by 10 grid</description></image></statement></exercise>
  </exercisegroup>
 
 <exercise number="43"><statement><p>Eloise makes $20 an hour as a computer programmer. Let <m>x</m> represent the number of hours Eloise works in a week, and let <m>y</m> represent her earnings.</p>
@@ -500,14 +500,14 @@
         <row><cell>40</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-    <image source="hp-7-4-43.png"></image></sidebyside></li>    
+    <image source="hp-7-4-43.png"><description>grid</description></image></sidebyside></li>    
                
   <li><p>How many hours must Eloise work in order to make $500?  Write and solve an equation, then locate the corresponding point on your graph.</p></li>
 </ol></p></statement>
 
 <answer><p><ol marker="a.">
   <li><p><m>y=20x</m></p></li>
-  <li><image source="hp-7-4-43ans.png"></image></li>
+  <li><image source="hp-7-4-43ans.png"><description>graph of line</description></image></li>
   <li><p>25 hrs</p></li>
 </ol></p></answer></exercise> 
 
@@ -530,13 +530,13 @@
         <row><cell>20</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-    <image source="hp-7-4-43.png"></image></sidebyside></li>    
+    <image source="hp-7-4-43.png"><description>grid</description></image></sidebyside></li>    
                
   <li><p>How many belts must Anatole sell in order to make $600?  Write and solve an equation, then locate the corresponding point on your graph.</p></li>
 </ol></p></statement></exercise> 
 
 <exercise number="45"><statement><p>The equation that relates the temperature in degrees Fahrenheit to the temperature in degrees Celsius is
-  <me>F=1.8C+32</me></p>
+  <md><mrow>F=1.8C+32</mrow></md></p>
 <p><ol marker="a.">
   <li><p>Graph the equation.</p>
       <sidebyside widths="30% 40%" valigns="middle middle" margins="10% 10%">
@@ -555,17 +555,17 @@
         <row><cell><m>20</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-    <image source="hp-7-4-45.png"></image></sidebyside></li>
+    <image source="hp-7-4-45.png"><description>grid</description></image></sidebyside></li>
   <li><p>What Celsius temperature is equal to 86° F?  Write and solve an equation, then locate the corresponding point on your graph.</p></li>
 </ol></p></statement>
 
 <answer><p><ol marker="a.">
-  <li><image source="hp-7-4-45ans.png"></image></li>
+  <li><image source="hp-7-4-45ans.png"><description>graph of line</description></image></li>
   <li><p>30° C</p></li>
 </ol></p></answer></exercise>
 
 <exercise number="46"><statement><p>On the planet Kaldor in the Gamma Quadrant, there are no seasons. The temperature at noon on any day is given by the formula
-  <me>T = 50 + 0.2h</me> 
+  <md><mrow>T = 50 + 0.2h</mrow></md> 
   where <m>h</m> is your elevation in Kaldorian feet, and <m>T</m> is the temperature in Kaldorian degrees. </p>
 <p><ol marker="a."> 
 <li><p>Graph the equation.</p>
@@ -585,7 +585,7 @@
         <row><cell><m>1500</m></cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-    <image source="hp-7-4-46.png"></image></sidebyside></li>
+    <image source="hp-7-4-46.png"><description>grid</description></image></sidebyside></li>
   <li><p>At what elevation is the temperature on Kaldor 150 degrees?  Write and solve an equation, then locate the corresponding point on your graph.</p></li>
   </ol></p></statement></exercise> 
 
@@ -607,14 +607,14 @@
         <row><cell>200</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-    <image source="hp-7-4-47.png"></image></sidebyside></li>    
+    <image source="hp-7-4-47.png"><description>grid</description></image></sidebyside></li>    
                
   <li><p>How many pages must Stuart type in order to break even?  Write and solve an equation to answer this question, then verify the answer on your graph.</p></li>
 </ol></p></statement>
 
 <answer><p><ol marker="a.">
   <li><p><m>y=-800+5x</m></p></li>
-  <li><image source="hp-7-4-47ans.png"></image></li>
+  <li><image source="hp-7-4-47ans.png"><description>graph of line</description></image></li>
   <li><p>160 pages</p></li>
 </ol></p></answer></exercise>
 
@@ -637,7 +637,7 @@
         <row><cell>100</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-    <image source="hp-7-4-48.png"></image></sidebyside></li>    
+    <image source="hp-7-4-48.png"><description>grid</description></image></sidebyside></li>    
                
   <li><p>How many tickets must they sell in order to erase their debt?  Write and solve an equation to answer this question, then verify the answer on your graph.</p></li>
 </ol></p></statement></exercise>
@@ -660,14 +660,14 @@
         <row><cell>7</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-    <image source="hp-7-4-49.png"></image></sidebyside></li>    
+    <image source="hp-7-4-49.png"><description>grid</description></image></sidebyside></li>    
                
   <li><p>How long will it take them to reach their site, which lies 210 feet below sea level on the valley floor?  Write and solve an equation to answer this question, then verify the answer on your graph.</p></li>
 </ol></p></statement>
 
 <answer><p><ol marker="a.">
   <li><p><m>y=750-120x</m></p></li>
-  <li><image source="hp-7-4-49ans.png"></image></li>
+  <li><image source="hp-7-4-49ans.png"><description>graph of line</description></image></li>
   <li><p>8 hrs</p></li>
 </ol></p></answer></exercise>
 
@@ -689,15 +689,17 @@
         <row><cell>10</cell>
             <cell><m>\hphantom{000}</m></cell></row>
         </tabular></p>
-    <image source="hp-7-4-50.png"></image></sidebyside></li>    
+    <image source="hp-7-4-50.png"><description>grid</description></image></sidebyside></li>    
                
   <li><p>What is the altitude at the top of the troposphere, where the temperature is 120C?  Write and solve an equation to answer this question, then verify the answer on your graph.</p></li>
 </ol></p></statement></exercise>
 
-<exercise number="51"><statement><p>Plot all the points whose <m>y</m>-coordinate is <m>3</m>. What do you get?</p></statement>
+<exercise number="51"><statement><p>Plot all the points whose <m>y</m>-coordinate is <m>3</m>. What do you get?</p>
+<image source="coords3.png" width="45%"><description>6 by 6 grid</description></image></statement>
 <answer><p>A horizontal line</p></answer></exercise>
 
-<exercise number="52"><statement><p>Plot all the points whose <m>x</m>-coordinate is <m>-3</m>. What do you get?</p></statement></exercise>
+<exercise number="52"><statement><p>Plot all the points whose <m>x</m>-coordinate is <m>-3</m>. What do you get?</p>
+<image source="coords3.png" width="45%"><description>6 by 6 grid</description></image></statement></exercise>
 
 <exercisegroup><introduction><p>For Problems 53-62, evaluate the expression for the given values of the variables.</p></introduction>
 

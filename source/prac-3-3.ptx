@@ -25,7 +25,7 @@
 <exercise number="6"><statement><p>Which metric unit is about 0.6 mile in length?</p></statement></exercise>
 
 <exercise number="7"><statement><p>Draw a sketch showing why there are 9 square feet in 1 square yard.</p></statement>
-<answer><image source ="ans-3-3-7.png" width="40%"></image></answer></exercise>
+<answer><image source ="ans-3-3-7.png" width="40%"><description>sq yd</description></image></answer></exercise>
 
 <exercise number="8"><statement><p>Explain why there are 27 cubic feet in 1 cubic yard.</p></statement></exercise>
 
@@ -134,7 +134,7 @@
 
 <exercise number="23"><statement><p>Necklaces come in standard lengths as shown in the figure below. Complete the table by converting each length, given in centimeters, to inches. Round your answers to the nearest quarter inch.</p>
 
-  <image source ="necklaces.png" width="80%"></image>
+  <image source ="necklaces.png" width="80%"><description>necklaces</description></image>
 
 <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
                 <col halign="center"/>
@@ -233,7 +233,7 @@
       <cell><m>\hphantom{000000}</m></cell></row>
     </tabular></p>
 
-      <image source ="wrenches.png"></image></sidebyside></statement></exercise>
+      <image source ="wrenches.png"><description>wrenches</description></image></sidebyside></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 25-28, complete the table.</p></introduction>
@@ -331,7 +331,7 @@
 <answer><p>121.5</p></answer></exercise>
 
 <exercise number="38"><statement><p><sidebyside widths="60% 25%"><p>The figure at right is made of tangrams, a game that uses geometrical shapes. The piece labeled A is 1 square centimeter.</p>
-  <image source ="tangram.png"></image></sidebyside></p>
+  <image source ="tangram.png"><description>tangram</description></image></sidebyside></p>
 <p><ol marker="a.">
   <li><p>Find the areas of the 6 other pieces in the figure.</p></li>
   <li><p>What is the area of the whole figure?</p></li>
@@ -339,14 +339,14 @@
 </ol></p></statement></exercise>
 
 <exercise number="39"><statement><p>What is the difference between "6 square centimeters" and "a 6-centimeter square"?  Illustrate your answer with a sketch.</p></statement>
-<answer><image source ="ans-3-3-39.png" width="40%"></image></answer></exercise>
+<answer><image source ="ans-3-3-39.png" width="40%"><description>squares</description></image></answer></exercise>
 
 <exercise number="40"><statement><p>Which is larger: a square yard, or a 100-centimeter square? By how much?</p></statement>
 </exercise>
 </exercisegroup>
 
 <exercise number="41"><statement><p>The figure below compares the average home size in various countries. The amount of floor space is given in square meters. Complete the table by converting the figures to square feet. For the last column, round your answers to hundredths.</p>
-    <image source ="floorspace.png" width="80%"></image>
+    <image source ="floorspace.png" width="80%"><description>floor space</description></image>
 
     <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
                 <col halign="center"/>
@@ -529,7 +529,7 @@
 </ol></p></statement></exercise>
 
 <exercise number="51"><statement><p>Here is the footprint for a new house.</p>
-    <image source ="newhouse1.png" width="80%"></image>
+    <image source ="newhouse1.png" width="80%"><description>floor plan</description></image>
 <p><ol marker="a.">
   <li><p>Fill in the missing dimensions and find the area of the floor.</p></li>
   <li><p>The concrete foundation will be 2 feet deep. How many cubic yards of concrete will be used?</p></li>
@@ -540,7 +540,7 @@
 </ol></p></answer></exercise>
 
 <exercise number="52"><statement><p>The Wongs plan to have insulation blown into the attic of their house, shown below.</p>
-    <image source ="newhouse2.png" width="80%"></image>
+    <image source ="newhouse2.png" width="80%"><description>ceiling plan</description></image>
 <p><ol marker="a.">
   <li><p>Fill in the missing dimensions and find the area of the ceiling.</p></li>
   <li><p>The insulation will be 9 inches deep. How many cubic yards of insulation will they need?</p></li>

@@ -11,7 +11,7 @@
     <li><p>Problem Solving</p></li>
     <li><p>Using Algebra to Solve Problems</p></li>
   </ul></p>
-      <image source="presents.png"></image></sidebyside>
+      <image source="presents.png"><description>presents</description></image></sidebyside>
 
 <subsection xml:id="solve2"><title>Equations with Two Operations</title>
 
@@ -60,12 +60,12 @@
   
 <p>You would like to give a bracelet to a friend as a surprise gift for her birthday. First you wrap the bracelet in a small box, and then you wrap the small box in a large box. 
 
-    <image source="bracelet.png" width="70%"></image>
+    <image source="bracelet.png" width="70%"><description>bracelet present</description></image>
 
 To open the gift, your friend will first unwrap the large box, and then unwrap the small box. That is, she will undo the wrappings in reverse order. We use this same idea to solve equations.</p>
   
 <p>Consider the equation 
-    <me>2x-5=13</me></p>
+    <md><mrow>2x-5=13</mrow></md></p>
 
 <p><m>\blert{\text{Question:}}</m>  What operations have been performed on the variable, <m>x</m>?</p>
 <p><m>\blert{\text{Answer:}}</m>    Imagine that you want to evaluate the expression <m>2x-5</m>. Following the order of operations, you would:
@@ -245,13 +245,13 @@ The solution checks.</p>
 <subsection><title>Formulas</title>
 
 <p>We use the formula  
-    <me>F = \dfrac{9}{5}C + 32</me>  
+    <md><mrow>F = \dfrac{9}{5}C + 32</mrow></md> 
 to convert temperatures in degrees Celsius to degrees Fahrenheit. By solving an equation, we can also convert from Fahrenheit to Celsius.</p>
 
 <example><statement><p>Normal body temperature for people is 98.6<m>\degree</m> F. Use the formula to convert normal temperature to degrees Celsius.</p></statement>
 
 <solution><p>To start, we substitute  <m>\alert{98.6}</m> for <m>F</m> in the formula.
-        <me>\alert{98.6} = \dfrac{9}{5}C + 32</me>
+        <md><mrow>\alert{98.6} = \dfrac{9}{5}C + 32</mrow></md>
 Next, we solve the equation for <m>C</m>.  We undo the operations in three steps.</p>
 
   <tabular top="minor" halign="left" right="minor" left="minor" bottom="minor">
@@ -280,7 +280,7 @@ Next, we solve the equation for <m>C</m>.  We undo the operations in three steps
         <mrow>37 \amp = C</mrow></md></p>
 
 <p>Normal body temperature is 37<m>\degree</m>C.  You can check the solution by substituting <m>\alert{37}</m> for <m>C</m> in the equation.
-    <me>\text{Does} ~~98.6 = \dfrac{9}{5}(\alert{37}) + 32 ?</me></p>
+    <md><mrow>\text{Does} ~~98.6 = \dfrac{9}{5}(\alert{37}) + 32 ?</mrow></md></p>
 </solution></example>
 
 <exercise><statement><p>The boiling temperature of water is 212<m>\degree</m>F. Use the formula in the previous Example to find the boiling temperature of water in degrees Celsius.</p></statement>
@@ -304,7 +304,7 @@ Next, we solve the equation for <m>C</m>.  We undo the operations in three steps
         <mrow>~~~~\text{payment}~~~~~~~~~~ \amp \text{payments}~~~~ \amp \amp \text{price}</mrow></md></p>
 
 <p>Is the total proice too high or too low? Should you try a larger value or a smaller value for your next guess at the monthly payment?  Try your next guess:
-    <me>500 + 18(\hphantom{000}) = ??</me>
+    <md><mrow>500 + 18(\hphantom{000}) = ??</mrow></md>
 We would continue in this way, adjusting our guesses, until we closed in on the correct amount.</p>
 
 <p><m>\blert{\text{Method 2: Make a table.}}</m>  This is a more organized version of the guess-and-check method.  Complete this sample table:</p>
@@ -328,9 +328,9 @@ We would continue in this way, adjusting our guesses, until we closed in on the 
 <p>Which monthly payments capture the correct total price? We could make another table with smaller increments between those monthly payments. However, this is still a tedious method for solving the problem.</p>
 
 <p><m>\blert{\text{Method 3: Use arithmetic skills.}}</m> Since Myron paid $500 down on the system, we can subtract 500 from the total price to find out how much he has left to pay in monthly installments.
-    <me>6350 - 500 = \alert{??}</me>
+    <md><mrow>6350 - 500 = \alert{??}</mrow></md>
 The balance will be paid in 18 equal installments, so we can divide the balance by 18 to find the amount of each installment:
-    <me>\dfrac{\alert{??}}{18} = </me>
+    <md><mrow>\dfrac{\alert{??}}{18} = </mrow></md>
 Each monthly payment will be $ <fillin characters="4"/> .</p>
 </activity>
 
@@ -355,7 +355,7 @@ Each monthly payment will be $ <fillin characters="4"/> .</p>
 <p>First way:  The total price of the system is  $6350.</p>
 <p>Second way: The total price is the sum of the down payment and all the monthly payments, <m>500 + 18p</m>.</p>   
 <p>Next, we write an equation using our two expressions.
-  <me>500 + 18p = 6350</me></p>
+  <md><mrow>500 + 18p = 6350</mrow></md></p>
 
 <p>Now we solve the equation.
     <md><mrow>500 + 18p \amp = 6350 ~~~~~~~~ \blert{\text{Subtract 500 from both sides.}}</mrow>

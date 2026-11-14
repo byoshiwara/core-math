@@ -298,7 +298,7 @@
 
 <exercisegroup><introduction><p>For Problems 37 and 38, choose the correct algebraic expression from the options given.</p>
 
-<assemblage><p><me>~~~~~~ m + 15 ~~~~~~~~~~~~ m - 15 ~~~~~~~~~~~~ 15 - m ~~~~~~</me></p></assemblage></introduction>
+<assemblage><p><md><mrow>~~~~~~ m + 15 ~~~~~~~~~~~~ m - 15 ~~~~~~~~~~~~ 15 - m ~~~~~~</mrow></md></p></assemblage></introduction>
 
 <exercise number="37"><statement><p><ol marker="a.">
   <li><p>Carol weighs 15 pounds less than Garth. If Garth weighs <m>m</m> pounds, how much does Carol weigh?</p></li>
@@ -318,7 +318,7 @@
 
 <exercisegroup><introduction><p>For Problems 39 and 40, choose the correct algebraic expression from the options given.</p>
 
-<assemblage><p><me>~~~~~~ 12p ~~~~~~~~~~~~ \dfrac{12}{p} ~~~~~~~~~~~~ \dfrac{p}{12} ~~~~~~</me></p></assemblage></introduction>
+<assemblage><p><md><mrow>~~~~~~ 12p ~~~~~~~~~~~~ \dfrac{12}{p} ~~~~~~~~~~~~ \dfrac{p}{12} ~~~~~~</mrow></md></p></assemblage></introduction>
 
 <exercise number="39"><statement><p><ol marker="a.">
   <li><p>Julian earns $12 an hour. If he works for <m>p</m> hours, how much will he make?</p></li>
@@ -430,14 +430,14 @@
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 57 and 58, use the formula
-  <me>\blert{\text{time} = \dfrac{\text{distance}}{\text{rate}}}</me>
+  <md><mrow>\blert{\text{time} = \dfrac{\text{distance}}{\text{rate}}}</mrow></md>
 where "rate" is another word for speed.</p></introduction>
 
 <exercise number="57"><statement><p><ol marker="a.">
   <li><p>Write an expression for the time it takes to travel from Kansas City to Salt Lake City (approximately 1000 miles) at different speeds.</p></li>
   <li><p>How long would it take to travel from Kansas City to Salt Lake City by wagon train at 8 miles per hour?</p></li>
 </ol></p>
-        <p><image source="usmap.png"></image></p></statement>
+        <p><image source="usmap.png"><description>map</description></image></p></statement>
 <answer><p><ol marker="a.">
     <li><p>\dfrac{1000}{r}</p></li>
     <li><p>125 hrs</p></li>

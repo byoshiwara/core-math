@@ -4,6 +4,17 @@
     project. To edit the content of your document, open `source/main.ptx`
     (default location).
 -->
+<project ptx-version="2" source="source">
+  <targets>
+    <target name="web" format="html" source="main.ptx" publication="publication.ptx" />
+    <target name="print-latex" format="latex" source="main.ptx" publication="publication.ptx" />
+    <target name="print" format="pdf" source="main.ptx" publication="publication.ptx" />
+    <target name="subset" format="html" source="test-section.ptx" publication="publication.ptx" />
+    <target name="braille" format="braille" braille-mode="emboss" source="main.ptx" publication="publication.ptx" />
+  </targets>
+</project>
+
+<!--  
 <project>
   <targets>
     <target name="web">
@@ -37,8 +48,6 @@
       <publication>publication/publication.ptx</publication>
       <output-dir>output/subset</output-dir>
       <stringparam key="debug.skip-knowls" value="yes"/>
-     <!-- edit this to change the section/chapter/etc. to include
-           in your subset build -->
       <xmlid-root>testing</xmlid-root>
     </target>
   </targets>
@@ -57,3 +66,4 @@
       <liblouis>file2brl</liblouis>
     </executables>
 </project>
+-->

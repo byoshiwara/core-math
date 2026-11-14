@@ -5,8 +5,8 @@
 
 <exercise number="1"><statement><p><ol marker="a.">
   <li><p>On the centimeter grids below, draw three rectangles of different sizes and shapes.</p>
-  <image source="cmgrid.png" width="80%"></image>
-  <image source="cmgrid.png" width="80%"></image></li>
+  <image source="cmgrid.png" width="80%"><description>cm grid</description></image>
+  <image source="cmgrid.png" width="80%"><description>cm grid</description></image></li>
 
   <li><p>In the table below, record the length and width of each rectangle, then calculate its perimeter and area. Be sure to include units in your answers.</p>
 
@@ -124,13 +124,13 @@
       <li><p>Then measure in centimeters. Round your measurements to the nearest half-centimeter. Then calculate the perimeter of the figure.</p></li>
   </ol></p></introduction>
 
-<exercise number="11"><statement><image source="incmtri.png" width="80%"></image></statement>
+<exercise number="11"><statement><image source="incmtri.png" width="80%"><description>triangle</description></image></statement>
 <answer><p><ol marker="a.">
       <li><p>13 in</p></li>
       <li><p>33 cm</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="12"><statement><image source="incmpent.png" width="90%"></image></statement></exercise>
+<exercise number="12"><statement><image source="incmpent.png" width="90%"><description>quadrilateral</description></image></statement></exercise>
 </exercisegroup>
 
 <exercise number="13"><statement><p><ol marker="a.">
@@ -161,7 +161,9 @@
 <exercise number="17"><statement><p>One side of a stop sign measures 14.9 inches. What is the length of the white border around the edge of the stop sign?</p></statement>
 <answer><p>119.2 in</p></answer></exercise>
 
- <p><sidebyside widths="30% 50%"><image source="stopsign.png"></image><image source="pentbldg.png"></image></sidebyside></p>         
+ <p><sidebyside widths="30% 50%"><image source="stopsign.png"><description>stop sign</description></image>
+ <image source="pentbldg.png"><description>pentagon</description></image></sidebyside></p>
+
 <exercise number="18"><statement><p>One side of the Pentagon building in Washington, D.C. is 921 feet long. If you walk all the way around the outside of the building once, how far will you walk?</p></statement></exercise>
 
 <exercisegroup cols="2">
@@ -171,21 +173,21 @@
     <li><p>the area of the region.</p></li>
 </ol></p></introduction>
 
-<exercise number="19"><statement><image source="hp-1-5-19.png" width="60%"></image></statement>
+<exercise number="19"><statement><image source="hp-1-5-19.png" width="60%"><description>polygon</description></image></statement>
 <answer><p><ol marker="a.">
       <li><p>12 ft</p></li>
       <li><p>5 sq ft</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="20"><statement><image source="hp-1-5-20.png" width="60%"></image></statement></exercise>
+<exercise number="20"><statement><image source="hp-1-5-20.png" width="60%"><description>polygon</description></image></statement></exercise>
 
-<exercise number="21"><statement><image source="hp-1-5-21.png" width="65%"></image></statement>
+<exercise number="21"><statement><image source="hp-1-5-21.png" width="65%"><description>polygon</description></image></statement>
 <answer><p><ol marker="a.">
       <li><p>16 ft</p></li>
       <li><p>10 sq ft</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="22"><statement><image source="hp-1-5-22.png" width="65%"></image></statement></exercise>
+<exercise number="22"><statement><image source="hp-1-5-22.png" width="65%"><description>polygon</description></image></statement></exercise>
 </exercisegroup>
 
 <exercise number="23"><statement><p>In this problem we'll consider some rectangular closets that have area 36 square feet.  Complete the table below, using sketches to help you as needed.</p>
@@ -295,33 +297,33 @@
 
 <exercisegroup cols="2"><introduction><p>For Problems 25-28, use one of the methods from Activity 2 to find the area of the region. The grids represent centimeters.</p></introduction>
 
-<exercise number="25"><statement><image source="hp-1-5-25.png" width="65%"></image></statement>
+<exercise number="25"><statement><image source="hp-1-5-25.png" width="65%"><description>polygon</description></image></statement>
 <answer><p>6 sq m</p></answer></exercise>
 
-<exercise number="26"><statement><image source="hp-1-5-26.png" width="90%"></image></statement></exercise>
+<exercise number="26"><statement><image source="hp-1-5-26.png" width="90%"><description>polygon</description></image></statement></exercise>
 
-<exercise number="27"><statement><image source="hp-1-5-27.png" width="80%"></image></statement>
+<exercise number="27"><statement><image source="hp-1-5-27.png" width="80%"><description>polygon</description></image></statement>
 <answer><p>46 sq m</p></answer></exercise>
 
-<exercise number="28"><statement><image source="hp-1-5-28.png" width="80%"></image></statement></exercise>
+<exercise number="28"><statement><image source="hp-1-5-28.png" width="80%"><description>polygon</description></image></statement></exercise>
 </exercisegroup>
 
 <exercise number="29"><statement><p>To find the area of a rectangle, do we really need to count the square units inside its edges?</p>
 <p><ol marker="a.">
   <li><p>Find the area of the rectangle below. The grid represents inches.</p>
-      <image source="hp-1-5-29a.png" width="40%"></image>
+      <image source="hp-1-5-29a.png" width="40%"><description>rectangle</description></image>
 
   <p>Did you actually count the unit squares, or did you use what you know about multiplication? <m>4 \times 5 = 20</m>  square inches</p></li>
   
   <li><p>Now find the area of this rectangle. The edges are marked in inches. You could sketch in the grid so that you can count squares, but can you see that you don't have to?  You can use multiplication instead.</p>
-        <image source="hp-1-5-29b.png" width="40%"></image>
+        <image source="hp-1-5-29b.png" width="40%"><description>rectangle</description></image>
 
     <p>Length of rectangle: <m><fillin></fillin></m></p>                                       
     <p>Width of rectangle: <m><fillin></fillin></m></p>                                        
     <p>Area of rectangle:  <m><fillin></fillin></m></p></li>                                         
 
   <li><p>Finally, find the area of this rectangle, where you are given its length and width.</p>
-      <image source="hp-1-5-29c.png" width="40%"></image></li>
+      <image source="hp-1-5-29c.png" width="40%"><description>rectangle</description></image></li>
 
   <li><p>Find the perimeter of the rectangle in part (c).</p></li>
 </ol></p></statement>
@@ -340,26 +342,26 @@
   <li><p>Draw in horizontal or vertical lines to create rectangles, then find the area of the figure.</p></li>
 </ol></p></introduction> 
 
-<exercise number="31"><statement><image source="hp-1-5-31.png" width="90%"></image></statement>
+<exercise number="31"><statement><image source="hp-1-5-31.png" width="90%"><description>polygon</description></image></statement>
 <answer><p><ol marker="a.">
       <li><p>49 cm</p></li>
       <li><p>120 sq cm</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="32"><statement><image source="hp-1-5-32.png" width="70%"></image></statement></exercise>
+<exercise number="32"><statement><image source="hp-1-5-32.png" width="70%"><description>polygon</description></image></statement></exercise>
 
-<exercise number="33"><statement><image source="hp-1-5-33.png" width="100%"></image></statement>
+<exercise number="33"><statement><image source="hp-1-5-33.png" width="100%"><description>polygon</description></image></statement>
 <answer><p><ol marker="a.">
       <li><p>160 ft</p></li>
       <li><p>1290 sq ft</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="34"><statement><image source="hp-1-5-34.png" width="90%"></image></statement></exercise>
+<exercise number="34"><statement><image source="hp-1-5-34.png" width="90%"><description>polygon</description></image></statement></exercise>
 </exercisegroup>
 
 <exercise number="35"><statement><p><ol marker="a.">
   <li><p>What is the area of the rectangle shown below?  What is its perimeter?</p>
-      <image source="hp-1-5-35.png" width="40%"></image></li>
+      <image source="hp-1-5-35.png" width="40%"><description>rectangle</description></image></li>
 
   <li><p>Draw a line to divide the rectangle into two rectangles with equal area. (Is there more than one way to do this?) Shade one of the two new rectangles.</p></li>
   <li><p>What is the perimeter of the new rectangle? Is it one-half the perimeter of the original rectangle? Do you get the same perimeter no matter how you made the new rectangle?</p></li>
@@ -372,7 +374,8 @@
 
 <exercise number="36"><statement><p><ol marker="a.">
   <li><p>Here are two more copies of the rectangle. On the left copy below, draw lines to make a rectangle with one-fourth of the area.  Is there more than one way to do this? Shade the new rectangle.</p> 
-      <sidebyside widths="40% 40%"><image source="hp-1-5-35.png" width="40%"></image><image source="hp-1-5-35.png" width="40%"></image></sidebyside></li>       
+      <sidebyside widths="40% 40%"><image source="hp-1-5-35.png" width="40%"><description>rectangle</description></image>
+      <image source="hp-1-5-35.png" width="40%"><description>rectangle</description></image></sidebyside></li>       
   <li><p>What is the perimeter of the new rectangle? Is it one-fourth the perimeter of the original rectangle?</p></li>  
   <li><p>On the right copy above, make your new rectangle by drawing lines in a different way. Does this rectangle have the same perimeter as the one you you made in part (b)?</p></li>
 </ol></p></statement></exercise>
@@ -499,7 +502,7 @@
 
 <exercise number="44"><statement><p><ol marker="a.">
   <li><p>Use the grid below to draw a square yard. The grid is marked in feet.</p>
-      <image source="cmgrid.png" width="60%"></image></li>
+      <image source="cmgrid.png" width="60%"><description>grid</description></image></li>
   <li><p>How many square feet are there in a square yard?</p></li>
   <li><p>Now suppose the grid is marked in inches and draw a square foot.</p></li>
   <li><p>How many square inches are there in a square foot?</p></li>
@@ -551,27 +554,27 @@
 
 <exercisegroup cols="2"><introduction><p>For Problems 49-52, record the base and height of the triangle, then find the area of the triangle. The grids are scaled in centimeters.</p></introduction>
 
-<exercise number="49"><statement><image source="hp-1-5-49.png" width="55%"></image>
+<exercise number="49"><statement><image source="hp-1-5-49.png" width="55%"><description>triangle</description></image>
     <p>Base <m><fillin></fillin></m></p>                                       
     <p>Height <m><fillin></fillin></m></p>                                        
     <p>Area  <m><fillin></fillin></m></p>
 </statement>
 <answer><p>18 sq cm</p></answer></exercise>
 
-<exercise number="50"><statement><image source="hp-1-5-50.png" width="85%"></image>
+<exercise number="50"><statement><image source="hp-1-5-50.png" width="85%"><description>triangle</description></image>
     <p>Base <m><fillin></fillin></m></p>                                       
     <p>Height <m><fillin></fillin></m></p>                                        
     <p>Area  <m><fillin></fillin></m></p>
 </statement></exercise>
 
-<exercise number="51"><statement><image source="hp-1-5-51.png" width="60%"></image>
+<exercise number="51"><statement><image source="hp-1-5-51.png" width="60%"><description>triangle</description></image>
     <p>Base <m><fillin></fillin></m></p>                                       
     <p>Height <m><fillin></fillin></m></p>                                        
     <p>Area  <m><fillin></fillin></m></p>
 </statement>
 <answer><p>15 sq icm</p></answer></exercise>
 
-<exercise number="52"><statement><image source="hp-1-5-52.png" width="70%"></image>
+<exercise number="52"><statement><image source="hp-1-5-52.png" width="70%"><description>triangle</description></image>
     <p>Base <m><fillin></fillin></m></p>                                       
     <p>Height <m><fillin></fillin></m></p>                                        
     <p>Area  <m><fillin></fillin></m></p>
@@ -581,23 +584,23 @@
 <exercise number="53"><statement><p><ol marker="a.">
   <li><p>Do you see a pattern relating the base and height of the triangle to its area?</p></li>
   <li><p>Use the figures below to explain why your formula makes sense.</p>
-      <image source="hp-1-5-53b.png" width="80%"></image></li>
+      <image source="hp-1-5-53b.png" width="80%"><description>triangle</description></image></li>
   <li><p>Without measuring, which of the triangles below do you think has the largest area? Now check, using your formula from part (b).</p>
-        <image source="hp-1-5-53c.png" width="80%"></image></li>
+        <image source="hp-1-5-53c.png" width="80%"><description>triangles</description></image></li>
 </ol></p></statement>
 <answer><p>The area of the triangle is half the area of a rectangle with the same base and height.</p></answer></exercise>
 
 <exercise number="54"><statement><p>A parallelogram is a four-sided figure in which opposite sides are parallel. Use the figures below to explain why the area of a parallelogram is given by the product of its base, <m>b</m>, and its height, <m>h</m>.</p>
-    <image source="hp-1-5-54.png" width="80%"></image>
+    <image source="hp-1-5-54.png" width="80%"><description>parallelogram</description></image>
   </statement></exercise>
 
 <exercise number="55"><title>Challenge Problem</title>
 <statement><p>The picture on the left below shows a solid figure called a truncated icosahedron (eye-kosa-he-dron). If you inflate it a little bit, you get a soccer ball. The surface of the soccer ball is made up of 20 hexagons and 12 pentagons. The hexagons have six sides (the white pieces), and the pentagons have five sides (the black pieces).</p>
-    <image source="soccerball.png" width="80%"></image>
+    <image source="soccerball.png" width="80%"><description>soccer ball</description></image>
          
 <p><ol marker="a.">
   <li><p>Find the area of each pentagon on a soccer ball. The side of the pentagon is 1.8 inches, and the distance from the center of the pentagon to its side is 1.24 inches.</p>
-    <image source="penthex.png" width="80%"></image></li>    
+    <image source="penthex.png" width="80%"><description>pentagon, hexagon</description></image></li>    
 
   <li><p>Find the area of each hexagon on a soccer ball. The side of the pentagon is 1.26 inches, and the distance from the center of the pentagon to its side is 1.56 inches.</p></li>
 </ol></p></statement></exercise>

@@ -12,7 +12,7 @@
     <li><p>Indicating Change</p></li>
   </ul></p>
   
-  <image source="stockmarket.png"></image></sidebyside>
+  <image source="stockmarket.png"><description>stock market display</description></image></sidebyside>
 
   <subsection xml:id="negnos"><title>Opposites</title>
 
@@ -131,7 +131,7 @@
 
 <exercise><statement><sidebyside widths="40% 20%"><stack><p>Fill in the thermometer at
 right to show a temperature of <m>-4  \degree</m>.</p>
-  <image source="snowman.png"></image></stack>
+  <image source="snowman.png"><description>snowman</description></image></stack>
   <!-- <image source="thermom.png"></image> -->
   <image xml:id="Thermometer"><description>Thermometer</description><latex-image>
   <![CDATA[
@@ -217,7 +217,7 @@ right to show a temperature of <m>-4  \degree</m>.</p>
 <p>We can use a bar graph to display both positive and negative numbers. Bars that extend above the zero line indicate positive values, and bars that extend below the zero line indicate negative values. (See <xref ref="bargraph" text="custom">Section 2.3</xref> if you would like to review bar graphs.)</p>
 
 <example><statement><p>The bar graph below shows normal low temperatures, indegrees Celsius, for each month in Bismarck, North Dakota.</p>  
-    <image source="bismarcktemp.png" width="75%"></image>
+    <image source="bismarcktemp.png" width="75%"><description>bar graph</description></image>
 <p><ol marker="a.">
   <li><p>What is normally the low temperature in December?</p></li>
   <li><p>Which month normally has the coldest temperature?  What is the coldest temperature?</p></li>
@@ -243,7 +243,7 @@ right to show a temperature of <m>-4  \degree</m>.</p>
 <subsection xml:id="integers"><title>The Integers</title>
 
 <p>In Section 2.1 we used <term>number lines</term> to compare decimal numbers. Now we'll extend our number lines to include negative numbers. Here is an example. </p>
-    <image source="numberline.png" width="95%"></image>
+    <image source="numberline.png" width="95%"><description>number line</description></image>
 
 <assemblage><title>How to draw a number line</title>
 <p><ul>
@@ -253,21 +253,21 @@ right to show a temperature of <m>-4  \degree</m>.</p>
   <li><p>The arrow at either end means that the number line continues forever.</p></li>
 </ul></p>
 
-<p><me>\hphantom{000000000000}</me></p>
+<p><md><mrow>\hphantom{000000000000}</mrow></md></p>
 
 <p>Draw your own number line here. Mark your line from <m>-5</m> to 5. Try to make sure that your marks are equally spaced.</p>
 
-<p><me>\hphantom{000000000000}</me></p>
+<p><md><mrow>\hphantom{000000000000}</mrow></md></p>
 </assemblage>
 
 <assemblage><title>Definition</title>
 <p>The positive whole numbers, the negative whole numbers, and zero make up a set of numbers called the <term>integers</term>.</p>
 </assemblage>
 
-    <image source="integers.png" width="85%"></image>
+    <image source="integers.png" width="85%"><description>number line</description></image>
 
 <example><statement><p>Which of the following numbers are integers?
-  <me> -16,~~~~ 3.5, ~~~~ \dfrac{20}{4}, ~~~~ -2 \dfrac{1}{4}, ~~~~ 0</me>
+  <md><mrow> -16,~~~~ 3.5, ~~~~ \dfrac{20}{4}, ~~~~ -2 \dfrac{1}{4}, ~~~~ 0</mrow></md>
 </p></statement>
 
 <solution><p>The numbers <m> -16, ~~ \dfrac{20}{4} </m> (which equals 5), and <m>0</m> are integers.</p></solution></example>
@@ -280,7 +280,7 @@ right to show a temperature of <m>-4  \degree</m>.</p>
 
 <p>Because <m>-10 \degree</m> is colder, it makes sense to say that <m>-10</m>  is less than <m>-5</m>.  On the number line, <m>-10</m> lies to the left of<m>-5,~</m> as shown below.</p> 
 
-    <image source="lessthan.png" width="90%"></image>
+    <image source="lessthan.png" width="90%"><description>number line</description></image>
 
 <note><p>Numbers increase as we move from left to right on the number line.  For example, <m>-4</m>  is less than <m>-3</m>, <m>-2</m> is less than 0, and 3 is less than 6. In particular, every negative number is less than every positive number.</p></note>
 
@@ -308,9 +308,9 @@ right to show a temperature of <m>-4  \degree</m>.</p>
 </ol></p></solution></example>
 
 <note><p>We can show an inequality in two ways:
-  <me>-1 \gt -12 ~~~~ (\text{or } -1 ~~\text{ is greater than } -12)</me>
+    <md><mrow>-1 \gt -12 ~~~~ (\text{or } -1 ~~\text{ is greater than } -12)</mrow></md>
 means the same as
-  <me>-12 \lt -1 ~~~~ (\text{or } -12 ~~\text{ is less than } -1)</me></p></note>
+    <md><mrow>-12 \lt -1 ~~~~ (\text{or } -12 ~~\text{ is less than } -1)</mrow></md></p></note>
 
 <exercise><statement><p>Use inequality symbols to write the phrase in two different ways: <m>~~~-2</m> is greater than <m>-10</m>.</p></statement>
 
@@ -323,11 +323,11 @@ means the same as
 <p>To show a particular number on the number line, we place a dot at its position. This is called the <term>graph</term> of the number.  Fractions, such as <m>2\dfrac{3}{4}</m> or <m>4.8</m>, are located between the integers on a number line.</p>
 
 <example><statement><p>Graph the following numbers on a number line.
-  <me>-6,~~~~ -2.5, ~~~~ 0, ~~~~ 4, ~~~~ \text{and} ~~~~ 5 \dfrac{1}{4} </me></p></statement>
+   <md><mrow>-6,~~~~ -2.5, ~~~~ 0, ~~~~ 4, ~~~~ \text{and} ~~~~ 5 \dfrac{1}{4}</mrow></md></p></statement>
 
 <solution><p>We graph fractions by placing dots between the appropriate integers on the number line. For example, we graph  <m>5 \dfrac{1}{4}</m>  between 5 and 6.  The completed graph is shown below.</p>
 
-  <image source="neg6to6.png" width="95%"></image></solution></example>
+  <image source="neg6to6.png" width="95%"><description>number line</description></image></solution></example>
 
 <note><p>In Example 4.4.14, notice that <m>-2.5</m> is less than <m>-2</m>, so it is graphed to the left of <m>-2</m>, between <m>-2</m>  and <m>-3</m>.</p></note>
 
@@ -366,7 +366,7 @@ means the same as
 </answer></exercise>
 
 <note><p>The opposite of a negative number is a positive number. For example, the opposite of <m>-6</m> is 6. We write the opposite of <m>-6</m> as <m>-(-6)</m>,  so  
-  <me> -(-6) = 6</me>
+    <md><mrow>-(-6) = 6</mrow></md>
 Can you use a number line to explain why this makes sense?</p></note>
 
 </subsection>
@@ -378,11 +378,11 @@ Can you use a number line to explain why this makes sense?</p></note>
 <example><statement><p>The temperature was 6° yesterday evening and changed by <m>-10 \degree</m> overnight. What was the temperature in the morning?</p></statement>
 
 <solution><sidebyside widths="50% 20%" valigns="middle middle"><p>Start at 6° on the thermometer, as shown at right. Then count down 10° from there. This brings us to <m>-4 \degree</m>. The temperature in the morning was <m>-4 \degree</m>.</p>
-      <image source="down10.png"></image></sidebyside></solution></example>
+      <image source="down10.png"><description>thermometer</description></image></sidebyside></solution></example>
 
 <exercise><statement><sidebyside widths="50% 20%" valigns="middle middle" margins="0% 10%"><p>The temperature was 5° in the evening yesterday and changed by <m>-11\degree</m> overnight. What was the temperature this morning? Illustrate your calculation on the thermometer at right.</p>  
   <!-- <image source="thermom.png"></image> -->
-  <image source="Thermometer"></image>
+  <image source="Thermometer"><description>thermometer</description></image>
 </sidebyside></statement>
 
 <answer><sidebyside widths="5% 28%" margins="0% 55%"><p><m>-6 \degree</m></p>
@@ -426,9 +426,9 @@ Can you use a number line to explain why this makes sense?</p></note>
 <p><ol>
 <li><p><ol marker="a." cols="2">
   <li><p>The temperature was <m>-3\degree ~~</m> at 6 am and changed by <m>-10\degree ~~</m> over the next six hours. What was the temperature at noon?</p>
-   <image source="Thermometer" width="48%"></image></li>
+   <image source="Thermometer" width="48%"><description>thermometer</description></image></li>
   <li><p>The temperature was <m>9\degree</m> yesterday afternoon and changed by <m>-9\degree</m> overnight. What was the temperature this morning?</p>
-   <image source="Thermometer" width="48%"></image></li>
+   <image source="Thermometer" width="48%"><description>thermometer</description></image></li>
   </ol></p></li>
 <li><p><ol marker="a.">
   <li><p>On Wednesday Brendan's checking account balance was $250. On Thursday he wrote a check for $400. What was his new balance?</p></li>

@@ -9,7 +9,7 @@
     <li><p>Products and Powers</p></li>
     <li><p>Pythagorean Theorem</p></li>
   </ul></p>
-      <image source="lazy.png"></image></sidebyside>
+      <image source="lazy.png"><description>mathematician</description></image></sidebyside>
 
   <subsection xml:id="exponents"><title>A New Notation</title>
 
@@ -22,7 +22,7 @@
 
 <assemblage><title>Warm-Up</title>
 <p>Make a factor tree and write the prime factorization of each number:</p>
-    <p> 16 = </p>
+    <p>16 = </p>
     <p>32 = </p>
     <p>64 = </p>
 <p>  Did you get tired of writing down all those 2's? </p></assemblage>
@@ -35,7 +35,7 @@
 
 <p>For example, we can write 32 as <m>2^5</m>.</p>
 
-    <image source="exponent.png" width="45%"></image>
+    <image source="exponent.png" width="45%"><description>exponent</description></image>
 
 <note><p>Recall that the dot, <m>\large{\cdot}</m>, between the 2's is another symbol for multiplication, so <m>2 \cdot 2</m> means <m>2 \times 2</m>.</p></note>
 
@@ -47,7 +47,7 @@
   <example><statement><p>Use an exponent to write "3 to the fifth power," then evaluate the power.</p></statement>
 
   <solution><p>The base is 3 and the exponent is 5.  We evaluate the product of 5 factors of 3.
-    <me>3^5 = 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 = 243</me></p></solution></example>
+    <md><mrow>3^5 = 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 = 243</mrow></md></p></solution></example>
 
   <note><p><ul>
     <li><p>Do not confuse powers with products! For example, <m>3^5</m> does not mean <m>3 \times 5</m>. Remember that an exponent tells us how many times the base occurs in a repeated multiplication.</p></li>
@@ -72,11 +72,11 @@
 
 <assemblage><title>A Quick Refresher</title>
 <p>Recall that we can find the area of a rectangle by multiplying its length times its width. In the figures below, the grid lines represent centimeters.</p>
-  <sidebyside widths="35% 60%"><image source="area24.png"></image>
+  <sidebyside widths="35% 60%"><image source="area24.png"><description>rectangle</description></image>
       <p><md><mrow>\hphantom{Area = 6 \times 4 = 24}</mrow>
               <mrow>\text{Area} = 6 \times 4 = 24~~ \text{square centimeters}</mrow></md></p></sidebyside>
 <p>We can find the volume of a box by multiplying its length times its width times its height.</p>
-  <sidebyside widths="45% 55%"><image source="boxvol.png"></image>
+  <sidebyside widths="45% 55%"><image source="boxvol.png"><description>box</description></image>
       <p><md><mrow>\text{Volume} \amp = 6 \times 4 \times 3</mrow>
           <mrow> \amp = 72~~ \text{cubic centimeters}</mrow></md></p></sidebyside></assemblage>
 </subsection>
@@ -88,13 +88,13 @@
   <li><p>Use exponents to calculate the area of a square whose side is 5 inches long.</p></li> 
   <li><p>Use exponents to calculate  the volume of a cube whose edge is 5 inches long.</p></li>
 </ol></p>
-    <image source="squareandcube.png" width="50%"></image></statement>
+    <image source="squareandcube.png" width="50%"><description>square and cube</description></image></statement>
 
 <solution><p><ol marker="a.">
   <li><p>The area of the square is
-    <me>5 \times 5 = 5^2 = 25~~\text{square inches}</me></p></li>
+      <md><mrow>5 \times 5 = 5^2 = 25~~\text{square inches}</mrow></md></p></li>
   <li><p>The volume of the cube is
-    <me>5 \times 5 \times 5= 5^3 = 125~~\text{cubic inches}</me></p></li>
+      <md><mrow>5 \times 5 \times 5= 5^3 = 125~~\text{cubic inches}</mrow></md></p></li>
 </ol></p></solution></example>
 
 <note><p>The exponents 2 and 3 are used frequently, so they have special names.</p>
@@ -233,7 +233,7 @@
 <subsection><title>Products and Powers</title>
 
 <p>How should we simplify the expression
-    <me>3 \cdot 5^2 ?</me> 
+    <md><mrow>3 \cdot 5^2 ?</mrow></md> 
 Should we multiply 3 times 5 and then square the result, or should we square 5 first and then multiply by 3?</p>
 
 <assemblage><title>Which Comes First?</title>
@@ -272,8 +272,9 @@ Should we multiply 3 times 5 and then square the result, or should we square 5 f
 </subsection>
 
 <subsection xml:id="pythagoras"><title>Pythagorean Theorem</title>
-<p><sidebyside widths="50% 40%" valigns="middle middle"><p>Delbert is taking a week-long tour on his trail bike. He is traveling across open country in the West, using a guide book that describes his route and suggests places to camp each night. This morning he read the following instructions in the guide book:</p>
- <image source="biketrip.png"></image></sidebyside></p> 
+<p><sidebyside widths="50% 40%" valigns="middle middle">
+<p>Delbert is taking a week-long tour on his trail bike. He is traveling across open country in the West, using a guide book that describes his route and suggests places to camp each night. This morning he read the following instructions in the guide book:</p>
+ <image source="biketrip.png"><description>cyclist</description></image></sidebyside></p> 
 
  <assemblage><p>"After breaking camp, ride directly west for 20 miles. You will come to a deep, narrow canyon running north and south.  However, there is a dirt road that runs along the east side of the canyon, and precisely where you meet the road there is a bridge over the canyon. Cross the bridge and continue for two more miles to a county park, which is your first rest stop for the day."</p></assemblage>
 
@@ -290,7 +291,7 @@ Should we multiply 3 times 5 and then square the result, or should we square 5 f
 
 <assemblage><title>Definition</title>
 <p>A triangle in which one of the angles is a right angle, or 90°, is called a <term>right triangle</term>. The side opposite the right angle is the longest side of the triangle, and is called the <term>hypotenuse</term>. The other two sides of the triangle are called the <term>legs</term>.</p>
-    <image source="righttriangle.png" width="45%"></image></assemblage>
+    <image source="righttriangle.png" width="45%"><description>right triangle</description></image></assemblage>
 
 <activity><title>Pythagorean Theorem</title>
 <p>In this Activity we'll investigate some properties of right triangles. You will need a piece of graph paper measured in centimeters, similar to the one shown below. Use the grid and follow the steps.</p>
@@ -300,7 +301,7 @@ Should we multiply 3 times 5 and then square the result, or should we square 5 f
   <li><p>Record the lengths of the legs (First Leg, <m>FL</m>, and Second Leg, <m>SL</m>) and the Hypotenuse, <m>H</m>, in the first three columns of the table provided. (We'll get to the other columns in a minute.)</p></li>
   <li><p>Try several different triangles, and record the lengths of the legs.</p>
 
-<image source="Pythcmgrid.png" width="100%"></image>
+<image source="Pythcmgrid.png" width="100%"><description>grid</description></image>
 
 <p>Table 1</p>
 <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -413,21 +414,21 @@ Should we multiply 3 times 5 and then square the result, or should we square 5 f
 
 <assemblage><title>Pythagorean Theorem</title>
 <p><sidebyside widths="60% 30%"><p>If the letter <m>\alert{c}</m> stands for the length of the hypotenuse, and the lengths of the two legs are denoted by <m>\alert{a}</m> and <m>\alert{b}</m>, then
-  <me>\alert{a^2 + b^2 = c^2}</me></p>
-<image source="Pythtri.png"></image></sidebyside></p></assemblage>
+  <md><mrow>\alert{a^2 + b^2 = c^2}</mrow></md>></p>
+<image source="Pythtri.png"><description>right triangle</description></image></sidebyside></p></assemblage>
 
 <p>In words, the Pythagorean theorem says:</p>
 
 <assemblage>
-  <p><me>\blert{\large\text{In a right triangle,}}</me></p>
-  <p><me>\substack{\hphantom{000}\blert{\LARGE\text{the square of}}\\ \blert{\LARGE\text{the hypotenuse}}}
+  <p><md><mrow>\blert{\large\text{In a right triangle,}}</mrow></md></p>
+  <p><md><mrow>\substack{\hphantom{000}\blert{\LARGE\text{the square of}}\\ \blert{\LARGE\text{the hypotenuse}}}
       \hphantom{00000} \blert{\large\text{is equal to}}\hphantom{0000}
-      \substack{\blert{\LARGE\text{the sum of the squares}} \\ \blert{\LARGE\text{of the two legs}}}</me></p>
+      \substack{\blert{\LARGE\text{the sum of the squares}} \\ \blert{\LARGE\text{of the two legs}}}</mrow></md></p>
 </assemblage>
 
 <p>Because the square of its side length gives the area of a square, we can visualize the Pythagorean theorem with areas of squares, like this:</p>
 
-<image source="Pythsquares.png" width="50%"></image>
+<image source="Pythsquares.png" width="50%"><description>squares</description></image>
 
 <p>You can check that if we add the areas of the two squares on the legs, we get the area of the square on the hypotenuse!</p>
 

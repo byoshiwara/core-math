@@ -22,27 +22,27 @@
 <exercisegroup><introduction><p>For Problems 7<ndash/>12, sketch and label a triangle with the given properties.</p></introduction>
 
 <exercise number="7"><statement><p>An isosceles triangle with vertex angle 30<m>\degree</m></p></statement>
-<answer><p><image source="ans-1-4-7.png" width="40%"></image></p></answer></exercise>
+<answer><p><image source="ans-1-4-7.png" width="40%"><description>triangle</description></image></p></answer></exercise>
 
 <exercise number="8"><statement><p>A right triangle with one angle 20<m>\degree</m></p></statement></exercise>
 
 <exercise number="9"><statement><p>A scalene triangle with one obtuse angle</p></statement>
-<answer><p><image source="ans-1-4-9.png" width="40%"></image></p></answer></exercise>
+<answer><p><image source="ans-1-4-9.png" width="40%"><description>triangle</description></image></p></answer></exercise>
 
 <exercise number="10"><statement><p>An isosceles right triangle</p></statement></exercise>
 
 <exercise number="11"><statement><p>An isosceles triangle with one obtuse angle</p></statement>
-<answer><p><image source="ans-1-4-11.png" width="40%"></image></p></answer></exercise>
+<answer><p><image source="ans-1-4-11.png" width="40%"><description>triangle</description></image></p></answer></exercise>
 
 <exercise number="12"><statement><p>An equilateral triangle</p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 13<ndash/>14, use a protractor to measure the angles in the triangle. Find the sum of the angles to check your work.</p></introduction>
 
-<exercise number="13"><statement><p><image source="bigtri.png" width="50%"></image></p></statement>
+<exercise number="13"><statement><p><image source="bigtri.png" width="50%"><description>triangle</description></image></p></statement>
 <answer><p><m>80 \degree, ~30 \degree, ~70 \degree</m></p></answer></exercise>
 
-<exercise number="14"><statement><p><image source="bigtri2.png" width="50%"></image></p></statement></exercise>
+<exercise number="14"><statement><p><image source="bigtri2.png" width="50%"><description>triangle</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 15<ndash/>16, find the angle made by the hands of the clock, without using a protractor.</p></introduction>
@@ -96,7 +96,7 @@
 <exercisegroup cols="2"><introduction><p>For Problems 17<ndash/>22, find the measure of the unknown angles. Show your work.</p></introduction>
 
 <exercise number="17"><statement><!-- <image source="hp-1-4-17.png" width="45%"></image>-->
-    <image xml:id="hp-1-4-17" width="50%"><description>clock</description><latex-image>
+    <image xml:id="hp-1-4-17" width="50%"><description>angles</description><latex-image>
         <![CDATA[
         \begin{tikzpicture}
         \coordinate(O) at (0,0);
@@ -112,7 +112,7 @@
 <answer><p><m>52 \degree</m></p></answer></exercise>
 
 <exercise number="18"><statement><!-- <image source="hp-1-4-18.png" width="50%"></image>-->
-    <image xml:id="hp-1-4-18" width="50%"><description>clock</description><latex-image>
+    <image xml:id="hp-1-4-18" width="50%"><description>angles</description><latex-image>
         <![CDATA[
         \begin{tikzpicture}
         \coordinate(O) at (0,0);

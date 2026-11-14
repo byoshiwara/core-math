@@ -49,7 +49,7 @@
 <exercise number="5"><statement><p><ol marker="a.">
   <li><p>Make a table showing the length and height of all rectangles you can make with 30 tiles.</p></li>
   <li><p>Sketch your rectangles on the grid below, starting each rectangle in the lower left corner.</p></li></ol></p>
-      <p><image source="graphpaper.png" width="60%"></image></p></statement>
+      <p><image source="graphpaper.png" width="60%"><description>grid</description></image></p></statement>
 <answer><p><ol marker="a.">
   <li><p><tabular top="major" halign="center" right="minor" left="minor" bottom="minor">                        
         <row bottom="minor">
@@ -63,7 +63,7 @@
             <cell>10</cell>
             <cell>6</cell></row>
 </tabular></p></li>
-<li><p><image source="ans-1-3-5b.png" width="40%"></image></p></li>
+<li><p><image source="ans-1-3-5b.png" width="40%"><description>grid</description></image></p></li>
 </ol></p></answer></exercise>
 
 <exercise number="6"><statement><p><ol marker="a.">
@@ -119,7 +119,7 @@
 
 <exercisegroup><introduction><p>Use the number grid below to continue the Sieve of Eratosthenes, and find all the primes between 100 and 200. Begin by crossing out all multiples of 2, then all multiples of 3, etc. If possible, use a different color for the multiples of each prime. Then answer the questions in Problems 23-30.</p>
 
-  <p><image source="sieve2.png" width="75%"></image></p></introduction>
+  <p><image source="sieve2.png" width="75%"><description>number grid</description></image></p></introduction>
 
 <exercise number="23"><statement><p>List all the prime numbers between 100 and 200. How many are there?</p></statement>
 <answer><p>101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199.  21</p></answer></exercise>
@@ -292,9 +292,9 @@
 
 <p>Extra Grids for the Sieve of Eratosthenes</p>
 
-<p><image source="sieve.png" width="65%"></image></p>
+<p><image source="sieve.png" width="65%"><description>number grid</description></image></p>
 
-<p><image source="sieve.png" width="65%"></image></p>
+<p><image source="sieve.png" width="65%"><description>number grid</description></image></p>
 
 
 </exercises>

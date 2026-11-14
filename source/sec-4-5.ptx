@@ -12,7 +12,7 @@
     <li><p>Using a Calculator</p></li>
   </ul></p>
   
-  <image source="cake.png"></image></sidebyside>
+  <image source="cake.png"><description>cake</description></image></sidebyside>
 
 <subsection><title>Which Operations Come First</title>
 
@@ -52,7 +52,7 @@
 <subsection><title>Combined Operations</title>
 
 <p>How do we simplify the expression
-    <me>5 + 2 \cdot 4</me>
+    <md><mrow>5 + 2 \cdot 4</mrow></md>
 Should we add  <m>5 + 2</m>  first, and then multiply by 4, or should we multiply <m>2 \cdot 4</m> first, and then add 5?</p>
 
 <assemblage><sidebyside><stack>
@@ -165,9 +165,9 @@ Should we add  <m>5 + 2</m>  first, and then multiply by 4, or should we multipl
       <mrow>\amp = 11</mrow></md></p></stack></sidebyside></assemblage>
 
   <p>According to our guidelines, multiplication comes before addition. We need an override mechanism to use when we really want addition to come first. For this purpose, we use parentheses :
-      <me>\blert{3 (2 + 5)}</me></p>
+      <md><mrow>\blert{3 (2 + 5)}</mrow></md></p>
   <p>The parentheses are a "grouping symbol;" they tell us to perform any operations inside first. Thus,
-      <me>\blert{3 (2 + 5) = 3(7) = 21}</me></p>
+      <md><mrow>\blert{3 (2 + 5) = 3(7) = 21}</mrow></md></p>
 
   <assemblage><title>Rule 3</title>
     <p>Perform any operations inside parentheses first.</p></assemblage>
@@ -204,9 +204,9 @@ Should we add  <m>5 + 2</m>  first, and then multiply by 4, or should we multipl
 <subsection><title>Fraction Bars</title>
 
 <p>A <term>fraction bar</term> is another kind of grouping symbol. Any operations that appear above or below a fraction bar should be completed first. For example, in the expression
-  <me>\dfrac{16 + 14}{8 - 2}</me>
+    <md><mrow>\dfrac{16 + 14}{8 - 2}</mrow></md>
 we compute the sum  <m>16+14</m> and the difference <m>8-2</m>  before dividing:
-  <me>\dfrac{16 + 14}{8 - 2} = \dfrac{30}{6} = 5</me></p>
+    <md><mrow>\dfrac{16 + 14}{8 - 2} = \dfrac{30}{6} = 5</mrow></md></p>
 
 <assemblage><title>Rule 4</title>
 <p>Simplify any expressions above or below a fraction bar before dividing the bottom into the top.</p></assemblage>
@@ -237,28 +237,28 @@ we compute the sum  <m>16+14</m> and the difference <m>8-2</m>  before dividing:
 <subsection><title>Using a Calculator</title>
 
 <p>We can use either a fraction bar or a division symbol, <m>\div</m> to write a quotient. For example, 15 divided by 3 can be written either
-    <me>\dfrac{15}{3} ~~~~~~ \text{or} ~~~~~~  15 \div 3</me>
+    <md><mrow>\dfrac{15}{3} ~~~~~~ \text{or} ~~~~~~  15 \div 3</mrow></md>
 But the calculator does not have a fraction bar, so we must use the <m>\boxed{\div}</m> key for division.</p> 
 
 <assemblage><title> Fraction Bars</title>
   <p>If there are operations above or below the fraction bar, we must enclose those operations in parentheses.</p></assemblage>
 
 <p>For example, to simplify the expression
-  <me>\dfrac{120}{4(5)} \hphantom{0000} \text{we enter} \hphantom{0000} 120 \hphantom{0} \boxed{\div} \hphantom{0} \boxed{(} \hphantom{0} 4  \hphantom{0} \boxed{\times} \hphantom{0} 5 \hphantom{0} \boxed{)} \hphantom{0} \boxed{=}</me></p>
+    <md><mrow>\dfrac{120}{4(5)} \hphantom{0000} \text{we enter} \hphantom{0000} 120 \hphantom{0} \boxed{\div} \hphantom{0} \boxed{(} \hphantom{0} 4  \hphantom{0} \boxed{\times} \hphantom{0} 5 \hphantom{0} \boxed{)} \hphantom{0} \boxed{=}</mrow></md></p>
 
 <note><p>If your calculator does not have parentheses, you must perform the calculation in steps, following the order of operations:  first compute <m>4 \times 5</m>  to get 20, then divide 120  by  20 to get 6.</p>
 
 <p>What answer would you get if you entered this keying sequence:
-  <me>120 \hphantom{0} \boxed{\div} \hphantom{0} 4 \hphantom{0} \boxed{\times} \hphantom{0} 5 \hphantom{0} \boxed{=}</me></p>
+    <md><mrow>120 \hphantom{0} \boxed{\div} \hphantom{0} 4 \hphantom{0} \boxed{\times} \hphantom{0} 5 \hphantom{0} \boxed{=}</mrow></md></p>
 </note>  
 
 <example><statement><p>Use a calculator to compute <m>\dfrac{4 + 12}{80}</m></p></statement>
 
 <solution><p>Because the calculator does not have a fraction bar, we must enclose <m>4 + 12</m> in parentheses. We enter the expression as
-  <me>\boxed{(} \hphantom{0} 4 \hphantom{0} \boxed{+} \hphantom{0} 12 \hphantom{0} \boxed{)} \hphantom{0} \boxed{\div} \hphantom{0} 80 \hphantom{0} \boxed{=}</me></p>
+    <md><mrow>\boxed{(} \hphantom{0} 4 \hphantom{0} \boxed{+} \hphantom{0} 12 \hphantom{0} \boxed{)} \hphantom{0} \boxed{\div} \hphantom{0} 80 \hphantom{0} \boxed{=}</mrow></md></p>
 
 <p>The calculator returns the answer, 0.2. Can you explain why the keying sequence
-    <me> 4 \hphantom{0} \boxed{+} \hphantom{0} 12 \hphantom{0} \boxed{\div} \hphantom{0} 80 \hphantom{0} \boxed{=}</me>
+    <md><mrow>4 \hphantom{0} \boxed{+} \hphantom{0} 12 \hphantom{0} \boxed{\div} \hphantom{0} 80 \hphantom{0} \boxed{=}</mrow></md>
   gives an incorrect answer?</p></solution></example>
 
 <exercise><statement><p>Use a calculator to compute <m>\dfrac{12.6+7.8}{8.3-7.8}</m></p></statement>
@@ -298,7 +298,7 @@ But the calculator does not have a fraction bar, so we must use the <m>\boxed{\d
 <answer><m>5</m></answer></exercise>
 
 <note><p>Be careful!  In Checkpoint 4.5.16, did you add 9 + 16 to get 25 before you took the square root? Look at Step 1 of the order of operations:  Perform any operations ... or inside a radical.  In other words,
-    <me>\sqrt{9+16} \hphantom{0000}  \text{is not equal to}  \hphantom{0000}   \sqrt{9} + \sqrt{16}</me></p></note>
+    <md><mrow>\sqrt{9+16} \hphantom{0000}  \text{is not equal to}  \hphantom{0000}   \sqrt{9} + \sqrt{16}</mrow></md></p></note>
 
 <p>You can also use your calculator to find approximations for expressions that involve radicals. Let's agree to round all approximate values to three decimal places, unless otherwise specified.</p>
 
@@ -311,9 +311,9 @@ But the calculator does not have a fraction bar, so we must use the <m>\boxed{\d
   <li><p>Add  5  to the result</p></li>
 </ol></p>
 <p>If we enter the calculations in exactly this order, we will be sure to get the correct result.  Enter:
-  <me>7 \hphantom{0} \boxed{\sqrt{\hphantom{0}}} \hphantom{0} \boxed{\times} \hphantom{0} 2 \hphantom{0} \boxed{+} \hphantom{0} 5 \hphantom{0} \boxed{=}</me></p>
+    <md><mrow>7 \hphantom{0} \boxed{\sqrt{\hphantom{0}}} \hphantom{0} \boxed{\times} \hphantom{0} 2 \hphantom{0} \boxed{+} \hphantom{0} 5 \hphantom{0} \boxed{=}</mrow></md></p>
 <p>The calculator displays the result,  10.29150262.  Rounding to three places gives  10.292.  However, most scientific calculators know the order of operations and will automatically perform the operations in the correct order.  Test your calculator by entering
-  <me>5 \hphantom{0} \boxed{+} \hphantom{0} 2 \hphantom{0} \boxed{\times} \hphantom{0} 7 \hphantom{0} \boxed{\sqrt{\hphantom{0}}} \hphantom{0} \boxed{=}</me></p>
+    <md><mrow>5 \hphantom{0} \boxed{+} \hphantom{0} 2 \hphantom{0} \boxed{\times} \hphantom{0} 7 \hphantom{0} \boxed{\sqrt{\hphantom{0}}} \hphantom{0} \boxed{=}</mrow></md></p>
 <p>If your calculator knows the order of operations, you should get the same result as before.</p></solution></example>
 
 <exercise><statement><p>Approximate  <m>6 - \sqrt{5}</m>  to three decimal places.</p></statement>

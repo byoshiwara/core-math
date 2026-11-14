@@ -9,7 +9,7 @@
     <li><p>Greatest Common Factor</p></li>
     <li><p>Lowest Common Multiple</p></li>
   </ul></p>
-      <image source="wholenums.png"></image></sidebyside>
+      <image source="wholenums.png"><description>whole numbers</description></image></sidebyside>
   
   <subsection><title>Factors</title>
 
@@ -27,7 +27,7 @@
     <p>For this Activity (and the Practice problems), you will need 40 small tiles.</p> 
     <p><ol marker="1.">
         <li><p>Select 12 tiles from your collection. Can you make a rectangle using all 12 tiles? One possibility is a rectangle with length 4 tiles and height 3 tiles. Or we could arrange the rectangle with length 3 tiles and height 4 tiles.</p>
-          <image source="tiles.png" width="40%"></image> 
+          <image source="tiles.png" width="40%"><description>tiles</description></image> 
         <p><ol marker="a.">
             <li><p>What other rectangles can you make?  Fill in the table below.</p>
                 <p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
@@ -65,7 +65,7 @@
         <cell></cell></row>
     </tabular></p></li>
     <li><p>How many rectangles did you find? On the grid below, sketch all of your rectangles. Start each one in the bottom left-hand corner. The rectangles will overlap. What do you notice about the rectangles?  (Hint: Draw in a diagonal on the grid, from bottom left to upper right.)</p>
-      <image source="graphpaper.png" width="60%"></image></li>
+      <image source="graphpaper.png" width="60%"><description>graph paper</description></image></li>
     </ol></p></li>
 
   <li><p>Repeat Problem 1 with a set of 24 tiles. Make your own table for Length and Height, and use the grid below to sketch your rectangles. (Note: two of your rectangles will not fit on the grid.)
@@ -87,7 +87,7 @@
         <cell></cell>
         <cell></cell></row>
     </tabular></p>
-          <image source="graphpaper.png" width="60%"></image>
+          <image source="graphpaper.png" width="60%"><description>graph paper</description></image>
   How many rectangles did you find?</p></li>
 </ol></p></activity>
 
@@ -129,8 +129,8 @@
     </tabular></p>
 
 <p>Do you see that these are the same numbers we found in Problem 1 of Activity 1.3.1? We have found three number pairs:
-    <me>\large{\blert{1}~~~~ \text{and}~~~~\blert{12}}, \hphantom{0000} \large{\blert{2}~~~~\text{and}~~~~\blert{6}}, \hphantom{0000} \text{and} \hphantom{0000} \large{\blert{3}~~~~\text{and}~~~~\blert{4}}</me></p>
-        <image source="factorrainbow.png" width="40%"></image>
+    <md><mrow>\large{\blert{1}~~~~ \text{and}~~~~\blert{12}}, \hphantom{0000} \large{\blert{2}~~~~\text{and}~~~~\blert{6}}, \hphantom{0000} \text{and} \hphantom{0000} \large{\blert{3}~~~~\text{and}~~~~\blert{4}}</mrow></md></p>
+        <image source="factorrainbow.png" width="40%"><description>factor rainbow</description></image>
 <p>Each of these pairs of numbers is called a <term>factor pair</term> for 12. (The order of the numbers in a factor pair doesn't matter.)</p>
 
 <activity><title>Factor Pairs</title>
@@ -150,12 +150,12 @@
 <p>A counting number (larger than 1) that is evenly divisible only by 1 and itself is called a <term>prime</term> number. A counting number larger than 1 that is not prime is called <term>composite</term>.</p></assemblage>
 
 <example><statement><p>Which of the following numbers are prime numbers?
-        <me>6 \hphantom{0000}  7 \hphantom{0000} 10 \hphantom{0000} 11</me></p></statement>
+        <md><mrow>6 \hphantom{0000}  7 \hphantom{0000} 10 \hphantom{0000} 11</mrow></md></p></statement>
 
 <solution><p>Because  6  is divisible by 2 and 3, it is composite. Similarly, 2 and 5 are factors of 10, so it is composite also. But 7 has no factors other than 1 and 7, so it is prime. Similarly, 11 is prime.</p></solution></example>
 
 <exercise><statement><p>Which of the following numbers are prime numbers?
-        <me>4 \hphantom{0000}  5 \hphantom{0000} 8 \hphantom{0000} 9</me></p></statement>
+        <md><mrow>4 \hphantom{0000}  5 \hphantom{0000} 8 \hphantom{0000} 9</mrow></md></p></statement>
 <answer><p>Only 5 is prime.</p></answer></exercise>
 
 <p>In Activity 1.3.3 we'll find all the prime numbers between 1 and 100.</p>
@@ -167,7 +167,7 @@
     number.) Cross out all multiples of that number.</p></li>
   <li><p>Repeat part (b) until there are no more numbers to cross out.</p></li></ol></p>
 
-  <image source="sieve.png" width="65%"></image>
+  <image source="sieve.png" width="65%"><description>100 numbers</description></image>
 
 <p>The circled numbers are the primes!</p>
 </activity>
@@ -202,14 +202,14 @@
 <example xml:id="factortree"><statement><p>Find the prime factorization of 60.</p></statement>
 
 <solution><p>We begin by finding any factor pair for 60. For example, we might start with <m>60 = 6 \times 10</m>. We write each factor on a "branch" of the tree, as shown below:</p>
-    <image source="factortree1.png" width="20%"></image>
+    <image source="factortree1.png" width="20%"><description>factor tree</description></image>
 <p>Both 6 and 10 are composite numbers and can be factored further.</p>
-    <image source="factortree2.png" width="30%"></image>
+    <image source="factortree2.png" width="30%"><description>factor tree</description></image>
 <p>Now all the factors are prime numbers. These are the "leaves" of the factor tree. We circle each prime factor, and then write them in increasing order. The prime factorization of 60 is
-    <me>60 = 2 \times 2 \times 3 \times 5</me></p></solution></example>
+    <md><mrow>60 = 2 \times 2 \times 3 \times 5</mrow></md></p></solution></example>
 
 <note><p>It doesn't matter how we start a factor tree; we will always get the same prime factorization at the end. In the previous Example, we might have started the factor tree with  <m>60 = 2 \times 30</m>  and built the following tree.</p>
-    <image source="factortree3.png" width="30%"></image>
+    <image source="factortree3.png" width="30%"><description>factor tree</description></image>
 <p>You can see that we end up with the same prime factorization of 60.</p></note>
 
 <exercise><statement><p>Build a factor tree and write the prime factorization for 280.</p></statement>
@@ -226,7 +226,7 @@
 <subsection><title>Greatest Common Factor</title>
 
 <p>We use factors when we work with fractions. Suppose we would like to reduce the fraction <m>\dfrac{15}{24}</m>. We look for the largest number that divides evenly into both 15 and 24, or in other words, the largest number that is a factor of both 15 and 24. By listing all the factors of each number, we can see that the largest factor common to both 15 and 24 is <m>\alert{3}</m>.</p>
-    <image source="factors15and24.png" width="60%"></image>
+    <image source="factors15and24.png" width="60%"><description>factors</description></image>
 <p>We say that 3 is the <term>greatest common factor</term> or <term>GCF</term> for 15 and 24.</p>
 
 <assemblage><title>Definition</title>
@@ -235,12 +235,12 @@
 <example><statement><p>Find the greatest common factor of 16 and 24.</p></statement>
 
 <solution><p>We list all the factors of 16 and 24.</p>
-      <image source="factors16and24.png" width="45%"></image>
+      <image source="factors16and24.png" width="45%"><description>factors</description></image>
 <p>The numbers 16 and 24 have several common factors (namely, 1, 2, and 4), but the largest common factor is 8. The GCF of 16 and 24 is 8.</p></solution></example>
 
 <exercise><statement><p><ol marker="a.">
   <li><p>List all the factors of 18 and 24.</p>
-           <image source="factors18and24.png" width="60%"></image></li>
+           <image source="factors18and24.png" width="60%"><description>factors</description></image></li>
     <li><p>Find the GCF of 18 and 24.</p></li></ol></p></statement>
 
 <answer><p><ol marker="a.">
@@ -254,12 +254,12 @@
 <example><statement><p>Use prime factorization to find the greatest common factor of 16 and 24.</p></statement>
 
 <solution><p>Make factor trees to verify the factorizations of 16 and 24.
-    <me>16 = 2 \times 2 \times 2 \times 2</me>
-    <me>24 = 2 \times 2 \times 2 \times 3</me>
+    <md><mrow>16 = 2 \times 2 \times 2 \times 2</mrow></md>
+    <md><mrow>24 = 2 \times 2 \times 2 \times 3</mrow></md>
  Now list all the factors that appear in the factorization of both numbers.</p>   
- <image source="gcf16and24.png" width="27%"></image>
+ <image source="gcf16and24.png" width="27%"><description>GCF</description></image>
 <p>Finally, multiply together the factors that appear in both numbers. The GCF of 16 and 24 is
-  <me>\text{GCF} = 2 \times 2 \times 2  = 8</me></p></solution></example>
+    <md><mrow>\text{GCF} = 2 \times 2 \times 2  = 8</mrow></md></p></solution></example>
 
 <note><p> Do you see why this method works? By including all the factors that appear in both 18 and 24, we find the largest number that will divide evenly into both 18 and 24.</p></note>
 
@@ -277,9 +277,9 @@
 <subsection xml:id="lcm"><title>Lowest Common Multiple</title>
 
 <p>Tastee hot dogs come in packages of 8, and Tastee hot dog buns come in packages of 6. How many packages of each should you buy so that you won't have any hot dogs or buns left over?</p>
-      <image source="hotdogs.png" width="50%"></image>
+      <image source="hotdogs.png" width="50%"><description>hot dogs and buns</description></image>
 <p>Let's try some numbers.  We are looking for the same number of hot dogs as buns.</p>
-      <image source="LCMtable.png" width="55%"></image>
+      <image source="LCMtable.png" width="55%"><description>LCM table</description></image>
 
 <p>We can stop here. If we buy 3 packages of hot dogs and 4 packages of buns, we'll have equal numbers of each: 24 hot dogs and 24 buns.</p>
 <p>The numbers in the second row of the table are <term>multiples</term> of 8, and the numbers in the third row are multiples of 6. The number 24 is a <term>common multiple</term> of 6 and 8; in fact, it is the <term>lowest common multiple</term>. (You can check that 48 and 72 are also common multiples of 6 and 8.)</p>
@@ -290,7 +290,7 @@
 <example><statement><p>Find the lowest common multiple for 12 and 15.</p></statement>
 
 <solution><p>We list multiples of each number until we find the smallest common multiple.</p>
-    <image source="LCM12and15.png" width="80%"></image>
+    <image source="LCM12and15.png" width="80%"><description>LCM</description></image>
 <p>We see that 60 is the smallest number that is a multiple of both 12 and 15. The LCM of 12 and 15 is 60.</p></solution>
 </example>
 
@@ -315,9 +315,9 @@
             \end{alignedat}</m></p>
 <p>Notice that we wrote the products so that common factors line up vertically.</p>
 <p> Next we select one number from each column.</p>
-      <image source="factorLCM.png" width="25%"></image>
+      <image source="factorLCM.png" width="25%"><description>LCM</description></image>
 <p>Finally, we multiply together all the factors that appear in either number.
-      <me>\large{\text{LCM} = 2 \times 2 \times 3 \times 5 = 60}</me></p></solution></example>
+      <md><mrow>\large{\text{LCM} = 2 \times 2 \times 3 \times 5 = 60}</mrow></md></p></solution></example>
 
 <p>In the previous Example, we used 2 factors of <m>2</m> for the LCM because there are 2 factors of <m>2</m> in 12. We used only one factor of <m>3</m> because there is only one factor of <m>3</m> in either 12 or 15. In general, we can say that for the LCM we use each factor the most times it appears in either one of the two given numbers.</p>
 

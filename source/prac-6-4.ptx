@@ -21,25 +21,25 @@
 
 <exercisegroup cols="2"><introduction><p>For Problems 7-14, decide whether the figures are similar. If they are similar, give the scale factor from the first figure to the second figure. If the figures are not similar, explain why not.</p></introduction>
 
-<exercise number="7"><statement><image source="hp-6-4-7.png" width="75%"></image></statement>
+<exercise number="7"><statement><image source="hp-6-4-7.png" width="75%"><description>rectangles</description></image></statement>
   <answer><m>\dfrac{5}{8}</m></answer></exercise>
 
-<exercise number="8"><statement><image source="hp-6-4-8.png" width="80%"></image></statement></exercise>
+<exercise number="8"><statement><image source="hp-6-4-8.png" width="80%"><description>circles</description></image></statement></exercise>
 
-<exercise number="9"><statement><image source="hp-6-4-9.png"></image></statement>
+<exercise number="9"><statement><image source="hp-6-4-9.png"><description>pentagons</description></image></statement>
   <answer>The sides are not proportional.</answer></exercise>
 
-<exercise number="10"><statement><image source="hp-6-4-10.png"></image></statement></exercise>
+<exercise number="10"><statement><image source="hp-6-4-10.png"><description>rhombi</description></image></statement></exercise>
 
-<exercise number="11"><statement><image source="hp-6-4-11.png"></image></statement>
+<exercise number="11"><statement><image source="hp-6-4-11.png"><description>triangles</description></image></statement>
   <answer><m>\dfrac{5}{4}</m></answer></exercise>
 
-<exercise number="12"><statement><image source="hp-6-4-12.png" width="80%"></image></statement></exercise>
+<exercise number="12"><statement><image source="hp-6-4-12.png" width="80%"><description>pentagons</description></image></statement></exercise>
 
-<exercise number="13"><statement><image source="hp-6-4-13.png" width="100%"></image></statement>
+<exercise number="13"><statement><image source="hp-6-4-13.png" width="100%"><description>triangles</description></image></statement>
   <answer><m>\dfrac{17}{11} \not= <m>\dfrac{9}{6}</m></m></answer></exercise>
 
-<exercise number="14"><statement><image source="hp-6-4-14.png" width="75%"></image></statement></exercise>
+<exercise number="14"><statement><image source="hp-6-4-14.png" width="75%"><description>rectangles</description></image></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 15-18, each statement is false. Correct it to make a true statement.</p>
@@ -60,25 +60,25 @@
 <exercisegroup cols="2"><introduction><p>In Problems 19-26, the figures are similar. Find the unknown angles and sides. </p>
 </introduction>
 
-<exercise number="19"><statement><image source="hp-6-4-19.png" width="90%"></image></statement>
+<exercise number="19"><statement><image source="hp-6-4-19.png" width="90%"><description>triangles</description></image></statement>
   <answer><m>\angle A = \angle B = 37 \degree</m></answer></exercise>
 
-<exercise number="20"><statement><image source="hp-6-4-20.png" width="70%"></image></statement></exercise>
+<exercise number="20"><statement><image source="hp-6-4-20.png" width="70%"><description>triangles</description></image></statement></exercise>
 
-<exercise number="21"><statement><image source="hp-6-4-21.png" width="75%"></image></statement>
+<exercise number="21"><statement><image source="hp-6-4-21.png" width="75%"><description>triangles</description></image></statement>
   <answer><m>\angle A = \angle B = \angle C = 45 \degree, ~ d=5</m></answer></exercise>
 
-<exercise number="22"><statement><image source="hp-6-4-22.png" width="100%"></image></statement></exercise>
+<exercise number="22"><statement><image source="hp-6-4-22.png" width="100%"><description>parallelograms</description></image></statement></exercise>
 
-<exercise number="23"><statement><image source="hp-6-4-23.png"></image></statement>
+<exercise number="23"><statement><image source="hp-6-4-23.png"><description>pentagons</description></image></statement>
   <answer><m>\angle A = 60 \degree, ~ w=3.5</m></answer></exercise>
 
-<exercise number="24"><statement><image source="hp-6-4-24.png" width="70%"></image></statement></exercise>
+<exercise number="24"><statement><image source="hp-6-4-24.png" width="70%"><description>triangles</description></image></statement></exercise>
 
-<exercise number="25"><statement><image source="hp-6-4-25.png" width="100%"></image></statement>
+<exercise number="25"><statement><image source="hp-6-4-25.png" width="100%"><description>triangles</description></image></statement>
   <answer><m>h=12</m></answer></exercise>
 
-<exercise number="26"><statement><image source="hp-6-4-26.png" width="90%"></image></statement></exercise>
+<exercise number="26"><statement><image source="hp-6-4-26.png" width="90%"><description>triangles</description></image></statement></exercise>
 </exercisegroup>
 
 <exercise number="27"><statement><p>Which of the following statements are true?<ol marker="a.">
@@ -103,28 +103,28 @@
 
 <exercisegroup cols="2"><introduction><p>In Problems 31-34, are the triangles similar? Explain why or why not.</p></introduction>
 
-<exercise number="31"><statement><image source="hp-6-4-31.png" width="80%"></image></statement>
+<exercise number="31"><statement><image source="hp-6-4-31.png" width="80%"><description>triangles</description></image></statement>
   <answer><p>Yes. The sides are proportional.</p></answer></exercise>
 
-<exercise number="32"><statement><image source="hp-6-4-32.png" width="90%"></image></statement></exercise>
+<exercise number="32"><statement><image source="hp-6-4-32.png" width="90%"><description>triangles</description></image></statement></exercise>
 
-<exercise number="33"><statement><image source="hp-6-4-33.png"></image></statement>
+<exercise number="33"><statement><image source="hp-6-4-33.png"><description>triangles</description></image></statement>
   <answer><p>Yes, Corresponding angles are equal.</p></answer></exercise>
 
-<exercise number="34"><statement><image source="hp-6-4-34.png" width="75%"></image></statement></exercise>
+<exercise number="34"><statement><image source="hp-6-4-34.png" width="75%"><description>triangles</description></image></statement></exercise>
 </exercisegroup>
 
 <exercisegroup cols="2"><introduction><p>For Problems 35-38, find two figures that are similar.</p></introduction>
 
-<exercise number="35"><statement><image source="hp-6-4-35.png" width="80%"></image></statement>
+<exercise number="35"><statement><image source="hp-6-4-35.png" width="80%"><description>figures</description></image></statement>
   <answer><p>(b) and (e)</p></answer></exercise>
 
-<exercise number="36"><statement><image source="hp-6-4-36.png" width="100%"></image></statement></exercise>
+<exercise number="36"><statement><image source="hp-6-4-36.png" width="100%"><description>triangles</description></image></statement></exercise>
 
-<exercise number="37"><statement><image source="hp-6-4-37.png" width="80%"></image></statement>
+<exercise number="37"><statement><image source="hp-6-4-37.png" width="80%"><description>figures</description></image></statement>
   <answer><p>(b) and (e)</p></answer></exercise>
 
-<exercise number="38"><statement><image source="hp-6-4-38.png" width="100%"></image></statement></exercise>
+<exercise number="38"><statement><image source="hp-6-4-38.png" width="100%"><description>triangles</description></image></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 39-42, <ol marker="a.">
@@ -133,7 +133,7 @@
 </ol></p></introduction>
 
 <exercise number="39"><statement><sidebyside widths="50% 25%"><p>A child's cello is 75% as tall as a full-sized cello. The strings on a full-sized cello are 28 inches long from the nut to the bridge. How long are the strings on a child's cello?</p>
-  <image source="hp-6-4-39.png"></image></sidebyside></statement>
+  <image source="hp-6-4-39.png"><description>cellos</description></image></sidebyside></statement>
   <answer><p><ol marker="a.">
   <li><m>\dfrac{3}{4}</m></li>
   <li><p>21</p></li>
@@ -178,13 +178,13 @@
 </ol></p></answer></exercise>
 
 <exercise number="48"><statement><sidebyside widths="50% 35%" valigns="middle middle"><p>George Washington was 6 feet 2 inches tall, and his nose was 3.34 inches long. The nose on his likeness at Mount Rushmore is 21 feet long. At the same scale, how tall would a full statue of George Washington be?</p>
-    <image source="hp-6-4-48.png"></image></sidebyside></statement></exercise>
+    <image source="hp-6-4-48.png"><description>mt. rushmore</description></image></sidebyside></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 49-50, show your calculations.</p></introduction>
 
 <exercise number="49"><statement><sidebyside widths="50% 35%" valigns="middle middle"><p>While making the movie Titanic, the producers built a 775-foot model of the ill-fated ship. The original vessel was 882 feet, 9 inches long.</p>
-    <image source="hp-6-4-49.png"></image></sidebyside>
+    <image source="hp-6-4-49.png"><description>titanic</description></image></sidebyside>
 <p><ol marker="a.">
     <li><p>What was the scale factor used to build the model?</p></li>
     <li><p>If the real Titanic was 175 feet tall from the keel to the top of the funnels, how tall is the model?</p></li>
@@ -195,7 +195,7 @@
 </ol></p></answer></exercise>
 
 <exercise number="50"><statement><sidebyside widths="50% 45%"><p>The Straits of Mackinac between Michigan's Upper and Lower Peninsulas are 5 miles wide. Engineers studying the Mackinac bridge, the world's longest suspension bridge, build a model of the straits that is 50 feet wide.</p>
-    <image source="hp-6-4-50.png"></image></sidebyside>
+    <image source="hp-6-4-50.png"><description>bridge</description></image></sidebyside>
 <p><ol marker="a.">
   <li><p>Express the scale factor as a fraction. (There are 5280 feet in a mile.)</p></li>
   <li><p>In their model, the suspension portion of the bridge is 7.2 feet long, and the towers are 12.5 inches above the water. What are the corresponding dimensions of the actual bridge?</p></li>
@@ -207,21 +207,21 @@
   <li><p>Use ratios to find the unknown side.</p></li>
 </ol></p></introduction>
 
-<exercise number="51"><statement><image source="hp-6-4-51.png" width="60%"></image></statement>
+<exercise number="51"><statement><image source="hp-6-4-51.png" width="60%"><description>triangles</description></image></statement>
   <answer><p><ol marker="a.">
-  <li><image source="ans-hp-6-4-51.png" width="60%"></image></li>
+  <li><image source="ans-hp-6-4-51.png" width="60%"><description>triangles</description></image></li>
   <li><p>7.5</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="52"><statement><image source="hp-6-4-52.png" width="80%"></image></statement></exercise>
+<exercise number="52"><statement><image source="hp-6-4-52.png" width="80%"><description>triangles</description></image></statement></exercise>
 
-<exercise number="53"><statement><image source="hp-6-4-53.png" width="50%"></image></statement>
+<exercise number="53"><statement><image source="hp-6-4-53.png" width="50%"><description>triangles</description></image></statement>
   <answer><p><ol marker="a.">
-  <li><image source="ans-hp-6-4-53.png" width="60%"></image></li>
+  <li><image source="ans-hp-6-4-53.png" width="60%"><description>triangles</description></image></li>
   <li><p>15</p></li>
 </ol></p></answer></exercise>
 
-<exercise number="54"><statement><image source="hp-6-4-54.png" width="50%"></image></statement></exercise>
+<exercise number="54"><statement><image source="hp-6-4-54.png" width="50%"><description>triangles</description></image></statement></exercise>
 </exercisegroup>
 
 

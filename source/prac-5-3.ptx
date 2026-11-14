@@ -7,7 +7,7 @@
 </ol></p></introduction>
 
 <exercise number="1"><statement><p>The Camp for Kids Foundation hopes to make $1500 profit at its next rummage sale.  If the cost of putting on the sale is $215, how much revenue will they need?</p>
-    <image source="kids.png" width="50%"></image></statement>
+    <image source="kids.png" width="50%"><description>kids</description></image></statement>
   <answer><p><ol marker="a.">
       <li><m>1500 = R - 215</m></li>
       <li><p>$1715</p></li>
@@ -31,7 +31,7 @@
 
 <exercise number="6"><statement><p>Scott earned $14.70 in interest from his credit union last year. He made no deposits or withdrawals from the account. If the interest rate is 4.9%, how much is in the account?</p></statement></exercise>
 
-<exercise number="7"><statement><sidebyside widths="60% 35%" valigns="middle middle"><p>A fruit punch contains 36% ginger ale. If you have 9 quarts of ginger ale, how much fruit punch can you make?</p><image source="punch.png"></image></sidebyside></statement>
+<exercise number="7"><statement><sidebyside widths="60% 35%" valigns="middle middle"><p>A fruit punch contains 36% ginger ale. If you have 9 quarts of ginger ale, how much fruit punch can you make?</p><image source="punch.png"><description>punch bowl</description></image></sidebyside></statement>
   <answer><p><ol marker="a.">
       <li><m>98.80 = 1300r</m></li>
       <li><p>7.6%</p></li>
@@ -47,14 +47,14 @@
 
 <exercise number="10"><statement><p>Clive loaned his brother some money to buy a new truck, and his brother agreed to repay the loan in one year with 3% interest. Clive earned $75  interest on the loan. How much did Clive loan his brother?</p></statement></exercise>
 
-<exercise number="11"><statement><sidebyside widths="60% 30%" valigns="middle middle"><p>Garden snails travel at about 2.6 feet per minute.  At that rate, how long will it take a snail to cross a 10-foot patio?</p><image source="snail.png"></image></sidebyside></statement>
+<exercise number="11"><statement><sidebyside widths="60% 30%" valigns="middle middle"><p>Garden snails travel at about 2.6 feet per minute.  At that rate, how long will it take a snail to cross a 10-foot patio?</p><image source="snail.png"><description>snail</description></image></sidebyside></statement>
   <answer><p><ol marker="a.">
       <li><m>10 = 2.6t</m></li>
       <li><p>3,85 min</p></li>
     </ol></p></answer></exercise>
 
 <exercise number="12"><statement><p>The peregrine falcon is the fastest flying creature. At a 45° angle of descent, it can cover 312 yards in 3 seconds. What is the falcon's speed in yards per second?  In miles per hour? (Hint: There are 1720 yards in a mile.)</p>
-    <image source="falcon.png" width="40%"></image></statement></exercise>
+    <image source="falcon.png" width="40%"><description>falcon</description></image></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 13-20, write an equation. Let <m>n</m> stand for the unknown number.</p></introduction>
@@ -86,12 +86,14 @@
   <li><p>What are we asked to find?  Choose a variable to represent it.</p></li>
   <li><p>Find two ways to express the amount of money Lupe had after the Craft Fair, and write an equation.</p></li>
   <li><p>Solve the equation and answer the question in the problem.</p></li>
-</ol></p></statement>
+</ol></p>
+    <image source="fair.png" width="60%"><description>fair</description></image></statement>
   <answer><p><ol marker="a.">
     <li><p>money before the Fair:  <m>m</m></p></li>
     <li><m>m-24.50 = 39.75</m></li>
     <li><p>$64.75</p></li>
   </ol></p></answer></exercise>
+
 
 <exercise number="22"><statement><p>The sale price on a washing machine is $29.80 less than the regular price. The sale price is $258.35  What is the regular price?<ol marker="a.">
   <li><p>What are we asked to find?  Choose a variable to represent it.</p></li>
@@ -121,7 +123,7 @@
   <li><p>Find two ways to express each member's share, and write an equation.</p></li>
   <li><p>Solve the equation and answer the question in the problem.</p></li>
 </ol></p>
-      <image source="gardening.png" width="35%"></image></statement>
+      <image source="gardening.png" width="35%"><description>gardening</description></image></statement>
   <answer><p><ol marker="a.">
     <li><p>profit:  <m>P</m></p></li>
     <li><m>\dfrac{P}{8} = 64.35</m></li>
@@ -146,7 +148,7 @@
   <li><m>c+342 = 1070</m></li>
 </ol></p></answer></exercise>
 
-<exercise number="28"><statement><sidebyside widths="50% 25%" valigns="middle middle"><p>Mishell weighs 28.5 pounds less than her dog, Bear. If Mishell weighs 96 pounds, how much does Bear weigh?</p><image source="bear.png"></image></sidebyside></statement></exercise>
+<exercise number="28"><statement><sidebyside widths="50% 25%" valigns="middle middle"><p>Mishell weighs 28.5 pounds less than her dog, Bear. If Mishell weighs 96 pounds, how much does Bear weigh?</p><image source="bear.png"><description>dog</description></image></sidebyside></statement></exercise>
 
 <exercise number="29"><statement><p>Caroline Gottrich divided her fortune equally among her three no-good sons and her cat. Each beneficiary received $350,000. How much was Caroline's fortune?</p></statement>
 <answer><p><ol marker="a.">
@@ -183,7 +185,8 @@
 
 <exercisegroup><introduction><p>For Problems 37-46, use the appropriate formula to write an equation relating two variables.</p></introduction>
 
-<exercise number="37"><statement><p>The distance traveled in <m>t</m> hours by a small plane flying at 150 miles per hour.</p></statement>
+<exercise number="37"><statement><p>The distance traveled in <m>t</m> hours by a small plane flying at 150 miles per hour.</p>
+    <image source="plane.png" width="50%"><description>plane</description></image></statement>
   <answer><m>d = 150t</m></answer></exercise>
 
 <exercise number="38"><statement><p> distance traveled in <m>t</m> seconds by a car moving at 88 feet per second.</p></statement></exercise>

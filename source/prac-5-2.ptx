@@ -43,7 +43,7 @@
 <exercise number="13"><statement><p>Ridwan bicycled for six hours at an average speed of 14 miles per hour.  How far did he ride?</p></statement>
   <answer><p>84 miles</p></answer></exercise>
 
-<exercise number="14"><statement><p>Elsie is on a cruise to Alaska.  The cruise ship averaged 32 miles per hour for the first two days of the trip.  How far did it travel?</p></statement></exercise>
+<exercise number="14"><statement><p>Elsie is on a cruise to Alaska.  The cruise ship averaged 32 miles per hour for the first two days of the trip.  How far did it travel?</p><image source="CruiseShip.png" width="45%"><description>Cruise ship</description></image></statement></exercise>
 
 <exercise number="15"><statement><p>Lucinda lost 12 pounds in 16 weeks.  What was her average weekly weight loss?</p></statement>
   <answer><p>0.75 lbs per wk</p></answer></exercise>
@@ -63,7 +63,7 @@
 
 <exercisegroup><introduction><p>For Problems 21-30, evaluate the expression to complete the table. Round your answers to two places if necessary.</p></introduction>
 
-<exercise number="21"><statement><p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="21"><statement><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>z</m></cell>
             <cell>0</cell>
@@ -74,11 +74,11 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement>
+        </tabular></p></statement>
 
 <answer><p>4, 19, 54</p></answer></exercise>
 
-<exercise number="22"><statement><p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="22"><statement><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>y</m></cell>
             <cell>2</cell>
@@ -89,9 +89,9 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement></exercise>
+        </tabular></p></statement></exercise>
 
-<exercise number="23"><statement><p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="23"><statement><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>b</m></cell>
             <cell>4</cell>
@@ -102,10 +102,10 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement>
+        </tabular></p></statement>
   <answer><p>18, 14, 8</p></answer></exercise>
 
-<exercise number="24"><statement><p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="24"><statement><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>a</m></cell>
             <cell>0</cell>
@@ -116,9 +116,9 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement></exercise>
+        </tabular></p></statement></exercise>
 
-<exercise number="25"><statement><p>Lucinda lost 12 pounds in 16 weeks.  What was her average weekly weight loss?<sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="25"><statement><p>Lucinda lost 12 pounds in 16 weeks.  What was her average weekly weight loss?<tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>h</m></cell>
             <cell>7</cell>
@@ -129,10 +129,10 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement>
+        </tabular></p></statement>
   <answer><p>0.5, 2, 4.75</p></answer></exercise>
 
-<exercise number="26"><statement><p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="26"><statement><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>v</m></cell>
             <cell>3</cell>
@@ -143,9 +143,9 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement></exercise>
+        </tabular></p></statement></exercise>
 
-<exercise number="27"><statement><p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="27"><statement><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>d</m></cell>
             <cell>0.2</cell>
@@ -156,10 +156,10 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement>
+        </tabular></p></statement>
   <answer><p>9.6, 32, 60</p></answer></exercise> 
 
-<exercise number="28"><statement><p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="28"><statement><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>g</m></cell>
             <cell>4.5</cell>
@@ -170,9 +170,9 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement></exercise>
+        </tabular></p></statement></exercise>
 
-<exercise number="29"><statement><p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="29"><statement><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>m</m></cell>
             <cell>0.5</cell>
@@ -183,10 +183,10 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement>
+        </tabular></p></statement>
   <answer><p>0.14, 0.5, 0.8</p></answer></exercise>
 
-<exercise number="30"><statement><p><sidebyside><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
+<exercise number="30"><statement><p><tabular top="minor" halign="center" right="minor" left="minor" bottom="minor">
         <row bottom="minor">
             <cell><m>s</m></cell>
             <cell>0</cell>
@@ -197,7 +197,7 @@
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell>
             <cell><m>\hphantom{000000}</m></cell></row>
-        </tabular></sidebyside></p></statement></exercise>
+        </tabular></p></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>For Problems 31-36, complete the table and write an expression.</p></introduction>
@@ -396,7 +396,9 @@
 <exercise number="47"><statement><p>After paying their monthly expenses of $560, Hank and his three partners split the rest of their revenue.  If this month's revenue is <m>R</m>,  how much is Hank's share?</p></statement>
   <answer><m>\dfrac{R-560}{4}</m></answer></exercise>
 
-<exercise number="48"><statement><p>Otis buys 200 pounds of dog food at a time, and uses 15 pounds a week for his dog Ralph.  How much dog food does Otis have left after <m>w</m> weeks?</p></statement></exercise>
+<exercise number="48"><statement><sidebyside widths="45% 35%" valigns="middle middle"><p>Otis buys 200 pounds of dog food at a time, and uses 15 pounds a week for his dog Ralph.  How much dog food does Otis have left after <m>w</m> weeks?</p>
+    <image source="dog.png"><description>dog</description></image></sidebyside>
+</statement></exercise>
 
 <exercise number="49"><statement><p>Getaway Tours offers a Caribbean cruise for $2000 per person if 12 people sign up.  For each additional person who signs up, the price per person is reduced by $60.  How much will you payfor the cruise if <m>p</m>  additional people sign up?</p></statement>
   <answer><m>2000-60p</m></answer></exercise>
@@ -450,7 +452,7 @@
 </p>
 
 <assemblage><p>The perimeter of a rectangle is given by the formula   
-    <me>P = 2l + 2w</me>
+    <md><mrow>P = 2l + 2w</mrow></md>
 where <m>l</m> is the length of the rectangle, and <m>w</m> is its width.</p></assemblage></introduction>
 
 <exercise number="65"><statement><p>The length of a rectangular rug is 7.4 feet, and its width is 4.8 feet.  How long a fringe is needed to border the entire rug?</p></statement>
@@ -461,7 +463,7 @@ where <m>l</m> is the length of the rectangle, and <m>w</m> is its width.</p></a
 
 <exercisegroup><introduction><p>
 <assemblage><p>The temperature in degrees Celsius is given by  
-      <me>C = \dfrac{5F - 160}{9}</me>  
+      <md><mrow>C = \dfrac{5F - 160}{9}</mrow></md> 
 where <m>F</m> is the temperature in degrees Fahrenheit. </p></assemblage></p></introduction>
 
 <exercise number="67"><statement><p>Normal body temperature is  98.6°F.  What is normal body temperature in degrees Celsius?</p></statement>
@@ -472,22 +474,22 @@ where <m>F</m> is the temperature in degrees Fahrenheit. </p></assemblage></p></
 
 <exercisegroup><introduction><p>
 <assemblage><p>The area of a trapezoid is given by the formula   
-    <me>A = \dfrac{h}{2}(b+c)</me>
+    <md><mrow>A = \dfrac{h}{2}(b+c)</mrow></md>
 where <m>h</m> is the height of the trapezoid, and <m>b</m> and <m>c</m> are the upper and lower bases.</p>
-    <image source="trapezoid.png" width="50%"></image>
+    <image source="trapezoid.png" width="50%"><description>trapezoid</description></image>
 </assemblage></p></introduction>
 
 <exercise number="69"><statement><p>One section of the roof on Emery's garage has the shape of a trapezoid.  The top of the roof is 30 feet long, and the bottom of the roof is 40 feet long.  The distance between the top and bottom is 15 feet.  What is the area of this section of the roof?</p>
-    <image source="roof.png" width="40%"></image></statement>
+    <image source="roof.png" width="40%"><description>trapezoid</description></image></statement>
   <answer><p>525 sq ft</p></answer></exercise>
 
 <exercise number="70"><statement><p>The glass cooktop on Joy's modern high-tech stove has the shape of a trapezoid.  It is 36 inches wide at the back and 28 inches wide in front.  The distance from front to back is 20 inches.  What is the area of the cooktop?</p>
-    <image source="cooktop.png" width="30%"></image></statement></exercise>
+    <image source="cooktop.png" width="30%"><description>trapezoid</description></image></statement></exercise>
 </exercisegroup>
 
 <exercisegroup><introduction><p>
 <assemblage><p>If you deposit <m>P</m> dollars in an account earning simple interest rate <m>r</m>, then after <m>t</m> years the amount of money in the account is given by
-    <me>A = P + Prt</me></p>
+    <md><mrow>A = P + Prt</mrow></md></p>
 </assemblage></p></introduction>
 
 <exercise number="71"><statement><p>Marla deposits $50,000 at an interest rate of 6% for five years.  How much is in her account at the end of that time?

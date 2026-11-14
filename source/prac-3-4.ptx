@@ -20,12 +20,12 @@
 and rearranging them into a  <fillin></fillin>.</p></statement></exercise>
 
 <exercise number="7"><statement><p>Sketch a circle and one of its diameters. State a formula for the circumference of a circle in terms of its diameter.</p></statement>
-<answer><image source ="ans-3-4-7.png" width="40%"></image><m>C = \pi d</m></answer></exercise>
+<answer><image source ="ans-3-4-7.png" width="40%"><description>circle</description></image><m>C = \pi d</m></answer></exercise>
 
 <exercise number="8"><statement><p>Sketch a circle and one radius. State a formula for the circumference of a circle in terms of its radius.</p></statement></exercise>
 
 <exercise number="9"><statement><p>Sketch a circle and one radius. State a formula for the area of a circle in terms of its radius.</p></statement>
-<answer><image source ="ans-3-4-9.png" width="40%"></image><m>A = \pi r^2</m></answer></exercise>
+<answer><image source ="ans-3-4-9.png" width="40%"><description>circle</description></image><m>A = \pi r^2</m></answer></exercise>
 
 <exercise number="10"><statement><p>Sketch a sphere and one radius. State a formula for the volume of a sphere in terms of its radius.</p></statement></exercise>
 
@@ -110,7 +110,7 @@ and rearranging them into a  <fillin></fillin>.</p></statement></exercise>
 </exercisegroup>
 
 <exercise number="37"><statement><sidebyside widths="55% 35%"><p>The London Eye, or the Millennium Wheel, is an observation wheel on the South Bank of the River Thames in London. It is 443 feet tall, and the diameter of the wheel is 394 feet. It has 32 "capsules" for passengers.</p>
-      <image source ="londoneye.png"></image></sidebyside>
+      <image source ="londoneye.png"><description>millenium wheel</description></image></sidebyside>
 <p><ol marker="a.">  
   <li><p>What is the circumference of the wheel?</p></li>
   <li><p>The wheel makes one revolution every 30 minutes. What is the speed of the capsules, in feet per minute?</p></li>
@@ -123,7 +123,7 @@ and rearranging them into a  <fillin></fillin>.</p></statement></exercise>
 </ol></p></answer></exercise>
 
 <exercise number="38"><statement><sidebyside widths="60% 35%"><p>The Prague Astronomical Clock, or Orloj, was built in 1410 and is the oldest clock in the world that still functions. The clock mechanism has three main components: the astronomical dial, representing the position of the Sun and Moon in the sky; an hourly show of moving figures striking the time; and a calendar dial with medallions representing the months.</p>
-      <image source ="orloj.png"></image></sidebyside>  
+      <image source ="orloj.png"><description>clock</description></image></sidebyside>  
   <p><ol marker="a.">
   <li><p>The diameter of the clock face is 300 centimeters. What is the circumference of the clock face?</p></li>  
   <li><p>The clock has no minute hand, and the hour hand makes one revolution every 24 hours. What is the speed of the tip of the hour hand, in meters per minute?</p></li>
@@ -132,34 +132,34 @@ and rearranging them into a  <fillin></fillin>.</p></statement></exercise>
 
 <exercisegroup cols="2"><introduction><p>For Problems 39-44, find the area and perimeter of the figure. Round your answers to two decimal places.</p></introduction>
 
-<exercise number="39"><statement><p><image source ="hp-3-4-39.png" width="60%"></image></p></statement>
+<exercise number="39"><statement><p><image source ="hp-3-4-39.png" width="60%"><description>figure</description></image></p></statement>
 <answer><p>Area: 55.86 sq cm, perimeter: 37.42 cm</p></answer></exercise>
 
-<exercise number="40"><statement><p><image source ="hp-3-4-40.png" width="60%"></image></p></statement></exercise>
+<exercise number="40"><statement><p><image source ="hp-3-4-40.png" width="60%"><description>figure</description></image></p></statement></exercise>
 
-<exercise number="41"><statement><p><image source ="hp-3-4-41.png" width="60%"></image></p></statement>
+<exercise number="41"><statement><p><image source ="hp-3-4-41.png" width="60%"><description>figure</description></image></p></statement>
 <answer><p>Area: 76.27 sq ft, perimeter: 34.85 ft</p></answer></exercise>
 
-<exercise number="42"><statement><p><image source ="hp-3-4-42.png" width="60%"></image></p></statement></exercise>
+<exercise number="42"><statement><p><image source ="hp-3-4-42.png" width="60%"><description>figure</description></image></p></statement></exercise>
 
-<exercise number="43"><statement><p><image source ="hp-3-4-43.png" width="60%"></image></p></statement>
+<exercise number="43"><statement><p><image source ="hp-3-4-43.png" width="60%"><description>figure</description></image></p></statement>
 <answer><p>Area: 30.90 sq m, perimeter: 85.70 m</p></answer></exercise>
 
-<exercise number="44"><statement><p><image source ="hp-3-4-44.png" width="60%"></image></p></statement></exercise>
+<exercise number="44"><statement><p><image source ="hp-3-4-44.png" width="60%"><description>figure</description></image></p></statement></exercise>
 </exercisegroup>
 
 <exercise number="45"><statement><p>Find the diameter of a circular window if its area should be approximately 16 square feet.</p></statement>
 <answer><p>4.51 ft</p></answer></exercise>
 
 <exercise number="46"><statement><p>A chocolate cake recipe fits into a rectangular pan measuring 8 inches by 10 inches. If you want to bake the same cake in a circular pan of the same size, what should its radius be?</p>
-    <image source ="choccake.png" width="70%"></image></statement></exercise>
+    <image source ="choccake.png" width="70%"><description>cake batter</description></image></statement></exercise>
 
 <exercise number="47"><statement><sidebyside widths="50% 40%"><p>Angela has fenced off a 15-foot square vegetable garden in the corner of her backyard. Her pet goat, Capri, is tethered by a 15-foot rope to the corner of the garden fence, as shown below.  What is the area of grass that Capri can reach?</p> 
-  <image source ="capri.png" width="60%"></image></sidebyside></statement>
+  <image source ="capri.png" width="60%"><description>figure</description>goat circle</image></sidebyside></statement>
 <answer><p>530.14 sq ft</p></answer></exercise>
 
 
 <exercise number="48"><statement><p>Delbert's front lawn is 40 feet long and 20 feet wide. He installs sprinklers around the perimeter, as shown below. If the sprinklers are adjusted so that there is no overlap in their range, what is the area of the lawn that will be missed?</p> 
-    <image source ="sprinklers.png" width="60%"></image></statement></exercise>
+    <image source ="sprinklers.png" width="60%"><description>sprinklers</description></image></statement></exercise>
 
 </exercises>

@@ -180,7 +180,7 @@
 </exercisegroup>
 
 <exercise number="9"><statement><p>The bar graph shows the percent of children born outside of marriage in various European countries. </p>  
-      <image source="hp-2-3-9.png" width="70%"></image>                
+      <image source="hp-2-3-9.png" width="70%"><description>bar graph</description></image>                
 <p><ol marker="a.">
   <li><p>What variable is displayed in this graph?</p></li>
   <li><p>What percent of children are born outside of marriage in Germany?</p></li>
@@ -197,7 +197,7 @@
 </ol></p></answer></exercise> 
 
 <exercise number="10"><statement><p>The bar graph shows the percent of the original rain forest that remains in several areas that are undergoing heavy deforestation.</p>
-      <image source="hp-2-3-10.png" width="70%"></image>                
+      <image source="hp-2-3-10.png" width="70%"><description>bar graph</description></image>                
 <p><ol marker="a.">
   <li><p>What variable is displayed in this graph?</p></li>
   <li><p>What percent of the Central American rain forest remains?</p></li>
@@ -205,11 +205,11 @@
   <li><p>In what region is the largest percent of the original rain forest left?</p></li>
   <li><p>In what region is the smallest percent of the original rain forest left?</p></li>
 </ol></p>
-    <image source="rainforest.png" width="50%"></image>
+    <image source="rainforest.png" width="50%"><description>rain forest</description></image>
 </statement></exercise>
 
 <exercise number="11"><statement><p>The bar graph shows the average temperature in Chicago during each month of the year.</p>
-      <image source="hp-2-3-11.png" width="70%"></image>                
+      <image source="hp-2-3-11.png" width="70%"><description>bar graph</description></image>                
 <p><ol marker="a.">
   <li><p>What variable is displayed in this graph?</p></li>
   <li><p>What is the average temperature during October?</p></li>
@@ -226,7 +226,7 @@
 </ol></p></answer></exercise>
 
 <exercise number="12"><statement><p>The bar graph shows the average precipitation (in inches) each month in Tampa, Florida.</p>
-      <image source="hp-2-3-12.png" width="70%"></image>                
+      <image source="hp-2-3-12.png" width="70%"><description>bar graph</description></image>                
 <p><ol marker="a.">
    <li><p>What variable is displayed in this graph?</p></li>
   <li><p>In which month does Tampa receive the most precipitation?</p></li>
@@ -236,7 +236,7 @@
 </ol></p></statement></exercise>
 
 <exercise number="13"><statement><p>The bar graph shows the leading causes of accidental deaths for children under five years of age. (Note that in this bar graph, the bars are horizontal instead of vertical.)</p>
-      <image source="hp-2-3-13.png" width="70%"></image>                
+      <image source="hp-2-3-13.png" width="70%"><description>bar graph</description></image>                
 <p><ol marker="a.">
   <li><p>Make a table showing the number of deaths for each cause.</p></li>
   <li><p>What caused the most deaths for children under age 5?</p></li>
@@ -251,7 +251,7 @@
 </ol></p></answer></exercise>
 
 <exercise number="14"><statement><p>The bar graph shows the number of annual paid vacation days received by workers in ten industrial nations.</p>
-      <image source="hp-2-3-14.png" width="70%"></image>                
+      <image source="hp-2-3-14.png" width="70%"><description>bar graph</description></image>                
 <p><ol marker="a.">
    <li><p>In which nation do workers receive the most vacation days? In which nation do they receive the fewest?</p></li>
   <li><p>Make a table showing the number of vacation days in each country. List the countries in order from most vacation days to fewest.</p></li>
@@ -260,14 +260,14 @@
 </ol></p></statement></exercise>
 
 <exercise number="15"><statement><p>The bar graph shows the average life expectancy in various countries in 1900 and now. (Life expectancy is the average age to which people can expect to live.)</p>
-      <image source="hp-2-3-15.png" width="70%"></image>                
+      <image source="hp-2-3-15.png" width="70%"><description>bar graph</description></image>                
 <p><ol marker="a.">
   <li><p>Which country had the highest life expectancy in 1900? Which had the lowest?</p></li>
   <li><p>Which country has the highest life expectancy now? Which has the lowest?</p></li>
   <li><p>Which country experienced the greatest increase in life expectancy over the last century? By how many years?</p></li>
   <li><p>How much has the gap in life expectancy among the countries listed decreased over the last century?</p></li>
 </ol></p>
-    <image source="lifeexp.png" width="30%"></image>
+    <image source="lifeexp.png" width="30%"><description>baby and dad</description></image>
 </statement>
 <answer><p><ol marker="a.">
   <li><p>US, Mexico</p></li>
@@ -277,7 +277,7 @@
 </ol></p></answer></exercise>
 
 <exercise number="16"><statement><p>The bar graph shows the average weekly working hours in various countries in 1900 and now.</p>
-      <image source="hp-2-3-16.png" width="70%"></image>                
+      <image source="hp-2-3-16.png" width="70%"><description>bar graph</description></image>                
 <p><ol marker="a.">
     <li><p>Which country had the longest average work week in 1900? Which had the shortest?</p></li>
   <li><p>Which country has the longest average work week now? Which has the shortest?</p></li>
@@ -457,7 +457,7 @@
       <cell></cell></row>
     </tabular></p></li>
 </ol></p>
-    <image source="sinead.png" width="25%"></image></sidebyside></statement>
+    <image source="sinead.png" width="25%"><description>sinead</description></image></sidebyside></statement>
 <answer><p><ol marker="a.">  
   <li><p>2.45 in</p></li>
   <li><p>Multiply <m>t</m> by 0.085</p></li>
@@ -659,7 +659,7 @@
   <li><p>Let <m>B</m> stand for the regular price, and write an expression for Marvin's share in terms of <m>B</m>.</p>
         <p>Marvin's share = </p></li>
   </ol></p>
-      <image source="restaurant.png" width="40%"></image>
+      <image source="restaurant.png" width="40%"><description>restaurant</description></image>
 </statement></exercise>
 
 <exercise number="29"><statement><p>  Marvin and his friends from Problem 28 agree to tip 15% of the total bill.</p>
@@ -774,7 +774,7 @@
       <p>Amount of soy flour = </p></li>
   <li><p>If Lucy uses 6 cups of wheat flour, how much soy flour will she need?</p></li>
 </ol></p>
-    <image source="flour.png" width="40%"></image>
+    <image source="flour.png" width="40%"><description>flour</description></image>
 </statement></exercise>
 
 <exercise number="35"><statement><p>If the governor vetoes a bill passed by the State Assembly, <m>\dfrac{2}{3}</m> of the members present must vote for the bill in order to overturn the veto. </p>
@@ -783,7 +783,7 @@
       <p>Votes needed = </p></li>
   <li><p>If 147 members are present, how many votes are needed to overturn a veto?</p></li>
 </ol></p>
-      <image source="assembly.png" width="40%"></image>
+      <image source="assembly.png" width="40%"><description>assembly</description></image>
 </statement>
 <answer><p><ol marker="a.">  
   <li><p>\dfrac{2}{3} \times p</p></li>

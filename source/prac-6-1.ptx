@@ -17,7 +17,7 @@
   <li><p>Which type of comparison gives the actual difference in the sizes of two quantities?</p></li>
 </ol></p></statement></exercise>
 
-<exercisegroup><introduction><p>For Problems 3-6, decide whether additive or multiplicative comparison is appropriate.<ul> 
+<exercisegroup><title>Comparison</title><introduction><p>For Problems 3-6, decide whether additive or multiplicative comparison is appropriate.<ul> 
     <li><p>If you choose additive comparison, write a difference and a sentence to describe it.</p></li> 
     <li><p>If you choose multiplicative comparison, write a quotient and a sentence to describe it.</p></li>
   </ul></p></introduction>
@@ -57,7 +57,7 @@
 <exercise number="12"><statement><p>The ratio of oak trees to pine trees in the park is <m>1:1</m>. What does this tell you about the numbers of oak trees and pine trees in the park?</p></statement></exercise>
 
 <exercise number="13"><statement><p>For every three sailboats registered to use the lake, there are four motorboats.</p>
-      <image source="sailboats.png" width="50%"></image>
+      <image source="sailboats.png" width="50%"><description>sailboats</description></image>
   <p><ol marker="a.">
   <li><p>What is the ratio of sailboats to motorboats?</p></li>
   <li><p>What is the ratio of motorboats to sailboats?</p></li>
@@ -81,7 +81,7 @@
   <li><p>If 12 adults are willing to be Brownie leaders, how many girls can be Brownies?</p></li>
 </ol></p></statement></exercise>
 
-<exercisegroup><introduction><p>For Problems 15-22, write each ratio as a fraction in simplest form.</p></introduction>
+<exercisegroup><title>Ratios</title><introduction><p>For Problems 15-22, write each ratio as a fraction in simplest form.</p></introduction>
 
 <exercise number="15"><statement><p>Cary's math book has 248 pages of text and 186 pages of exercises. What is the ratio of text to exercises in the book?</p></statement>
       <answer><m>\dfrac{4}{3}</m></answer></exercise>
@@ -103,7 +103,7 @@
 </ol></p></statement></exercise>
 
 <exercise number="19"><statement><sidebyside widths="50% 40%" valigns="middle middle"><p>A recipe for cranberry sangria calls for, among other ingredients, 48  ounces of cranberry juice and 32 ounces of red wine.  You would like to make a smaller batch of cranberry sangria, so you need to know the ratio of cranberry juice to red wine.  What is that ratio?</p>
-    <image source="sangria.png"></image></sidebyside></statement>
+    <image source="sangria.png"><description>sangria</description></image></sidebyside></statement>
       <answer><m>\dfrac{2}{3}</m></answer></exercise>
 
 <exercise number="20"><statement><p>A recipe in a German cook book calls for 220 grams of sugar and 385  grams of flour.  What is the ratio of flour to sugar needed in the recipe?</p></statement></exercise>
@@ -141,7 +141,7 @@
   <li><p>What is a unit rate?</p></li>
 </ol></p></statement></exercise>
 
-<exercisegroup><introduction><p>For Problems 25-34, write each ratio as a decimal fraction. If necessary, round your answers to three decimal places.</p></introduction>
+<exercisegroup><title>Decimal Fractions</title><introduction><p>For Problems 25-34, write each ratio as a decimal fraction. If necessary, round your answers to three decimal places.</p></introduction>
 
 <exercise number="25"><statement><p>The average American eighth-grader spends 5.6 hours per week on homework and 21.4 hours per week watching TV.  What is the ratio of time spent on homework to time spent watching  TV?</p></statement>
 <answer><p>0.262</p></answer></exercise>
@@ -151,8 +151,8 @@
 <exercise number="27"><statement><p>On a scale drawing of a new public library, the length of the lobby is 14.4 centimeters and its width is 9 centimeters.  The ratio of the width to the length will be the same for the actual lobby.  What is that ratio?</p></statement>
 <answer><p>0.625</p></answer></exercise>
 
-<exercise number="28"><statement><sidebyside widths="50% 30%" valigns="middle middle"><p>A scale model of Big Ben is 20 centimeters tall and the clock face is 1.5  centimeters wide.  What is the ratio of the width of the clock face to the height of the tower?</p>
-  <image source="bigben.png"></image></sidebyside>
+<exercise number="28"><statement><sidebyside widths="50% 30%" valigns="middle middle"><p>A scale model of Big Ben is 20 centimeters tall and the clock face is 1.5  centimeters wide.  What is the ratio of the width of the clock face to the height of the tower? (Although the tower in the figure is often referred to as "Big Ben," its real name is The Elizabeth Tower. Big Ben is actually the bell that produces the hourly chimes.)</p>
+  <image source="bigben.png"><description>big ben</description></image></sidebyside>
 </statement></exercise>
 
 <exercise number="29"><statement><p>The Crane County commissioners have budgeted 24.9 million dollars for education and 41.5 million dollars for law enforcement.  What is the ratio of funds budgeted for education to funds budgeted for law enforcement?</p></statement>
@@ -166,13 +166,13 @@
 <exercise number="32"><statement><p>Jackie invested $500 in Comco stock and earned $27 in dividends.  Petra invested $800 in Valcom stock and earned $48 in dividends.  Which stock was the better investment?</p></statement></exercise>
 
 <exercise number="33"><statement><sidebyside widths="55% 40%" valigns="middle middle"><p>The rectangle in the figure is called a Golden Rectangle, and the ratio of its length to its width is called the Golden Ratio. Rectangles of this shape are considered to be the most visually pleasing. If the dimensions of a Golden Rectangle are 8.9 centimeters and 5.5 centimeters, calculate the Golden Ratio.</p>
-    <image source="goldenrectangle.png"></image></sidebyside></statement>
+    <image source="goldenrectangle.png"><description>golden rectangle</description></image></sidebyside></statement>
 <answer><p>1.618</p></answer></exercise>  
 
 <exercise number="34"><statement><p>Measure your height, and then measure the height from the floor to your navel.  For most people, the ratio of their height to their navel height is approximately equal to the Golden Ratio.  Compute the ratio for your own height.  Is the result close to the value you calculated in Problem 33?</p></statement></exercise>
 </exercisegroup>
 
-<exercisegroup><introduction><p>For Problems 35-44, write a rate to describe the situation. If necessary, round your answers to three decimal places.</p></introduction>
+<exercisegroup><title>Rates</title><introduction><p>For Problems 35-44, write a rate to describe the situation. If necessary, round your answers to three decimal places.</p></introduction>
 
 <exercise number="35"><statement><p>An experimental commuter minivan can travel 576 miles on a 12-gallon tank of gas.</p>
 <p><ol marker="a.">
